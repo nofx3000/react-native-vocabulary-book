@@ -26,7 +26,7 @@ function App(): JSX.Element {
   };
 
   return (
-    <SafeAreaProvider>
+    <SafeAreaProvider style={styles.root}>
       <StatusBar />
       <NavigationContainer>
         <Drawer.Navigator>{renderDirectory()}</Drawer.Navigator>
@@ -35,6 +35,11 @@ function App(): JSX.Element {
   );
 }
 
-const styles = StyleSheet.create({});
+const styles = StyleSheet.create({
+  root: {
+    width: '100%',
+    height: '100%',
+  },
+});
 
 export default App;

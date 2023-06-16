@@ -1,5 +1,12 @@
 import React, {useState, FC} from 'react';
-import {View, StyleSheet, Text, TouchableOpacity, Image} from 'react-native';
+import {
+  ScrollView,
+  Dimensions,
+  StyleSheet,
+  Text,
+  TouchableOpacity,
+  Image,
+} from 'react-native';
 
 import icon_switch from '../assets/icon_switch.png';
 
@@ -7,12 +14,18 @@ function App({route, navigation}): JSX.Element {
   const [switched, setSwitched] = useState<boolean>(false);
   const chapter: ChapterInter = route.params.chapter;
   return (
-    <View style={styles.root}>
-      {chapter.vocabularys.map((item: VocabularyInter) => {
-        return (
-          <VocabularayContainer item={item} key={item.en} switched={switched} />
-        );
-      })}
+    <>
+      <ScrollView style={styles.root}>
+        {chapter.vocabularys.map((item: VocabularyInter) => {
+          return (
+            <VocabularayContainer
+              item={item}
+              key={item.en}
+              switched={switched}
+            />
+          );
+        })}
+      </ScrollView>
       <TouchableOpacity
         style={styles.switchButton}
         onPress={() => {
@@ -20,14 +33,14 @@ function App({route, navigation}): JSX.Element {
         }}>
         <Image source={icon_switch} style={styles.switchIcon} />
       </TouchableOpacity>
-    </View>
+    </>
   );
 }
 
 const styles = StyleSheet.create({
   root: {
     width: '100%',
-    height: '100%',
+    height: Dimensions.get('screen').height,
     paddingLeft: 20,
   },
   switchButton: {
@@ -88,6 +101,7 @@ const VocabularayContainer: FC<VocabularyContainerProps> = (
       </Text>
       {showTrans ? (
         <Text style={[styles.right, deleted ? styles.delete : undefined]}>
+          {item.property + '.   '}
           {switched ? item.en : item.cn}
         </Text>
       ) : undefined}

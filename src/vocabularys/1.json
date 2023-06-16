@@ -11,6 +11,501 @@
       "en": "hydrosphere",
       "cn": "水圈，大气中的水汽",
       "property": "n"
+    },
+    {
+      "en": "lithosphere",
+      "cn": "岩石圈",
+      "property": "n"
+    },
+    {
+      "en": "oxygen",
+      "cn": "氧气",
+      "property": "n"
+    },
+    {
+      "en": "oxide",
+      "cn": "氧化物",
+      "property": "n"
+    },
+    {
+      "en": "carbon dioxide",
+      "cn": "二氧化碳",
+      "property": "n"
+    },
+    {
+      "en": "hydrogen",
+      "cn": "氢气",
+      "property": "n"
+    },
+    {
+      "en": "core",
+      "cn": "核心，中心；地核",
+      "property": "n"
+    },
+    {
+      "en": "crust",
+      "cn": "地壳；外壳",
+      "property": "n"
+    },
+    {
+      "en": "mantle",
+      "cn": "地幔；斗篷，披风；覆盖",
+      "property": "n，v"
+    },
+    {
+      "en": "longitude",
+      "cn": "经度",
+      "property": "n"
+    },
+    {
+      "en": "latitude",
+      "cn": "纬度",
+      "property": "n"
+    },
+    {
+      "en": "horizon",
+      "cn": "地平线；眼界，见识",
+      "property": "n"
+    },
+    {
+      "en": "altitude",
+      "cn": "海拔",
+      "property": "n"
+    },
+    {
+      "en": "disaster",
+      "cn": "灾难",
+      "property": "n"
+    },
+    {
+      "en": "mishap",
+      "cn": "小灾难",
+      "property": "n"
+    },
+    {
+      "en": "catastrophe",
+      "cn": "灾难性的",
+      "property": "adj"
+    },
+    {
+      "en": "calamity",
+      "cn": "灾难，不幸的事",
+      "property": "n"
+    },
+    {
+      "en": "endanger",
+      "cn": "事遭受危险，危及",
+      "property": "v"
+    },
+    {
+      "en": "jeopardise",
+      "cn": "危害，危及",
+      "property": "v"
+    },
+    {
+      "en": "destructive",
+      "cn": "破坏性的，有害的",
+      "property": "adj"
+    },
+    {
+      "en": "greenhouse",
+      "cn": "温室，暖房",
+      "property": "n"
+    },
+    {
+      "en": "phenomenon",
+      "cn": "现象",
+      "property": "n"
+    },
+    {
+      "en": "pebble",
+      "cn": "鹅卵石",
+      "property": "n"
+    },
+    {
+      "en": "magnet",
+      "cn": "磁铁，吸铁石",
+      "property": "n"
+    },
+    {
+      "en": "ore",
+      "cn": "矿石；矿",
+      "property": "n"
+    },
+    {
+      "en": "mineral",
+      "cn": "矿物，矿物质；矿产",
+      "property": "n"
+    },
+    {
+      "en": "marble",
+      "cn": "大理石；弹球",
+      "property": "n"
+    },
+    {
+      "en": "quartz",
+      "cn": "石英",
+      "property": "n"
+    },
+    {
+      "en": "granite",
+      "cn": "花岗岩",
+      "property": "n"
+    },
+    {
+      "en": "gust",
+      "cn": "一阵狂风；（感情的）迸发",
+      "property": "n"
+    },
+    {
+      "en": "breeze",
+      "cn": "微风，和风",
+      "property": "n"
+    },
+    {
+      "en": "monsoon",
+      "cn": "季风，雨季",
+      "property": "n"
+    },
+    {
+      "en": "gale",
+      "cn": "大风",
+      "property": "n"
+    },
+    {
+      "en": "hurricane",
+      "cn": "飓风；暴风",
+      "property": "n"
+    },
+    {
+      "en": "tornado",
+      "cn": "龙卷风",
+      "property": "n"
+    },
+    {
+      "en": "typhoon",
+      "cn": "台风",
+      "property": "n"
+    },
+    {
+      "en": "volcano",
+      "cn": "火山",
+      "property": "n"
+    },
+    {
+      "en": "erupt",
+      "cn": "爆发，喷发；（斑疹等）突然出现",
+      "property": "v"
+    },
+    {
+      "en": "magma",
+      "cn": "岩浆",
+      "property": "n"
+    },
+    {
+      "en": "thermodynamic",
+      "cn": "热力的；热力学的",
+      "property": "adj"
+    },
+    {
+      "en": "smog",
+      "cn": "烟雾，雾霾",
+      "property": "n"
+    },
+    {
+      "en": "fume",
+      "cn": "（有害的）气体，烟；冒烟，发怒",
+      "property": "n，v"
+    },
+    {
+      "en": "mist",
+      "cn": "薄雾；水汽；模糊视线的东西",
+      "property": "n"
+    },
+    {
+      "en": "tsunami",
+      "cn": "海啸",
+      "property": "n"
+    },
+    {
+      "en": "drought",
+      "cn": "干旱，旱灾",
+      "property": "n"
+    },
+    {
+      "en": "flooding",
+      "cn": "洪水泛滥",
+      "property": "n"
+    },
+    {
+      "en": "torrent",
+      "cn": "激流，洪流",
+      "property": "n"
+    },
+    {
+      "en": "earthqu",
+      "cn": "地震",
+      "property": "n"
+    },
+    {
+      "en": "tornado",
+      "cn": "龙卷风",
+      "property": "n"
+    },
+    {
+      "en": "seismic",
+      "cn": "地震的，地震引起的",
+      "property": "adj"
+    },
+    {
+      "en": "avalanche",
+      "cn": "雪崩",
+      "property": "n"
+    },
+    {
+      "en": "terrain",
+      "cn": "地形",
+      "property": "n"
+    },
+    {
+      "en": "landscape",
+      "cn": "风景，地貌；对...进行景观美化",
+      "property": "n，v"
+    },
+    {
+      "en": "continent",
+      "cn": "龙卷风",
+      "property": "n"
+    },
+    {
+      "en": "cave",
+      "cn": "洞穴，山洞",
+      "property": "n"
+    },
+    {
+      "en": "cliff",
+      "cn": "悬崖，峭壁",
+      "property": "n"
+    },
+    {
+      "en": "glacier",
+      "cn": "冰河，冰川",
+      "property": "n"
+    },
+    {
+      "en": "swamp",
+      "cn": "沼泽，湿地",
+      "property": "n"
+    },
+    {
+      "en": "delta",
+      "cn": "三角洲",
+      "property": "n"
+    },
+    {
+      "en": "plain",
+      "cn": "平原",
+      "property": "n"
+    },
+    {
+      "en": "plateau",
+      "cn": "高原",
+      "property": "n"
+    },
+    {
+      "en": "oasis",
+      "cn": "绿洲",
+      "property": "n"
+    },
+    {
+      "en": "globe",
+      "cn": "球体；地球仪；地球",
+      "property": "n"
+    },
+    {
+      "en": "hemisphere",
+      "cn": "半球",
+      "property": "n"
+    },
+    {
+      "en": "equator",
+      "cn": "赤道",
+      "property": "n"
+    },
+    {
+      "en": "arctic",
+      "cn": "极冷的；北极的；北极地区",
+      "property": "adj，n"
+    },
+    {
+      "en": "antarctic",
+      "cn": "南极的；南极地区",
+      "property": "adj，n"
+    },
+    {
+      "en": "pole",
+      "cn": "（地）极；两极之一",
+      "property": "n"
+    },
+    {
+      "en": "polar",
+      "cn": "极地的，近极地的；对立的",
+      "property": "adj"
+    },
+    {
+      "en": "axis",
+      "cn": "轴",
+      "property": "n"
+    },
+    {
+      "en": "deteriorate",
+      "cn": "恶化，变化",
+      "property": "v"
+    },
+    {
+      "en": "aggravate",
+      "cn": "加重，加剧，使恶化",
+      "property": "v"
+    },
+    {
+      "en": "degrade",
+      "cn": "降解；降低...的身份；使恶化，使退化",
+      "property": "v"
+    },
+    {
+      "en": "upgrade",
+      "cn": "使升级；提高，改善",
+      "property": "v"
+    },
+    {
+      "en": "erode",
+      "cn": "腐蚀，侵蚀",
+      "property": "v"
+    },
+    {
+      "en": "Mediterranean",
+      "cn": "地中海的；地中海",
+      "property": "adj，n"
+    },
+    {
+      "en": "Atlantic",
+      "cn": "大西洋的；大西洋",
+      "property": "adj，n"
+    },
+    {
+      "en": "pacific",
+      "cn": "平静的，和平的；太平洋的；太平洋",
+      "property": "adj，n"
+    },
+    {
+      "en": "ocean",
+      "cn": "海洋",
+      "property": "n"
+    },
+    {
+      "en": "marine",
+      "cn": "海洋的；海事的；水兵",
+      "property": "adj，n"
+    },
+    {
+      "en": "navigation",
+      "cn": "航行；航海",
+      "property": "n"
+    },
+    {
+      "en": "gulf",
+      "cn": "海湾",
+      "property": "n"
+    },
+    {
+      "en": "beanch",
+      "cn": "海滩，河滩",
+      "property": "n"
+    },
+    {
+      "en": "coast",
+      "cn": "海岸，海滨",
+      "property": "n"
+    },
+    {
+      "en": "shore",
+      "cn": "岸，滨",
+      "property": "n"
+    },
+    {
+      "en": "tide",
+      "cn": "趋势，潮流；潮汐",
+      "property": "n"
+    },
+    {
+      "en": "current",
+      "cn": "水流，潮流；电流；气流；现在",
+      "property": "n"
+    },
+    {
+      "en": "brook",
+      "cn": "小河，溪",
+      "property": "n"
+    },
+    {
+      "en": "stream",
+      "cn": "小河，溪；流；流动，流出",
+      "property": "n，v"
+    },
+    {
+      "en": "shallow",
+      "cn": "浅的，肤浅的，浅薄的",
+      "property": "adj"
+    },
+    {
+      "en": "superficial",
+      "cn": "表皮的，表层的",
+      "property": "adj"
+    },
+    {
+      "en": "flat",
+      "cn": "平坦的；扁平的；单调的",
+      "property": "adj"
+    },
+    {
+      "en": "smooth",
+      "cn": "光滑的；平稳的；流畅的",
+      "property": "adj"
+    },
+    {
+      "en": "rough",
+      "cn": "粗糙的；粗略的",
+      "property": "adj"
+    },
+    {
+      "en": "sandy",
+      "cn": "铺满沙的；含沙的",
+      "property": "adj"
+    },
+    {
+      "en": "stony",
+      "cn": "石头的，多石的",
+      "property": "adj"
+    },
+    {
+      "en": "vertical",
+      "cn": "垂直的，直立的",
+      "property": "adj"
+    },
+    {
+      "en": "steep",
+      "cn": "陡峭的，陡直的",
+      "property": "adj"
+    },
+    {
+      "en": "parallel",
+      "cn": "平行线；相思之物；平行的；与..相似，比得上",
+      "property": "n，adj，v"
+    },
+    {
+      "en": "narrow",
+      "cn": "狭窄的；有局限的；海峡；变窄",
+      "property": "adj，n，v"
     }
   ]
 }

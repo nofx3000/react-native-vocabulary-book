@@ -1,0 +1,16 @@
+{
+  "chapter": 1,
+  "name": "nature and geography",
+  "vocabularys": [
+    {
+      "en": "atmosphere",
+      "cn": "大气层，大气圈；气氛",
+      "property": "n"
+    },
+    {
+      "en": "hydrosphere",
+      "cn": "水圈，大气中的水汽",
+      "property": "n"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "chapter": 2,
+  "name": "plant research",
+  "vocabularys": [
+    {
+      "en": "photosynthesis",
+      "cn": "光合作用",
+      "property": "n"
+    },
+    {
+      "en": "repire",
+      "cn": "呼吸",
+      "property": "v"
+    }
+  ]
+}

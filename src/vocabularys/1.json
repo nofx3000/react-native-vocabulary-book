@@ -248,11 +248,6 @@
       "property": "n"
     },
     {
-      "en": "tornado",
-      "cn": "龙卷风",
-      "property": "n"
-    },
-    {
       "en": "seismic",
       "cn": "地震的，地震引起的",
       "property": "adj"
@@ -506,6 +501,666 @@
       "en": "narrow",
       "cn": "狭窄的；有局限的；海峡；变窄",
       "property": "adj，n，v"
+    },
+    {
+      "en": "Oceania",
+      "cn": "大洋洲",
+      "property": "n"
+    },
+    {
+      "en": "mainland",
+      "cn": "本土",
+      "property": "n"
+    },
+    {
+      "en": "peninsula",
+      "cn": "半岛",
+      "property": "n"
+    },
+    {
+      "en": "climate",
+      "cn": "气候；风气，思潮",
+      "property": "n"
+    },
+    {
+      "en": "weather",
+      "cn": "天气，气象",
+      "property": "n"
+    },
+    {
+      "en": "meteorology",
+      "cn": "气象学",
+      "property": "n"
+    },
+    {
+      "en": "mild",
+      "cn": "温和的；不严重的",
+      "property": "adj"
+    },
+    {
+      "en": "heating",
+      "cn": "供暖；暖气装置",
+      "property": "n"
+    },
+    {
+      "en": "moderate",
+      "cn": "适度的；温和的；中等的；使缓和",
+      "property": "n，v"
+    },
+    {
+      "en": "thermal",
+      "cn": "热量的",
+      "property": "adj"
+    },
+    {
+      "en": "tropics",
+      "cn": "热带地区",
+      "property": "n"
+    },
+    {
+      "en": "arid",
+      "cn": "干燥的，干旱的；枯燥的",
+      "property": "adj"
+    },
+    {
+      "en": "moist",
+      "cn": "潮湿的，湿润的",
+      "property": "adj"
+    },
+    {
+      "en": "damp",
+      "cn": "潮湿的，湿热的",
+      "property": "adj"
+    },
+    {
+      "en": "humid",
+      "cn": "潮湿的，湿热的",
+      "property": "adj"
+    },
+    {
+      "en": "snowy",
+      "cn": "多雪的，被雪覆盖的",
+      "property": "adj"
+    },
+    {
+      "en": "frost",
+      "cn": "霜；霜冻；严寒",
+      "property": "n"
+    },
+    {
+      "en": "hail",
+      "cn": "雹，冰雹；赞扬；招呼；下雹",
+      "property": "n，v"
+    },
+    {
+      "en": "thaw",
+      "cn": "解冻，融解，融化；解冻时期",
+      "property": "v，n"
+    },
+    {
+      "en": "chill",
+      "cn": "变冷；使恐惧；寒冷；害怕",
+      "property": "v，n"
+    },
+    {
+      "en": "freeze",
+      "cn": "结冰；霜冻，严寒期",
+      "property": "v，n"
+    },
+    {
+      "en": "frigid",
+      "cn": "寒冷的",
+      "property": "adj"
+    },
+    {
+      "en": "trmble",
+      "cn": "战栗，颤抖",
+      "property": "n，v"
+    },
+    {
+      "en": "shiver",
+      "cn": "颤抖，哆嗦，发抖",
+      "property": "v"
+    },
+    {
+      "en": "thunder",
+      "cn": "雷；雷声；打雷",
+      "property": "n，v"
+    },
+    {
+      "en": "lightning",
+      "cn": "闪电；闪电般地，极快的",
+      "property": "adj"
+    },
+    {
+      "en": "stormy",
+      "cn": "有暴风雨的；激烈争吵的；波涛汹涌的",
+      "property": "adj"
+    },
+    {
+      "en": "downpour",
+      "cn": "倾盆大雨",
+      "property": "n"
+    },
+    {
+      "en": "rainfall",
+      "cn": "降雨量",
+      "property": "n"
+    },
+    {
+      "en": "sprinkle",
+      "cn": "撒；下小雨；少量；小雨",
+      "property": "v，n"
+    },
+    {
+      "en": "rainbow",
+      "cn": "彩虹",
+      "property": "n"
+    },
+    {
+      "en": "shower",
+      "cn": "阵雨；淋雨",
+      "property": "n"
+    },
+    {
+      "en": "Celsius",
+      "cn": "摄氏的；摄氏温度",
+      "property": "adj，n"
+    },
+    {
+      "en": "temperature",
+      "cn": "气温；体温；温度",
+      "property": "n"
+    },
+    {
+      "en": "forecast",
+      "cn": "预测，预报",
+      "property": "n，v"
+    },
+    {
+      "en": "peak",
+      "cn": "山峰；顶点；达到最大值",
+      "property": "n，v"
+    },
+    {
+      "en": "mount",
+      "cn": "逐渐增加；爬上；登上；山",
+      "property": "v，n"
+    },
+    {
+      "en": "mountain",
+      "cn": "山",
+      "property": "n"
+    },
+    {
+      "en": "range",
+      "cn": "山脉；范围",
+      "property": "n"
+    },
+    {
+      "en": "ridge",
+      "cn": "山脊，山脉；使隆起",
+      "property": "n，v"
+    },
+    {
+      "en": "slope",
+      "cn": "倾斜；有坡度；山坡，斜坡",
+      "property": "v，n"
+    },
+    {
+      "en": "valley",
+      "cn": "山谷，溪谷",
+      "property": "n"
+    },
+    {
+      "en": "hillside",
+      "cn": "山腰，山坡",
+      "property": "n"
+    },
+    {
+      "en": "overlook",
+      "cn": "俯瞰，远眺；未注意到",
+      "property": "v"
+    },
+    {
+      "en": "southern",
+      "cn": "南部的",
+      "property": "adj"
+    },
+    {
+      "en": "southeast",
+      "cn": "东南的，东南部",
+      "property": "adj，n"
+    },
+    {
+      "en": "southwest",
+      "cn": "西南方，西南的",
+      "property": "n，adj"
+    },
+    {
+      "en": "oriental",
+      "cn": "东方的（中国和日本）",
+      "property": "adj"
+    },
+    {
+      "en": "inevitable",
+      "cn": "不可避免的，必然的",
+      "property": "adj"
+    },
+    {
+      "en": "irreversible",
+      "cn": "不可逆转的，不可挽回的",
+      "property": "adj"
+    },
+    {
+      "en": "irregularly",
+      "cn": "不规则的，不合常规的",
+      "property": "adv"
+    },
+    {
+      "en": "inappropriate",
+      "cn": "不合适的",
+      "property": "adj"
+    },
+    {
+      "en": "abnormal",
+      "cn": "不正常的",
+      "property": "adj"
+    },
+    {
+      "en": "sediment",
+      "cn": "沉淀物；沉积物",
+      "property": "n"
+    },
+    {
+      "en": "silt",
+      "cn": "淤泥，泥沙；使淤积",
+      "property": "n，v"
+    },
+    {
+      "en": "muddy",
+      "cn": "泥泞的",
+      "property": "adj"
+    },
+    {
+      "en": "clay",
+      "cn": "陶土，粘土",
+      "property": "n"
+    },
+    {
+      "en": "dirt",
+      "cn": "污垢，灰尘",
+      "property": "n"
+    },
+    {
+      "en": "rural",
+      "cn": "乡村的，农村的，田园的",
+      "property": "adj"
+    },
+    {
+      "en": "suburb",
+      "cn": "郊区，郊外，近郊",
+      "property": "n"
+    },
+    {
+      "en": "outskirts",
+      "cn": "郊区，市郊",
+      "property": "n"
+    },
+    {
+      "en": "remote",
+      "cn": "遥远的，偏僻的，疏远的",
+      "property": "adj"
+    },
+    {
+      "en": "desolate",
+      "cn": "荒凉的",
+      "property": "adj"
+    },
+    {
+      "en": "distant",
+      "cn": "疏远的，遥远的",
+      "property": "adj"
+    },
+    {
+      "en": "adjacent",
+      "cn": "邻近的，毗连的",
+      "property": "adj"
+    },
+    {
+      "en": "toxic",
+      "cn": "有毒的",
+      "property": "adj"
+    },
+    {
+      "en": "pollution",
+      "cn": "污染",
+      "property": "n"
+    },
+    {
+      "en": "pollutant",
+      "cn": "污染物",
+      "property": "n"
+    },
+    {
+      "en": "contaminate",
+      "cn": "弄脏，污染",
+      "property": "v"
+    },
+    {
+      "en": "geology",
+      "cn": "地质学，地质状况",
+      "property": "n"
+    },
+    {
+      "en": "border",
+      "cn": "边界；边界地区；和。。。毗邻；形成。。。的边界",
+      "property": "n，v"
+    },
+    {
+      "en": "margin",
+      "cn": "边缘；页边空白；余地；差距",
+      "property": "n"
+    },
+    {
+      "en": "fringe",
+      "cn": "边缘；刘海；次要的，非主流的",
+      "property": "n，adj"
+    },
+    {
+      "en": "plate",
+      "cn": "板块；盘",
+      "property": "n"
+    },
+    {
+      "en": "debris",
+      "cn": "碎片，残骸",
+      "property": "n"
+    },
+    {
+      "en": "crack",
+      "cn": "破裂；发出爆炸声；裂缝；缝隙",
+      "property": "v，n"
+    },
+    {
+      "en": "gap",
+      "cn": "缺口，裂缝，差距，空白",
+      "property": "n"
+    },
+    {
+      "en": "splendid",
+      "cn": "极好的，壮观的",
+      "property": "adj"
+    },
+    {
+      "en": "grand",
+      "cn": "宏大的，豪华的，雄伟的",
+      "property": "adj"
+    },
+    {
+      "en": "magnificent",
+      "cn": "壮丽的，雄伟的",
+      "property": "adj"
+    },
+    {
+      "en": "dramatic",
+      "cn": "戏剧的，引人注目的",
+      "property": "adj"
+    },
+    {
+      "en": "wilderness",
+      "cn": "荒野",
+      "property": "n"
+    },
+    {
+      "en": "desert",
+      "cn": "沙漠；离弃，遗弃",
+      "property": "n"
+    },
+    {
+      "en": "deforest",
+      "cn": "毁掉。。森林",
+      "property": "v"
+    },
+    {
+      "en": "barren",
+      "cn": "贫瘠的，荒芜的，不结果实的",
+      "property": "adj"
+    },
+    {
+      "en": "fertile",
+      "cn": "肥沃的，富饶的",
+      "property": "adj"
+    },
+    {
+      "en": "fertilise",
+      "cn": "施肥于",
+      "property": "v"
+    },
+    {
+      "en": "solar",
+      "cn": "太阳的，日光的",
+      "property": "n"
+    },
+    {
+      "en": "lunar",
+      "cn": "月亮的，月球的",
+      "property": "adj"
+    },
+    {
+      "en": "calender",
+      "cn": "日历",
+      "property": "n"
+    },
+    {
+      "en": "sunrise",
+      "cn": "日出",
+      "property": "n"
+    },
+    {
+      "en": "sunset",
+      "cn": "日落",
+      "property": "n"
+    },
+    {
+      "en": "eclipse",
+      "cn": "日食，月食",
+      "property": "n"
+    },
+    {
+      "en": "dusk",
+      "cn": "黄昏，傍晚",
+      "property": "n"
+    },
+    {
+      "en": "heaven",
+      "cn": "天堂",
+      "property": "n"
+    },
+    {
+      "en": "paradise",
+      "cn": "天堂，乐园，福地",
+      "property": "n"
+    },
+    {
+      "en": "sunshine",
+      "cn": "日光，阳光",
+      "property": "n"
+    },
+    {
+      "en": "shade",
+      "cn": "阴影部分，背阴处；给。。。遮光",
+      "property": "n，v"
+    },
+    {
+      "en": "shadow",
+      "cn": "影子",
+      "property": "n"
+    },
+    {
+      "en": "vapour",
+      "cn": "水汽，雾气",
+      "property": "n"
+    },
+    {
+      "en": "evaporate",
+      "cn": "使蒸发，消失",
+      "property": "v"
+    },
+    {
+      "en": "circulate",
+      "cn": "使循环，使流通，使传播",
+      "property": "v"
+    },
+    {
+      "en": "precipitate",
+      "cn": "（水汽）凝结；沉淀",
+      "property": "n"
+    },
+    {
+      "en": "reservoir",
+      "cn": "水库，蓄水池",
+      "property": "n"
+    },
+    {
+      "en": "waterfall",
+      "cn": "瀑布",
+      "property": "n"
+    },
+    {
+      "en": "fountain",
+      "cn": "喷泉，源泉",
+      "property": "n"
+    },
+    {
+      "en": "spring",
+      "cn": "春天，泉水",
+      "property": "n"
+    },
+    {
+      "en": "dew",
+      "cn": "露水",
+      "property": "n"
+    },
+    {
+      "en": "pour",
+      "cn": "倾斜，倒下",
+      "property": "v"
+    },
+    {
+      "en": "drain",
+      "cn": "排空，使流出；耗竭",
+      "property": "v，n"
+    },
+    {
+      "en": "drip",
+      "cn": "滴出，滴下",
+      "property": "v"
+    },
+    {
+      "en": "drown",
+      "cn": "淹死；浸泡",
+      "property": "v"
+    },
+    {
+      "en": "blow",
+      "cn": "吹；打击，挫折",
+      "property": "v，n"
+    },
+    {
+      "en": "puff",
+      "cn": "喷出，喘息；一股，一缕",
+      "property": "v，n"
+    },
+    {
+      "en": "gush",
+      "cn": "涌出",
+      "property": "n，v"
+    },
+    {
+      "en": "dense",
+      "cn": "密集的，稠密的",
+      "property": "adj"
+    },
+    {
+      "en": "density",
+      "cn": "密度",
+      "property": "n"
+    },
+    {
+      "en": "intensity",
+      "cn": "强度；强烈",
+      "property": "n"
+    },
+    {
+      "en": "intensive",
+      "cn": "加强的，集中的，密集的",
+      "property": "adj"
+    },
+    {
+      "en": "emerge",
+      "cn": "浮现，露出；暴露",
+      "property": "v"
+    },
+    {
+      "en": "environment",
+      "cn": "环境",
+      "property": "n"
+    },
+    {
+      "en": "surrounding",
+      "cn": "周围的，附近的",
+      "property": "adj"
+    },
+    {
+      "en": "condition",
+      "cn": "条件，情况，状态",
+      "property": "n"
+    },
+    {
+      "en": "situation",
+      "cn": "情况，处境，形势",
+      "property": "n"
+    },
+    {
+      "en": "nature",
+      "cn": "大自然，本性，本质",
+      "property": "n"
+    },
+    {
+      "en": "natural",
+      "cn": "天然的，自然的",
+      "property": "adj"
+    },
+    {
+      "en": "artificial",
+      "cn": "人造的",
+      "property": "adj"
+    },
+    {
+      "en": "synthetic",
+      "cn": "人造的，合成的；合成物",
+      "property": "adj，n"
+    },
+    {
+      "en": "petrol",
+      "cn": "汽油",
+      "property": "n"
+    },
+    {
+      "en": "gas",
+      "cn": "气体，汽油",
+      "property": "n"
+    },
+    {
+      "en": "gasoline",
+      "cn": "汽油",
+      "property": "n"
+    },
+    {
+      "en": "petroleum",
+      "cn": "石油",
+      "property": "n"
     }
   ]
 }

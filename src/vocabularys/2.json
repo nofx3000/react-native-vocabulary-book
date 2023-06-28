@@ -11,6 +11,621 @@
       "en": "repire",
       "cn": "呼吸",
       "property": "v"
+    },
+    {
+      "en": "doxide",
+      "cn": "二氧化瘀",
+      "property": "n"
+    },
+    {
+      "en": "vegetation",
+      "cn": "植物，草木",
+      "property": "n"
+    },
+    {
+      "en": "herb",
+      "cn": "草药，香草",
+      "property": "n"
+    },
+    {
+      "en": "perennial",
+      "cn": "多年生植物；长期的，持久的",
+      "property": "n，adj"
+    },
+    {
+      "en": "botany",
+      "cn": "植物学",
+      "property": "n"
+    },
+    {
+      "en": "ecology",
+      "cn": "生态学，生态",
+      "property": "n"
+    },
+    {
+      "en": "ecosystem",
+      "cn": "生态系统",
+      "property": "n"
+    },
+    {
+      "en": "eco-friendly",
+      "cn": "对环境友好的",
+      "property": "adj"
+    },
+    {
+      "en": "horticulture",
+      "cn": "园艺学；园艺",
+      "property": "n"
+    },
+    {
+      "en": "organism",
+      "cn": "有机体；生物",
+      "property": "n"
+    },
+    {
+      "en": "genetics",
+      "cn": "遗传学",
+      "property": "n"
+    },
+    {
+      "en": "mutation",
+      "cn": "变异，突变",
+      "property": "n"
+    },
+    {
+      "en": "variation",
+      "cn": "变种，变异",
+      "property": "n"
+    },
+    {
+      "en": "diversity",
+      "cn": "多样性",
+      "property": "n"
+    },
+    {
+      "en": "hybridisation",
+      "cn": "杂交",
+      "property": "n"
+    },
+    {
+      "en": "classify",
+      "cn": "分类",
+      "property": "v"
+    },
+    {
+      "en": "reproduce",
+      "cn": "繁殖",
+      "property": "v"
+    },
+    {
+      "en": "evolve",
+      "cn": "进化，发展，使逐步形成",
+      "property": "v"
+    },
+    {
+      "en": "fluctuate",
+      "cn": "波动，起伏",
+      "property": "v"
+    },
+    {
+      "en": "reclaim",
+      "cn": "开垦，开拓，利用",
+      "property": "v"
+    },
+    {
+      "en": "cultivate",
+      "cn": "耕作，培养",
+      "property": "v"
+    },
+    {
+      "en": "sow",
+      "cn": "播种",
+      "property": "v"
+    },
+    {
+      "en": "harvest",
+      "cn": "收割，收获，收成",
+      "property": "v，n"
+    },
+    {
+      "en": "pluck",
+      "cn": "采摘",
+      "property": "v"
+    },
+    {
+      "en": "pick",
+      "cn": "捡，摘",
+      "property": "v"
+    },
+    {
+      "en": "yield",
+      "cn": "出产；屈服，服从；产量；投资收益",
+      "property": "v，n"
+    },
+    {
+      "en": "rear",
+      "cn": "培养，抚养；饲养；后部",
+      "property": "v，n"
+    },
+    {
+      "en": "arable",
+      "cn": "适于耕种的",
+      "property": "adj"
+    },
+    {
+      "en": "plough（plow）",
+      "cn": "犁，耕地",
+      "property": "n，v"
+    },
+    {
+      "en": "spade",
+      "cn": "锹，铲",
+      "property": "n"
+    },
+    {
+      "en": "rake",
+      "cn": "耙子；耙，搜索",
+      "property": "n，v"
+    },
+    {
+      "en": "stack",
+      "cn": "堆，垛",
+      "property": "n"
+    },
+    {
+      "en": "heap",
+      "cn": "堆",
+      "property": "n"
+    },
+    {
+      "en": "bundle",
+      "cn": "捆，包，束",
+      "property": "n"
+    },
+    {
+      "en": "vase",
+      "cn": "瓶，花瓶",
+      "property": "n"
+    },
+    {
+      "en": "sunlight",
+      "cn": "阳光",
+      "property": "n"
+    },
+    {
+      "en": "short-day",
+      "cn": "短日照的",
+      "property": "adj"
+    },
+    {
+      "en": "shade-tolerant",
+      "cn": "耐阴的",
+      "property": "adj"
+    },
+    {
+      "en": "fungus",
+      "cn": "真菌",
+      "property": "n"
+    },
+    {
+      "en": "mould",
+      "cn": "霉菌；发霉",
+      "property": "n，v"
+    },
+    {
+      "en": "pollen",
+      "cn": "花粉；给。。。授粉",
+      "property": "n，v"
+    },
+    {
+      "en": "germinate",
+      "cn": "发芽；开始生长",
+      "property": "v"
+    },
+    {
+      "en": "seed",
+      "cn": "种子，籽；萌芽",
+      "property": "n"
+    },
+    {
+      "en": "burgeon",
+      "cn": "嫩枝，新芽；急速增长；发芽，抽枝",
+      "property": "n，v"
+    },
+    {
+      "en": "bud",
+      "cn": "芽，苞，蓓蕾",
+      "property": "n"
+    },
+    {
+      "en": "flower",
+      "cn": "开花，花朵",
+      "property": "v，n"
+    },
+    {
+      "en": "blossom",
+      "cn": "开花，花朵",
+      "property": "v，n"
+    },
+    {
+      "en": "bloom",
+      "cn": "花朵",
+      "property": "n"
+    },
+    {
+      "en": "scent",
+      "cn": "气味；香味；使。。有香气",
+      "property": "n，v"
+    },
+    {
+      "en": "aromatic",
+      "cn": "芳香的",
+      "property": "adj"
+    },
+    {
+      "en": "ripen",
+      "cn": "使成熟",
+      "property": "v"
+    },
+    {
+      "en": "fruit",
+      "cn": "结果实",
+      "property": "v"
+    },
+    {
+      "en": "wither",
+      "cn": "使枯萎",
+      "property": "v"
+    },
+    {
+      "en": "decompose",
+      "cn": "使分解；使腐烂",
+      "property": "v"
+    },
+    {
+      "en": "rot",
+      "cn": "使腐烂；腐烂",
+      "property": "v，n"
+    },
+    {
+      "en": "decay",
+      "cn": "腐烂",
+      "property": "v"
+    },
+    {
+      "en": "stale",
+      "cn": "不新鲜的；没新意的，陈腐的",
+      "property": "adj"
+    },
+    {
+      "en": "rainforest",
+      "cn": "雨林",
+      "property": "n"
+    },
+    {
+      "en": "plantation",
+      "cn": "种植园，栽植",
+      "property": "n"
+    },
+    {
+      "en": "field",
+      "cn": "原野，场地，野外",
+      "property": "n"
+    },
+    {
+      "en": "terrace",
+      "cn": "梯田",
+      "property": "n"
+    },
+    {
+      "en": "timber",
+      "cn": "木材，木料；林木",
+      "property": "n"
+    },
+    {
+      "en": "charcoal",
+      "cn": "木炭",
+      "property": "n"
+    },
+    {
+      "en": "log",
+      "cn": "原木；日志",
+      "property": "n"
+    },
+    {
+      "en": "forestry",
+      "cn": "林学；林业",
+      "property": "n"
+    },
+    {
+      "en": "branch",
+      "cn": "树枝",
+      "property": "n"
+    },
+    {
+      "en": "trunk",
+      "cn": "树干；躯干；大箱子",
+      "property": "n"
+    },
+    {
+      "en": "bough",
+      "cn": "大树枝",
+      "property": "n"
+    },
+    {
+      "en": "hay",
+      "cn": "干草",
+      "property": "n"
+    },
+    {
+      "en": "straw",
+      "cn": "稻草，麦秆；吸管",
+      "property": "n"
+    },
+    {
+      "en": "reed",
+      "cn": "芦苇",
+      "property": "n"
+    },
+    {
+      "en": "thorn",
+      "cn": "此，荆棘",
+      "property": "n"
+    },
+    {
+      "en": "weed",
+      "cn": "杂草；除杂草",
+      "property": "n，v"
+    },
+    {
+      "en": "grass",
+      "cn": "草，草地",
+      "property": "n"
+    },
+    {
+      "en": "meadow",
+      "cn": "草地；牧场",
+      "property": "n"
+    },
+    {
+      "en": "lawn",
+      "cn": "草地，草坪",
+      "property": "n"
+    },
+    {
+      "en": "olive",
+      "cn": "橄榄；橄榄树",
+      "property": "n"
+    },
+    {
+      "en": "pine",
+      "cn": "松树",
+      "property": "n"
+    },
+    {
+      "en": "vine",
+      "cn": "葡萄藤",
+      "property": "n"
+    },
+    {
+      "en": "violet",
+      "cn": "堇菜",
+      "property": "n"
+    },
+    {
+      "en": "tulip",
+      "cn": "郁金香",
+      "property": "n"
+    },
+    {
+      "en": "mint",
+      "cn": "薄荷；铸造（硬币）",
+      "property": "n，v"
+    },
+    {
+      "en": "reef",
+      "cn": "暗礁，礁石",
+      "property": "n"
+    },
+    {
+      "en": "alga",
+      "cn": "海藻，藻",
+      "property": "n"
+    },
+    {
+      "en": "enzyme",
+      "cn": "酶",
+      "property": "n"
+    },
+    {
+      "en": "catalyst",
+      "cn": "催化剂，促进因素",
+      "property": "n"
+    },
+    {
+      "en": "release",
+      "cn": "释放，发布",
+      "property": "v，n"
+    },
+    {
+      "en": "emission",
+      "cn": "排放，散发，排放物",
+      "property": "n"
+    },
+    {
+      "en": "absorb",
+      "cn": "吸收",
+      "property": "v"
+    },
+    {
+      "en": "circulation",
+      "cn": "流通，循环，流传",
+      "property": "n"
+    },
+    {
+      "en": "exceed",
+      "cn": "超过",
+      "property": "v"
+    },
+    {
+      "en": "uptake",
+      "cn": "摄取，领会",
+      "property": "n"
+    },
+    {
+      "en": "nutrient",
+      "cn": "营养物质",
+      "property": "n"
+    },
+    {
+      "en": "energy",
+      "cn": "能源，精力",
+      "property": "n"
+    },
+    {
+      "en": "surroundings",
+      "cn": "环境",
+      "property": "n"
+    },
+    {
+      "en": "mechanism",
+      "cn": "机制；构造",
+      "property": "n"
+    },
+    {
+      "en": "counterbalance",
+      "cn": "起平衡作用的事物，抗衡力；抵消，堆。。起平衡作用",
+      "property": "n，v"
+    },
+    {
+      "en": "protect",
+      "cn": "保护",
+      "property": "v"
+    },
+    {
+      "en": "preserve",
+      "cn": "保护；维持；保存",
+      "property": "v"
+    },
+    {
+      "en": "conservation",
+      "cn": "对自然环境的保护；保存",
+      "property": "n"
+    },
+    {
+      "en": "bush fire",
+      "cn": "林区大火",
+      "property": "n"
+    },
+    {
+      "en": "extinguish",
+      "cn": "灭火；使感情、想法破灭",
+      "property": "v"
+    },
+    {
+      "en": "destruct",
+      "cn": "自毁，使自毁",
+      "property": "v"
+    },
+    {
+      "en": "ruin",
+      "cn": "毁坏，摧毁；毁灭，废墟",
+      "property": "v，n"
+    },
+    {
+      "en": "perish",
+      "cn": "毁灭，消亡；腐烂",
+      "property": "v"
+    },
+    {
+      "en": "demolish",
+      "cn": "拆除；损坏，破坏；推翻",
+      "property": "v"
+    },
+    {
+      "en": "infringe",
+      "cn": "侵犯，违反",
+      "property": "v"
+    },
+    {
+      "en": "undermine",
+      "cn": "破坏，逐渐削弱",
+      "property": "v"
+    },
+    {
+      "en": "extinction",
+      "cn": "灭绝",
+      "property": "n"
+    },
+    {
+      "en": "pattern",
+      "cn": "模式，样式",
+      "property": "n"
+    },
+    {
+      "en": "outcome",
+      "cn": "结果",
+      "property": "n"
+    },
+    {
+      "en": "impact",
+      "cn": "影响",
+      "property": "n"
+    },
+    {
+      "en": "seasonal",
+      "cn": "季节性的",
+      "property": "adj"
+    },
+    {
+      "en": "experimental",
+      "cn": "实验的；试验性的",
+      "property": "adj"
+    },
+    {
+      "en": "favourable",
+      "cn": "有利的，赞成的，肯定的",
+      "property": "adj"
+    },
+    {
+      "en": "productive",
+      "cn": "多产的",
+      "property": "adj"
+    },
+    {
+      "en": "effective",
+      "cn": "有效的",
+      "property": "adj"
+    },
+    {
+      "en": "efficient",
+      "cn": "效率高的",
+      "property": "adj"
+    },
+    {
+      "en": "considerable",
+      "cn": "相当多的",
+      "property": "adj"
+    },
+    {
+      "en": "massive",
+      "cn": "巨大的，大规模的",
+      "property": "adj"
+    },
+    {
+      "en": "immense",
+      "cn": "巨大的",
+      "property": "adj"
+    },
+    {
+      "en": "maximal",
+      "cn": "最大的",
+      "property": "adj"
+    },
+    {
+      "en": "optimal",
+      "cn": "最佳的，最理想的",
+      "property": "adj"
     }
   ]
 }

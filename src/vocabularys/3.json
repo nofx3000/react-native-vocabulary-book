@@ -1,0 +1,11 @@
+{
+  "chapter": 3,
+  "name": "test",
+  "vocabularys": [
+    {
+      "en": "test",
+      "cn": "测试",
+      "property": "n"
+    }
+  ]
+}

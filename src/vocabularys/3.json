@@ -1,11 +1,206 @@
 {
   "chapter": 3,
-  "name": "test",
+  "name": "animal",
   "vocabularys": [
     {
-      "en": "test",
-      "cn": "测试",
+      "en": "biologist",
+      "cn": "生物学家",
       "property": "n"
+    },
+    {
+      "en": "zoologist",
+      "cn": "动物学家",
+      "property": "n"
+    },
+    {
+      "en": "ecologist",
+      "cn": "生态学家",
+      "property": "n"
+    },
+    {
+      "en": "botanist",
+      "cn": "植物学家",
+      "property": "n"
+    },
+    {
+      "en": "mammal",
+      "cn": "哺乳动物",
+      "property": "n"
+    },
+    {
+      "en": "primate",
+      "cn": "灵长目动物",
+      "property": "n"
+    },
+    {
+      "en": "vertebrate",
+      "cn": "脊椎动物",
+      "property": "n"
+    },
+    {
+      "en": "reptile",
+      "cn": "爬行动物",
+      "property": "n"
+    },
+    {
+      "en": "amphibian",
+      "cn": "两栖动物；两栖的",
+      "property": "n，adj"
+    },
+    {
+      "en": "carnivore",
+      "cn": "食肉动物",
+      "property": "n"
+    },
+    {
+      "en": "creature",
+      "cn": "生物",
+      "property": "n"
+    },
+    {
+      "en": "wildlife",
+      "cn": "野生动物",
+      "property": "n"
+    },
+    {
+      "en": "fauna",
+      "cn": "（某一地区的）动物群",
+      "property": "n"
+    },
+    {
+      "en": "flora",
+      "cn": "（某一地区的）植物群",
+      "property": "n"
+    },
+    {
+      "en": "species",
+      "cn": "【单复数同形】物种，种",
+      "property": "n"
+    },
+    {
+      "en": "flock",
+      "cn": "群；聚集",
+      "property": "n，v"
+    },
+    {
+      "en": "herd",
+      "cn": "兽群、畜群",
+      "property": "n"
+    },
+    {
+      "en": "swarm",
+      "cn": "虫群；迅速移动的人群",
+      "property": "n"
+    },
+    {
+      "en": "thorng",
+      "cn": "一大群人；群集",
+      "property": "n，v"
+    },
+    {
+      "en": "crowd",
+      "cn": "人群；观众",
+      "property": "n"
+    },
+    {
+      "en": "beast",
+      "cn": "野兽，出生",
+      "property": "n"
+    },
+    {
+      "en": "brute",
+      "cn": "粗野的人，残忍的人",
+      "property": "n"
+    },
+    {
+      "en": "cruel",
+      "cn": "残酷的，残暴的",
+      "property": "n"
+    },
+    {
+      "en": "orginate",
+      "cn": "发源，源自",
+      "property": "v"
+    },
+    {
+      "en": "derive",
+      "cn": "得到；（使）源自",
+      "property": "n"
+    },
+    {
+      "en": "stem",
+      "cn": "起源于，来自；茎，梗",
+      "property": "v，n"
+    },
+    {
+      "en": "ancestor",
+      "cn": "祖先",
+      "property": "n"
+    },
+    {
+      "en": "descendant",
+      "cn": "后代；下降的",
+      "property": "n，adj"
+    },
+    {
+      "en": "offspring",
+      "cn": "后裔",
+      "property": "n"
+    },
+    {
+      "en": "subgroup",
+      "cn": "子群",
+      "property": "n"
+    },
+    {
+      "en": "feed",
+      "cn": "供给，喂养",
+      "property": "v"
+    },
+    {
+      "en": "breed",
+      "cn": "饲养，繁殖；品种",
+      "property": "v，n"
+    },
+    {
+      "en": "interbreed",
+      "cn": "（使）杂交，（使）生育混种",
+      "property": "v"
+    },
+    {
+      "en": "hybridise",
+      "cn": "（使）杂交",
+      "property": "v"
+    },
+    {
+      "en": "proliferate",
+      "cn": "迅速繁殖，剧增",
+      "property": "v"
+    },
+    {
+      "en": "sterility",
+      "cn": "不生育",
+      "property": "n"
+    },
+    {
+      "en": "mate",
+      "cn": "交配；配偶",
+      "property": "v，n"
+    },
+    {
+      "en": "courtship",
+      "cn": "求偶",
+      "property": "n"
+    },
+    {
+      "en": "lay",
+      "cn": "产卵；放置；铺设",
+      "property": "v"
+    },
+    {
+      "en": "hatch",
+      "cn": "孵化",
+      "property": "v/n"
     }
   ]
 }

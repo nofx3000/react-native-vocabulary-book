@@ -201,6 +201,366 @@
       "en": "hatch",
       "cn": "孵化",
       "property": "v/n"
+    },
+    {
+      "en": "brood",
+      "cn": "一窝幼鸟；孵（蛋）",
+      "property": "n；v"
+    },
+    {
+      "en": "spawn",
+      "cn": "卵；产卵；引起",
+      "property": "n，v"
+    },
+    {
+      "en": "mature",
+      "cn": "成熟的；成熟",
+      "property": "adj，v"
+    },
+    {
+      "en": "skin",
+      "cn": "皮肤",
+      "property": "n"
+    },
+    {
+      "en": "claw",
+      "cn": "爪；钳",
+      "property": "n"
+    },
+    {
+      "en": "paw",
+      "cn": "动物的脚掌",
+      "property": "n"
+    },
+    {
+      "en": "beak",
+      "cn": "鸟嘴",
+      "property": "n"
+    },
+    {
+      "en": "fin",
+      "cn": "鳍",
+      "property": "n"
+    },
+    {
+      "en": "wing",
+      "cn": "翅膀",
+      "property": "n"
+    },
+    {
+      "en": "plume",
+      "cn": "羽毛",
+      "property": "n"
+    },
+    {
+      "en": "feather",
+      "cn": "羽毛",
+      "property": "n"
+    },
+    {
+      "en": "fur",
+      "cn": "动物的软毛；皮毛",
+      "property": "n"
+    },
+    {
+      "en": "bristle",
+      "cn": "鬃毛；刷子的毛",
+      "property": "n"
+    },
+    {
+      "en": "curl",
+      "cn": "卷发；卷曲",
+      "property": "n，v"
+    },
+    {
+      "en": "insect",
+      "cn": "昆虫",
+      "property": "n"
+    },
+    {
+      "en": "worm",
+      "cn": "蠕虫",
+      "property": "n"
+    },
+    {
+      "en": "pest",
+      "cn": "害虫",
+      "property": "n"
+    },
+    {
+      "en": "parasite",
+      "cn": "寄生虫",
+      "property": "n"
+    },
+    {
+      "en": "spider",
+      "cn": "蜘蛛",
+      "property": "n"
+    },
+    {
+      "en": "butterfly",
+      "cn": "蝴蝶",
+      "property": "n"
+    },
+    {
+      "en": "mosquito",
+      "cn": "蚊子",
+      "property": "n"
+    },
+    {
+      "en": "cricket",
+      "cn": "蟋蟀",
+      "property": "n"
+    },
+    {
+      "en": "penguin",
+      "cn": "企鹅",
+      "property": "n"
+    },
+    {
+      "en": "seal",
+      "cn": "海豹；封条；图章；密封",
+      "property": "n，v"
+    },
+    {
+      "en": "tortoise",
+      "cn": "龟，陆龟",
+      "property": "n"
+    },
+    {
+      "en": "turtle",
+      "cn": "海龟",
+      "property": "n"
+    },
+    {
+      "en": "whale",
+      "cn": "鲸鱼；捕鲸，猛击",
+      "property": "n，v"
+    },
+    {
+      "en": "kangaroo",
+      "cn": "袋鼠",
+      "property": "n"
+    },
+    {
+      "en": "camel",
+      "cn": "骆驼",
+      "property": "n"
+    },
+    {
+      "en": "panda",
+      "cn": "熊猫",
+      "property": "n"
+    },
+    {
+      "en": "elephant",
+      "cn": "象",
+      "property": "n"
+    },
+    {
+      "en": "trunk",
+      "cn": "象鼻",
+      "property": "n"
+    },
+    {
+      "en": "ivory",
+      "cn": "象牙",
+      "property": "n"
+    },
+    {
+      "en": "horn",
+      "cn": "角；号",
+      "property": "n"
+    },
+    {
+      "en": "bear",
+      "cn": "熊",
+      "property": "n"
+    },
+    {
+      "en": "cub",
+      "cn": "幼兽",
+      "property": "n"
+    },
+    {
+      "en": "calf",
+      "cn": "幼兽，小牛",
+      "property": "n"
+    },
+    {
+      "en": "pup",
+      "cn": "幼小动物",
+      "property": "n"
+    },
+    {
+      "en": "lamb",
+      "cn": "小羊，羊羔",
+      "property": "n"
+    },
+    {
+      "en": "cattle",
+      "cn": "牛",
+      "property": "n"
+    },
+    {
+      "en": "ox",
+      "cn": "（阉割的）公牛",
+      "property": "n"
+    },
+    {
+      "en": "bull",
+      "cn": "公牛",
+      "property": "n"
+    },
+    {
+      "en": "buffalo",
+      "cn": "水牛，野牛",
+      "property": "n"
+    },
+    {
+      "en": "horse",
+      "cn": "马",
+      "property": "n"
+    },
+    {
+      "en": "zebra",
+      "cn": "斑马",
+      "property": "n"
+    },
+    {
+      "en": "donkey",
+      "cn": "驴",
+      "property": "n"
+    },
+    {
+      "en": "saddle",
+      "cn": "马鞍",
+      "property": "n"
+    },
+    {
+      "en": "harness",
+      "cn": "马具",
+      "property": "n"
+    },
+    {
+      "en": "falcon",
+      "cn": "隼，猎鹰",
+      "property": "n"
+    },
+    {
+      "en": "hawk",
+      "cn": "鹰，隼",
+      "property": "n"
+    },
+    {
+      "en": "eagle",
+      "cn": "雕",
+      "property": "n"
+    },
+    {
+      "en": "owl",
+      "cn": "猫头鹰",
+      "property": "n"
+    },
+    {
+      "en": "swallow",
+      "cn": "燕子",
+      "property": "n"
+    },
+    {
+      "en": "sparrow",
+      "cn": "麻雀",
+      "property": "n"
+    },
+    {
+      "en": "pigeon",
+      "cn": "鸽子",
+      "property": "n"
+    },
+    {
+      "en": "crow",
+      "cn": "乌鸦",
+      "property": "n"
+    },
+    {
+      "en": "swan",
+      "cn": "天鹅",
+      "property": "n"
+    },
+    {
+      "en": "goose",
+      "cn": "鹅",
+      "property": "n"
+    },
+    {
+      "en": "cock",
+      "cn": "公鸡",
+      "property": "n"
+    },
+    {
+      "en": "mouse",
+      "cn": "rat",
+      "property": "n"
+    },
+    {
+      "en": "squirrel",
+      "cn": "松鼠",
+      "property": "n"
+    },
+    {
+      "en": "hare",
+      "cn": "野兔",
+      "property": "n"
+    },
+    {
+      "en": "frog",
+      "cn": "蛙",
+      "property": "n"
+    },
+    {
+      "en": "behaviour",
+      "cn": "行为",
+      "property": "n"
+    },
+    {
+      "en": "bite",
+      "cn": "咬",
+      "property": "v/n"
+    },
+    {
+      "en": "sting",
+      "cn": "刺，叮；刺针",
+      "property": "v，n"
+    },
+    {
+      "en": "bark",
+      "cn": "狗吠；树皮",
+      "property": "v，n"
+    },
+    {
+      "en": "roar",
+      "cn": "吼叫",
+      "property": "n/v"
+    },
+    {
+      "en": "rub",
+      "cn": "摩擦；困难，障碍",
+      "property": "v，n"
+    },
+    {
+      "en": "creep",
+      "cn": "爬行",
+      "property": "n"
+    },
+    {
+      "en": "crawl",
+      "cn": "爬，爬行，卑躬屈膝，八届",
+      "property": "n"
+    },
+    {
+      "en": "",
+      "cn": "",
+      "property": "n"
     }
   ]
 }

@@ -558,8 +558,258 @@
       "property": "n"
     },
     {
-      "en": "",
-      "cn": "",
+      "en": "habitat",
+      "cn": "栖息地",
+      "property": "n"
+    },
+    {
+      "en": "nest",
+      "cn": "巢，穴",
+      "property": "n"
+    },
+    {
+      "en": "hive",
+      "cn": "蜂房",
+      "property": "n"
+    },
+    {
+      "en": "cell",
+      "cn": "细胞，蜂房",
+      "property": "n"
+    },
+    {
+      "en": "cage",
+      "cn": "笼子",
+      "property": "n"
+    },
+    {
+      "en": "stable",
+      "cn": "马厩，牛棚；稳固的，稳定的",
+      "property": "n，adj"
+    },
+    {
+      "en": "barn",
+      "cn": "谷仓，牲口棚",
+      "property": "n"
+    },
+    {
+      "en": "hedge",
+      "cn": "树篱；障碍物",
+      "property": "n"
+    },
+    {
+      "en": "bar",
+      "cn": "栅栏，栏杆，条",
+      "property": "n"
+    },
+    {
+      "en": "anatomy",
+      "cn": "解剖学",
+      "property": "n"
+    },
+    {
+      "en": "epidemic",
+      "cn": "流行病；流行性的",
+      "property": "n，adj"
+    },
+    {
+      "en": "gene",
+      "cn": "基因",
+      "property": "n"
+    },
+    {
+      "en": "germ",
+      "cn": "微生物，细菌",
+      "property": "n"
+    },
+    {
+      "en": "bacteria（bacterium复数）",
+      "cn": "细菌",
+      "property": "n"
+    },
+    {
+      "en": "virus",
+      "cn": "病毒",
+      "property": "n"
+    },
+    {
+      "en": "microbe",
+      "cn": "微生物",
+      "property": "n"
+    },
+    {
+      "en": "metabolism",
+      "cn": "新陈代谢",
+      "property": "n"
+    },
+    {
+      "en": "protein",
+      "cn": "蛋白质",
+      "property": "n"
+    },
+    {
+      "en": "vitamin",
+      "cn": "维生素",
+      "property": "n"
+    },
+    {
+      "en": "secrete",
+      "cn": "分泌",
+      "property": "v"
+    },
+    {
+      "en": "excrete",
+      "cn": "排泄，分泌",
+      "property": "v"
+    },
+    {
+      "en": "devour",
+      "cn": "吞食，狼吞虎咽地吃",
+      "property": "v"
+    },
+    {
+      "en": "instinct",
+      "cn": "本能，天性，直觉",
+      "property": "n"
+    },
+    {
+      "en": "intuitive",
+      "cn": "直觉的",
+      "property": "adj"
+    },
+    {
+      "en": "potential",
+      "cn": "潜力；潜在的",
+      "property": "n，adj"
+    },
+    {
+      "en": "intelligence",
+      "cn": "智慧，智力；情报，谍报",
+      "property": "n"
+    },
+    {
+      "en": "functional",
+      "cn": "功能的，起作用的",
+      "property": "adj"
+    },
+    {
+      "en": "sensitive",
+      "cn": "灵敏的，过敏的，敏感定",
+      "property": "adj"
+    },
+    {
+      "en": "flexible",
+      "cn": "可弯曲的，灵活的，易变通的",
+      "property": "adj"
+    },
+    {
+      "en": "acoustic",
+      "cn": "听觉的，声音的",
+      "property": "adj"
+    },
+    {
+      "en": "optical",
+      "cn": "视觉的，光学的",
+      "property": "adj"
+    },
+    {
+      "en": "nocturnal",
+      "cn": "夜间发生的，夜间活动的",
+      "property": "adj"
+    },
+    {
+      "en": "dormant",
+      "cn": "睡着的，休眠的，（动物）冬眠的",
+      "property": "n"
+    },
+    {
+      "en": "hibernation",
+      "cn": "冬眠",
+      "property": "n"
+    },
+    {
+      "en": "track",
+      "cn": "追踪；足迹",
+      "property": "v，n"
+    },
+    {
+      "en": "trace",
+      "cn": "追踪，查出，追溯；痕迹，少许",
+      "property": "v，n"
+    },
+    {
+      "en": "alternate",
+      "cn": "（使）交替，（使）轮流",
+      "property": "v，n"
+    },
+    {
+      "en": "prey",
+      "cn": "被捕食的动物，猎物；捕食",
+      "property": "n，v"
+    },
+    {
+      "en": "predator",
+      "cn": "掠食者；捕食性动物",
+      "property": "n"
+    },
+    {
+      "en": "victim",
+      "cn": "受害者",
+      "property": "n"
+    },
+    {
+      "en": "capive",
+      "cn": "俘虏；被关押的，受控制的",
+      "property": "n，adj"
+    },
+    {
+      "en": "defensive",
+      "cn": "防御性的",
+      "property": "adj"
+    },
+    {
+      "en": "undergo",
+      "cn": "经历，经受",
+      "property": "v"
+    },
+    {
+      "en": "suffer",
+      "cn": "遭受",
+      "property": "v"
+    },
+    {
+      "en": "vulnerable",
+      "cn": "易受伤的，脆弱的；易受影响的",
+      "property": "adj"
+    },
+    {
+      "en": "subsistence",
+      "cn": "勉强维持生活",
+      "property": "n"
+    },
+    {
+      "en": "exist",
+      "cn": "生存，存在",
+      "property": "v"
+    },
+    {
+      "en": "exterminate",
+      "cn": "消灭，根除",
+      "property": "v"
+    },
+    {
+      "en": "tame",
+      "cn": "驯服，制服；驯服的，乏味的",
+      "property": "v，adj"
+    },
+    {
+      "en": "keeper",
+      "cn": "看守人，饲养员",
+      "property": "n"
+    },
+    {
+      "en": "shepherd",
+      "cn": "牧羊人",
       "property": "n"
     }
   ]

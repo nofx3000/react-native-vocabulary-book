@@ -1,0 +1,381 @@
+{
+  "chapter": 5,
+  "name": "education",
+  "vocabularys": [
+    {
+      "en": "education",
+      "cn": "教育，教育学",
+      "property": "n"
+    },
+    {
+      "en": "primary",
+      "cn": "主要的；最初的；小学教育的",
+      "property": "adj"
+    },
+    {
+      "en": "secondary",
+      "cn": "中等教育的；次要的",
+      "property": "adj"
+    },
+    {
+      "en": "university",
+      "cn": "综合性的大学",
+      "property": "n"
+    },
+    {
+      "en": "college",
+      "cn": "学院，大专",
+      "property": "n"
+    },
+    {
+      "en": "institute",
+      "cn": "研究所，学院",
+      "property": "n"
+    },
+    {
+      "en": "academy",
+      "cn": "专业院校，私立学校，研究院，学会",
+      "property": "n"
+    },
+    {
+      "en": "learn",
+      "cn": "学习，得知",
+      "property": "v"
+    },
+    {
+      "en": "study",
+      "cn": "学习，研究",
+      "property": "v/n"
+    },
+    {
+      "en": "acquire",
+      "cn": "获得（技能）；购得",
+      "property": "v"
+    },
+    {
+      "en": "knowledge",
+      "cn": "知识，学识，知悉",
+      "property": "n"
+    },
+    {
+      "en": "expertise",
+      "cn": "专门知识，专业技能",
+      "property": "n"
+    },
+    {
+      "en": "novice",
+      "cn": "新手",
+      "property": "n"
+    },
+    {
+      "en": "recruit",
+      "cn": "吸收（新成员）",
+      "property": "n"
+    },
+    {
+      "en": "literate",
+      "cn": "有读写能力的",
+      "property": "adj"
+    },
+    {
+      "en": "illiteracy",
+      "cn": "文盲",
+      "property": "n"
+    },
+    {
+      "en": "numerate",
+      "cn": "识数的，有计算能力的",
+      "property": "adj"
+    },
+    {
+      "en": "problem",
+      "cn": "习题，问题",
+      "property": "n"
+    },
+    {
+      "en": "issue",
+      "cn": "重要问题，发行；公布，发出",
+      "property": "n，v"
+    },
+    {
+      "en": "affair",
+      "cn": "时间，公共事务",
+      "property": "n"
+    },
+    {
+      "en": "controversial",
+      "cn": "有争议的",
+      "property": "adj"
+    },
+    {
+      "en": "puzzle",
+      "cn": "谜题；使迷惑",
+      "property": "n，v"
+    },
+    {
+      "en": "riddle",
+      "cn": "谜，谜语",
+      "property": "n"
+    },
+    {
+      "en": "obscure",
+      "cn": "难以理解的",
+      "property": "adj"
+    },
+    {
+      "en": "instil",
+      "cn": "逐渐灌输",
+      "property": "v"
+    },
+    {
+      "en": "cram",
+      "cn": "把……塞进",
+      "property": "n"
+    },
+    {
+      "en": "emphasise",
+      "cn": "强调，着重",
+      "property": "v"
+    },
+    {
+      "en": "enhance",
+      "cn": "提高，增强",
+      "property": "v"
+    },
+    {
+      "en": "enable",
+      "cn": "使能够",
+      "property": "v"
+    },
+    {
+      "en": "inspire",
+      "cn": "鼓舞，给。。。灵感",
+      "property": "n，v"
+    },
+    {
+      "en": "motive",
+      "cn": "动机，缘由",
+      "property": "n"
+    },
+    {
+      "en": "motivate",
+      "cn": "激发，驱使",
+      "property": "v"
+    },
+    {
+      "en": "stimulate",
+      "cn": "刺激，激励",
+      "property": "v"
+    },
+    {
+      "en": "spur",
+      "cn": "鞭策；马刺",
+      "property": "v，n"
+    },
+    {
+      "en": "impetus",
+      "cn": "推动，促进；动量；惯性",
+      "property": "n"
+    },
+    {
+      "en": "indulge",
+      "cn": "迁就，放任；沉湎；让……享受一下",
+      "property": "v"
+    },
+    {
+      "en": "spoil",
+      "cn": "宠坏，溺爱；破坏，糟蹋",
+      "property": "v"
+    },
+    {
+      "en": "abuse",
+      "cn": "滥用，虐待",
+      "property": "v"
+    },
+    {
+      "en": "intelligent",
+      "cn": "聪明的，有才智的",
+      "property": "adj"
+    },
+    {
+      "en": "clever",
+      "cn": "聪明的",
+      "property": "adj"
+    },
+    {
+      "en": "smart",
+      "cn": "聪明的，智能的",
+      "property": "adj"
+    },
+    {
+      "en": "all-round",
+      "cn": "多才的，全面的",
+      "property": "adj"
+    },
+    {
+      "en": "genius",
+      "cn": "天才，天赋",
+      "property": "n"
+    },
+    {
+      "en": "elite",
+      "cn": "精英人士，精华",
+      "property": "n"
+    },
+    {
+      "en": "idiot",
+      "cn": "白痴，傻瓜",
+      "property": "n"
+    },
+    {
+      "en": "wisdom",
+      "cn": "智慧，学问",
+      "property": "n"
+    },
+    {
+      "en": "wit",
+      "cn": "风趣的人；机智；风趣；智慧",
+      "property": "n"
+    },
+    {
+      "en": "aptitude",
+      "cn": "天生的才能，资质",
+      "property": "n"
+    },
+    {
+      "en": "capable",
+      "cn": "有能力的，有才能的",
+      "property": "adj"
+    },
+    {
+      "en": "excellent",
+      "cn": "优秀的，杰出的",
+      "property": "adj"
+    },
+    {
+      "en": "outstanding",
+      "cn": "突出的，杰出的",
+      "property": "adj"
+    },
+    {
+      "en": "brilliant",
+      "cn": "光辉的，聪颖的，明亮的",
+      "property": "adj"
+    },
+    {
+      "en": "prestige",
+      "cn": "威望，声望",
+      "property": "n"
+    },
+    {
+      "en": "reputation",
+      "cn": "声誉，名誉",
+      "property": "n"
+    },
+    {
+      "en": "eminent",
+      "cn": "杰出的，著名的",
+      "property": "adj"
+    },
+    {
+      "en": "notorious",
+      "cn": "声名狼藉的",
+      "property": "adj"
+    },
+    {
+      "en": "esteem",
+      "cn": "尊重，尊敬",
+      "property": "v"
+    },
+    {
+      "en": "respect",
+      "cn": "尊重，尊敬",
+      "property": "n/v"
+    },
+    {
+      "en": "dilligent",
+      "cn": "勤勉的，勤奋的",
+      "property": "adj"
+    },
+    {
+      "en": "painstaking",
+      "cn": "极其仔细的，辛苦的",
+      "property": "adj"
+    },
+    {
+      "en": "skill",
+      "cn": "技能，技巧",
+      "property": "n"
+    },
+    {
+      "en": "approach",
+      "cn": "方法，接近",
+      "property": "n，v"
+    },
+    {
+      "en": "scheme",
+      "cn": "计划，方案；阴谋；谋划",
+      "property": "n，v"
+    },
+    {
+      "en": "headmaster",
+      "cn": "男校长",
+      "property": "n"
+    },
+    {
+      "en": "principal",
+      "cn": "校长；首要的",
+      "property": "n，adj"
+    },
+    {
+      "en": "dean",
+      "cn": "学院院长，系主任",
+      "property": "n"
+    },
+    {
+      "en": "faculty",
+      "cn": "（大学的）系，院，全体员工",
+      "property": "n"
+    },
+    {
+      "en": "professor",
+      "cn": "教授",
+      "property": "n"
+    },
+    {
+      "en": "scholar",
+      "cn": "学者",
+      "property": "n"
+    },
+    {
+      "en": "scientist",
+      "cn": "科学家",
+      "property": "n"
+    },
+    {
+      "en": "mentor",
+      "cn": "导师，顾问",
+      "property": "n"
+    },
+    {
+      "en": "tutor",
+      "cn": "家庭教师，导师",
+      "property": "n"
+    },
+    {
+      "en": "lecturer",
+      "cn": "讲师",
+      "property": "n"
+    },
+    {
+      "en": "assistant",
+      "cn": "助手，助理",
+      "property": "n"
+    },
+    {
+      "en": "candidate",
+      "cn": "候选人，求职者",
+      "property": "n"
+    }
+  ]
+}

@@ -1,0 +1,381 @@
+{
+  "chapter": 4,
+  "name": "space and universe",
+  "vocabularys": [
+    {
+      "en": "galaxy",
+      "cn": "星系，银河系",
+      "property": "n"
+    },
+    {
+      "en": "cosmos",
+      "cn": "宇宙",
+      "property": "n"
+    },
+    {
+      "en": "universe",
+      "cn": "宇宙，万物，世界",
+      "property": "n"
+    },
+    {
+      "en": "interstellar",
+      "cn": "星际的",
+      "property": "adj"
+    },
+    {
+      "en": "terrestrial",
+      "cn": "地球的，陆地的",
+      "property": "adj"
+    },
+    {
+      "en": "celestial",
+      "cn": "天上的",
+      "property": "adj"
+    },
+    {
+      "en": "astronomy",
+      "cn": "天文学",
+      "property": "n"
+    },
+    {
+      "en": "astrology",
+      "cn": "占星学，占星术",
+      "property": "n"
+    },
+    {
+      "en": "astronaut",
+      "cn": "宇航员",
+      "property": "n"
+    },
+    {
+      "en": "comet",
+      "cn": "彗星",
+      "property": "n"
+    },
+    {
+      "en": "meteorite",
+      "cn": "陨石",
+      "property": "n"
+    },
+    {
+      "en": "crater",
+      "cn": "（撞击或爆炸形成的）坑",
+      "property": "n"
+    },
+    {
+      "en": "dust",
+      "cn": "灰尘，尘土",
+      "property": "n"
+    },
+    {
+      "en": "ash",
+      "cn": "灰烬",
+      "property": "n"
+    },
+    {
+      "en": "envelope",
+      "cn": "外裹物，外层",
+      "property": "n"
+    },
+    {
+      "en": "chunk",
+      "cn": "块，厚块",
+      "property": "n"
+    },
+    {
+      "en": "spacecraft",
+      "cn": "宇宙飞船",
+      "property": "n"
+    },
+    {
+      "en": "spaceshipt",
+      "cn": "宇宙飞船",
+      "property": "n"
+    },
+    {
+      "en": "probe",
+      "cn": "太空探测器，详尽调查",
+      "property": "n"
+    },
+    {
+      "en": "module",
+      "cn": "模块，船舱",
+      "property": "n"
+    },
+    {
+      "en": "propulsion",
+      "cn": "推进力",
+      "property": "n"
+    },
+    {
+      "en": "pressure",
+      "cn": "压力",
+      "property": "n"
+    },
+    {
+      "en": "dynamics",
+      "cn": "热力学，动态",
+      "property": "n"
+    },
+    {
+      "en": "motion",
+      "cn": "动作，移动",
+      "property": "n"
+    },
+    {
+      "en": "vent",
+      "cn": "排气口；排放，发泄",
+      "property": "n，v"
+    },
+    {
+      "en": "tail",
+      "cn": "尾部",
+      "property": "n"
+    },
+    {
+      "en": "curve",
+      "cn": "曲线，弧线",
+      "property": "n"
+    },
+    {
+      "en": "exploration",
+      "cn": "探索",
+      "property": "n"
+    },
+    {
+      "en": "expedition",
+      "cn": "远征，探险",
+      "property": "n"
+    },
+    {
+      "en": "flyby",
+      "cn": "飞掠",
+      "property": "n"
+    },
+    {
+      "en": "observatory",
+      "cn": "天文台",
+      "property": "n"
+    },
+    {
+      "en": "telescope",
+      "cn": "望远镜",
+      "property": "n"
+    },
+    {
+      "en": "spectacle",
+      "cn": "壮观的景象，奇观",
+      "property": "n"
+    },
+    {
+      "en": "orbit",
+      "cn": "轨道",
+      "property": "n"
+    },
+    {
+      "en": "ecliptic",
+      "cn": "黄道",
+      "property": "n"
+    },
+    {
+      "en": "diameter",
+      "cn": "直径",
+      "property": "n"
+    },
+    {
+      "en": "radius",
+      "cn": "半径",
+      "property": "n"
+    },
+    {
+      "en": "substance",
+      "cn": "物质，实质，要旨",
+      "property": "n"
+    },
+    {
+      "en": "composition",
+      "cn": "成分，构成，作品，创作",
+      "property": "n"
+    },
+    {
+      "en": "compound",
+      "cn": "混合物，化合物；复合的，组合的；混合",
+      "property": "n，adj，v"
+    },
+    {
+      "en": "fossil",
+      "cn": "花海",
+      "property": "n"
+    },
+    {
+      "en": "sample",
+      "cn": "样本，样品",
+      "property": "n"
+    },
+    {
+      "en": "specimen",
+      "cn": "样品，标本",
+      "property": "n"
+    },
+    {
+      "en": "particle",
+      "cn": "颗粒，微粒，极小量",
+      "property": "n"
+    },
+    {
+      "en": "molecule",
+      "cn": "分子",
+      "property": "n"
+    },
+    {
+      "en": "atom",
+      "cn": "原子",
+      "property": "n"
+    },
+    {
+      "en": "ion",
+      "cn": "离子",
+      "property": "n"
+    },
+    {
+      "en": "electron",
+      "cn": "电子",
+      "property": "n"
+    },
+    {
+      "en": "quantum",
+      "cn": "量子",
+      "property": "n"
+    },
+    {
+      "en": "liquid",
+      "cn": "液体；液态的",
+      "property": "n，adj"
+    },
+    {
+      "en": "fluid",
+      "cn": "液体，流体；流动的",
+      "property": "n，adj"
+    },
+    {
+      "en": "solid",
+      "cn": "固体；固态的",
+      "property": "n，adj"
+    },
+    {
+      "en": "synthesise",
+      "cn": "合成，综合",
+      "property": "v"
+    },
+    {
+      "en": "formation",
+      "cn": "形成",
+      "property": "n"
+    },
+    {
+      "en": "method",
+      "cn": "方法",
+      "property": "n"
+    },
+    {
+      "en": "spectrum",
+      "cn": "光谱，范围",
+      "property": "n"
+    },
+    {
+      "en": "dimension",
+      "cn": "范围，维度",
+      "property": "n"
+    },
+    {
+      "en": "frequency",
+      "cn": "频率，发生次数",
+      "property": "n"
+    },
+    {
+      "en": "signal",
+      "cn": "信号",
+      "property": "n"
+    },
+    {
+      "en": "antenna",
+      "cn": "天线",
+      "property": "n"
+    },
+    {
+      "en": "circuit",
+      "cn": "线路，电路，巡回",
+      "property": "n"
+    },
+    {
+      "en": "refraction",
+      "cn": "折射",
+      "property": "n"
+    },
+    {
+      "en": "ultraviolet",
+      "cn": "紫外辐射；紫外线的",
+      "property": "n，adj"
+    },
+    {
+      "en": "radioactive",
+      "cn": "放射性的",
+      "property": "adj"
+    },
+    {
+      "en": "distinct",
+      "cn": "明显的；截然不同的",
+      "property": "adj"
+    },
+    {
+      "en": "discernible",
+      "cn": "可分辨的，看得清的",
+      "property": "adj"
+    },
+    {
+      "en": "invisible",
+      "cn": "看不见的",
+      "property": "adj"
+    },
+    {
+      "en": "collision",
+      "cn": "碰撞事故，冲突",
+      "property": "n"
+    },
+    {
+      "en": "squash",
+      "cn": "压扁；壁球",
+      "property": "v，n"
+    },
+    {
+      "en": "fragment",
+      "cn": "碎片，片段；（使）碎裂",
+      "property": "n，v"
+    },
+    {
+      "en": "cataclysmic",
+      "cn": "剧变的，灾难性的",
+      "property": "adj"
+    },
+    {
+      "en": "overwhelming",
+      "cn": "压倒性的",
+      "property": "adj"
+    },
+    {
+      "en": "despair",
+      "cn": "绝望",
+      "property": "v/n"
+    },
+    {
+      "en": "desperate",
+      "cn": "绝望的",
+      "property": "adj"
+    },
+    {
+      "en": "hopeless",
+      "cn": "无望的",
+      "property": "adj"
+    }
+  ]
+}

@@ -376,6 +376,791 @@
       "en": "candidate",
       "cn": "候选人，求职者",
       "property": "n"
+    },
+    {
+      "en": "degree",
+      "cn": "学位",
+      "property": "n"
+    },
+    {
+      "en": "qualify",
+      "cn": "使具备资格，使有权",
+      "property": "v"
+    },
+    {
+      "en": "certify",
+      "cn": "证明，颁发专业合格证书",
+      "property": "v"
+    },
+    {
+      "en": "license",
+      "cn": "执照，许可证",
+      "property": "n"
+    },
+    {
+      "en": "permit",
+      "cn": "许可证",
+      "property": "n"
+    },
+    {
+      "en": "diploma",
+      "cn": "毕业文凭",
+      "property": "n"
+    },
+    {
+      "en": "diplomat",
+      "cn": "外交官",
+      "property": "n"
+    },
+    {
+      "en": "ambassador",
+      "cn": "大使",
+      "property": "n"
+    },
+    {
+      "en": "pupil",
+      "cn": "小学生",
+      "property": "n"
+    },
+    {
+      "en": "graduate",
+      "cn": "大学毕业生，毕业生；毕业",
+      "property": "n，v"
+    },
+    {
+      "en": "ceremony",
+      "cn": "典礼，礼节",
+      "property": "n"
+    },
+    {
+      "en": "bachelor",
+      "cn": "学士，单身汉",
+      "property": "n"
+    },
+    {
+      "en": "master",
+      "cn": "硕士，大师；精通，控制",
+      "property": "n，v"
+    },
+    {
+      "en": "doctor",
+      "cn": "博士，医生",
+      "property": "n"
+    },
+    {
+      "en": "fresher",
+      "cn": "一年级新生",
+      "property": "n"
+    },
+    {
+      "en": "sophomore",
+      "cn": "大二学生",
+      "property": "n"
+    },
+    {
+      "en": "junior",
+      "cn": "大三学生",
+      "property": "n"
+    },
+    {
+      "en": "senior",
+      "cn": "大四学生",
+      "property": "n"
+    },
+    {
+      "en": "alumni",
+      "cn": "毕业生，校友",
+      "property": "n"
+    },
+    {
+      "en": "campus",
+      "cn": "校园",
+      "property": "n"
+    },
+    {
+      "en": "orientation",
+      "cn": "情况介绍，迎新会；方向",
+      "property": "n"
+    },
+    {
+      "en": "platform",
+      "cn": "平台，讲台",
+      "property": "n"
+    },
+    {
+      "en": "coed",
+      "cn": "男女同校的；（男女同校大学中的）女生",
+      "property": "n"
+    },
+    {
+      "en": "register",
+      "cn": "注册，登记；注册表",
+      "property": "v，n"
+    },
+    {
+      "en": "roster",
+      "cn": "花名册，登记表；值勤表",
+      "property": "n"
+    },
+    {
+      "en": "enrol",
+      "cn": "登记，注册，加入",
+      "property": "v"
+    },
+    {
+      "en": "matriculation",
+      "cn": "注册入大学",
+      "property": "n"
+    },
+    {
+      "en": "accommodation",
+      "cn": "住处，食宿招待",
+      "property": "n"
+    },
+    {
+      "en": "dorm",
+      "cn": "宿舍",
+      "property": "n"
+    },
+    {
+      "en": "dining hall",
+      "cn": "食堂",
+      "property": "n"
+    },
+    {
+      "en": "canteen",
+      "cn": "水壶，食堂",
+      "property": "n"
+    },
+    {
+      "en": "laboratory",
+      "cn": "实验室，研究室",
+      "property": "n"
+    },
+    {
+      "en": "experiment",
+      "cn": "实验，试验",
+      "property": "n"
+    },
+    {
+      "en": "data",
+      "cn": "数据",
+      "property": "n"
+    },
+    {
+      "en": "quantity",
+      "cn": "数量",
+      "property": "n"
+    },
+    {
+      "en": "quality",
+      "cn": "质量",
+      "property": "n"
+    },
+    {
+      "en": "libaray",
+      "cn": "图书馆",
+      "property": "n"
+    },
+    {
+      "en": "leterature",
+      "cn": "文学；文学作品；文献",
+      "property": "n"
+    },
+    {
+      "en": "article",
+      "cn": "文章",
+      "property": "n"
+    },
+    {
+      "en": "author",
+      "cn": "作家，作者",
+      "property": "n"
+    },
+    {
+      "en": "tale",
+      "cn": "故事，传说",
+      "property": "n"
+    },
+    {
+      "en": "fiction",
+      "cn": "小说，虚构，杜撰",
+      "property": "n"
+    },
+    {
+      "en": "story",
+      "cn": "故事，小说，叙述",
+      "property": "n"
+    },
+    {
+      "en": "diary",
+      "cn": "日记",
+      "property": "n"
+    },
+    {
+      "en": "poetry",
+      "cn": "诗歌",
+      "property": "n"
+    },
+    {
+      "en": "magazine",
+      "cn": "杂志，期刊",
+      "property": "n"
+    },
+    {
+      "en": "journal",
+      "cn": "日报，杂志",
+      "property": "n"
+    },
+    {
+      "en": "coverage",
+      "cn": "新闻报道，覆盖范围",
+      "property": "n"
+    },
+    {
+      "en": "bibliography",
+      "cn": "参考书目",
+      "property": "n"
+    },
+    {
+      "en": "encyclopedia",
+      "cn": "百科全书",
+      "property": "n"
+    },
+    {
+      "en": "biography",
+      "cn": "传记",
+      "property": "n"
+    },
+    {
+      "en": "documentary",
+      "cn": "纪录片，记录的",
+      "property": "n，adj"
+    },
+    {
+      "en": "series",
+      "cn": "连续，一系列，系列节目",
+      "property": "n"
+    },
+    {
+      "en": "record",
+      "cn": "记录，履历",
+      "property": "n"
+    },
+    {
+      "en": "file",
+      "cn": "档案；把。。归档",
+      "property": "n，v"
+    },
+    {
+      "en": "profile",
+      "cn": "概述，人物简介，侧面轮廓",
+      "property": "n"
+    },
+    {
+      "en": "draft",
+      "cn": "草稿，汇票；起草",
+      "property": "n，v"
+    },
+    {
+      "en": "sketch",
+      "cn": "概略；概述",
+      "property": "n，v"
+    },
+    {
+      "en": "brochure",
+      "cn": "小册子",
+      "property": "n"
+    },
+    {
+      "en": "manual",
+      "cn": "使用手册，指南；手工的",
+      "property": "n，adj"
+    },
+    {
+      "en": "frame",
+      "cn": "框架，架构",
+      "property": "n"
+    },
+    {
+      "en": "index",
+      "cn": "索引；为。。。编索引",
+      "property": "n，v"
+    },
+    {
+      "en": "catalogue",
+      "cn": "目录",
+      "property": "n"
+    },
+    {
+      "en": "category",
+      "cn": "种类，类别，范畴",
+      "property": "n"
+    },
+    {
+      "en": "inventory",
+      "cn": "库存，详细目录",
+      "property": "n"
+    },
+    {
+      "en": "content",
+      "cn": "内容，目录，含量；满足的",
+      "property": "n，adj"
+    },
+    {
+      "en": "context",
+      "cn": "上下文，语境，背景",
+      "property": "n"
+    },
+    {
+      "en": "list",
+      "cn": "一览表，目录；列举，把。。。列表",
+      "property": "n，v"
+    },
+    {
+      "en": "chapter",
+      "cn": "章，重要时期",
+      "property": "n"
+    },
+    {
+      "en": "volume",
+      "cn": "卷；体积，容积；音量",
+      "property": "n"
+    },
+    {
+      "en": "reel",
+      "cn": "卷轴，卷筒，一卷胶卷",
+      "property": "n"
+    },
+    {
+      "en": "subject",
+      "cn": "科目，主题，实验对象",
+      "property": "n"
+    },
+    {
+      "en": "object",
+      "cn": "物体，目标；反对",
+      "property": "n，v"
+    },
+    {
+      "en": "major",
+      "cn": "专业；主修；主要的",
+      "property": "n，v，adj"
+    },
+    {
+      "en": "minor",
+      "cn": "辅修科目；不严重的",
+      "property": "n，adj"
+    },
+    {
+      "en": "sociology",
+      "cn": "社会学",
+      "property": "n"
+    },
+    {
+      "en": "politics",
+      "cn": "政治学，政治，政治事务",
+      "property": "n"
+    },
+    {
+      "en": "economics",
+      "cn": "经济学",
+      "property": "n"
+    },
+    {
+      "en": "marketing",
+      "cn": "市场营销",
+      "property": "n"
+    },
+    {
+      "en": "accounting",
+      "cn": "会计",
+      "property": "n"
+    },
+    {
+      "en": "audit",
+      "cn": "审计；旁听，审计",
+      "property": "n，v"
+    },
+    {
+      "en": "statistics",
+      "cn": "统计学",
+      "property": "n"
+    },
+    {
+      "en": "psychology",
+      "cn": "心理学，心理特征",
+      "property": "n"
+    },
+    {
+      "en": "philosophy",
+      "cn": "哲学",
+      "property": "n"
+    },
+    {
+      "en": "logic",
+      "cn": "逻辑；逻辑学",
+      "property": "n"
+    },
+    {
+      "en": "biology",
+      "cn": "生物学",
+      "property": "n"
+    },
+    {
+      "en": "physics",
+      "cn": "物理学",
+      "property": "n"
+    },
+    {
+      "en": "chemistry",
+      "cn": "化学",
+      "property": "n"
+    },
+    {
+      "en": "agriculture",
+      "cn": "农业，农学",
+      "property": "n"
+    },
+    {
+      "en": "logistics",
+      "cn": "物流，后勤",
+      "property": "n"
+    },
+    {
+      "en": "geography",
+      "cn": "地形学；地形，地势",
+      "property": "n"
+    },
+    {
+      "en": "history",
+      "cn": "历史，历史学",
+      "property": "n"
+    },
+    {
+      "en": "engineering",
+      "cn": "工程，工程学",
+      "property": "n"
+    },
+    {
+      "en": "mechanics",
+      "cn": "力学，机械学",
+      "property": "n"
+    },
+    {
+      "en": "electronics",
+      "cn": "电子学，电子器件",
+      "property": "n"
+    },
+    {
+      "en": "maths",
+      "cn": "数学",
+      "property": "n"
+    },
+    {
+      "en": "arithmetic",
+      "cn": "算数",
+      "property": "n"
+    },
+    {
+      "en": "geometry",
+      "cn": "几何学",
+      "property": "n"
+    },
+    {
+      "en": "algebra",
+      "cn": "代数学，代数",
+      "property": "n"
+    },
+    {
+      "en": "calculus",
+      "cn": "微积分；结石",
+      "property": "n"
+    },
+    {
+      "en": "plus",
+      "cn": "加上；正（数）的",
+      "property": "n，adj"
+    },
+    {
+      "en": "sum",
+      "cn": "总数，总和，金额",
+      "property": "n"
+    },
+    {
+      "en": "total",
+      "cn": "总的，全部的；总数",
+      "property": "adj，n"
+    },
+    {
+      "en": "merger",
+      "cn": "合并，归并",
+      "property": "n"
+    },
+    {
+      "en": "equation",
+      "cn": "相等，平衡，综合体，方程式，等式",
+      "property": "n"
+    },
+    {
+      "en": "identical",
+      "cn": "同一的",
+      "property": "n"
+    },
+    {
+      "en": "minus",
+      "cn": "负的，零以下的；减去",
+      "property": "adj，v"
+    },
+    {
+      "en": "subtract",
+      "cn": "减去，减",
+      "property": "v"
+    },
+    {
+      "en": "multiply",
+      "cn": "乘，使相乘；成倍增加",
+      "property": "v"
+    },
+    {
+      "en": "divide",
+      "cn": "除以，除",
+      "property": "v"
+    },
+    {
+      "en": "dividend",
+      "cn": "被除数",
+      "property": "n"
+    },
+    {
+      "en": "remainder",
+      "cn": "余数；剩余部分",
+      "property": "n"
+    },
+    {
+      "en": "rational",
+      "cn": "有理数；（数）有理的；理性的",
+      "property": "n，adj"
+    },
+    {
+      "en": "parameter",
+      "cn": "参数；起限定作用的因素",
+      "property": "n"
+    },
+    {
+      "en": "variable",
+      "cn": "变量；可变因素；易变的",
+      "property": "n，adj"
+    },
+    {
+      "en": "even",
+      "cn": "均匀的；欧束的；相等的；甚至",
+      "property": "adj，adv"
+    },
+    {
+      "en": "odd",
+      "cn": "奇数的，古怪的",
+      "property": "adj"
+    },
+    {
+      "en": "mean",
+      "cn": "平均数，平均值；平均的",
+      "property": "n"
+    },
+    {
+      "en": "double",
+      "cn": "两倍的；两倍数；加倍",
+      "property": "adj，n，v"
+    },
+    {
+      "en": "triple",
+      "cn": "三倍的；三倍数；增至三倍",
+      "property": "adj，n，v"
+    },
+    {
+      "en": "quadruple",
+      "cn": "四倍的；四倍数；增至四倍",
+      "property": "adj，n，v"
+    },
+    {
+      "en": "multiple",
+      "cn": "倍数；多样的，数量多的",
+      "property": "n，adj"
+    },
+    {
+      "en": "maximum",
+      "cn": "最大值，最大限度",
+      "property": "n"
+    },
+    {
+      "en": "minimum",
+      "cn": "最小值，最小限度",
+      "property": "n"
+    },
+    {
+      "en": "approximately",
+      "cn": "大约",
+      "property": "adv"
+    },
+    {
+      "en": "chart",
+      "cn": "图，图表，海图",
+      "property": "n"
+    },
+    {
+      "en": "graph",
+      "cn": "图，图表",
+      "property": "n"
+    },
+    {
+      "en": "diagram",
+      "cn": "图表；示意图；图解",
+      "property": "n"
+    },
+    {
+      "en": "table",
+      "cn": "表格，桌子",
+      "property": "n"
+    },
+    {
+      "en": "matrix",
+      "cn": "矩阵，铸模",
+      "property": "n"
+    },
+    {
+      "en": "rectangle",
+      "cn": "长方形，矩形",
+      "property": "n"
+    },
+    {
+      "en": "cube",
+      "cn": "立方体，立方，三次幂",
+      "property": "n"
+    },
+    {
+      "en": "angle",
+      "cn": "角度",
+      "property": "n"
+    },
+    {
+      "en": "triangle",
+      "cn": "三角形，三角关系",
+      "property": "n"
+    },
+    {
+      "en": "diagonal",
+      "cn": "斜纹的，对角线的；对角线",
+      "property": "adj，n"
+    },
+    {
+      "en": "straight",
+      "cn": "直的；笔直的，直接",
+      "property": "adj，adv"
+    },
+    {
+      "en": "circle",
+      "cn": "圆",
+      "property": "n"
+    },
+    {
+      "en": "round",
+      "cn": "圆的；绕圈，一轮；环绕",
+      "property": "adj，n，adv"
+    },
+    {
+      "en": "dot",
+      "cn": "点，圆点；在。。上打点",
+      "property": "n，v"
+    },
+    {
+      "en": "sphere",
+      "cn": "球体；球状物；范围；领域",
+      "property": "n"
+    },
+    {
+      "en": "cone",
+      "cn": "圆锥体；锥形物",
+      "property": "n"
+    },
+    {
+      "en": "extent",
+      "cn": "广度，范围，程度",
+      "property": "n"
+    },
+    {
+      "en": "width",
+      "cn": "宽度",
+      "property": "n"
+    },
+    {
+      "en": "length",
+      "cn": "长度",
+      "property": "n"
+    },
+    {
+      "en": "decimal",
+      "cn": "小数的；十进位的；小数",
+      "property": "adj，n"
+    },
+    {
+      "en": "percent",
+      "cn": "百分之。。",
+      "property": "n"
+    },
+    {
+      "en": "proportion",
+      "cn": "比例",
+      "property": "n"
+    },
+    {
+      "en": "rate",
+      "cn": "比率，率，速度",
+      "property": "n"
+    },
+    {
+      "en": "ratio",
+      "cn": "比（率）",
+      "property": "n"
+    },
+    {
+      "en": "fraction",
+      "cn": "分数；小部分；片断",
+      "property": "n"
+    },
+    {
+      "en": "scale",
+      "cn": "刻度，规模；攀登",
+      "property": "n，v"
+    },
+    {
+      "en": "ounce",
+      "cn": "盎司，少量",
+      "property": "n"
+    },
+    {
+      "en": "density",
+      "cn": "密度，浓度",
+      "property": "n"
+    },
+    {
+      "en": "Fahrenheit",
+      "cn": "华氏温度的",
+      "property": "adj"
+    },
+    {
+      "en": "mercury",
+      "cn": "水银，汞，水星",
+      "property": "n"
+    },
+    {
+      "en": "battery",
+      "cn": "电池",
+      "property": "n"
+    },
+    {
+      "en": "volt",
+      "cn": "伏特",
+      "property": "n"
     }
   ]
 }

@@ -1,4 +1,4 @@
-import React, {useState, FC} from 'react';
+import React, {useState, FC, useEffect, useRef} from 'react';
 import {
   ScrollView,
   Dimensions,
@@ -9,14 +9,46 @@ import {
 } from 'react-native';
 
 import icon_switch from '../assets/icon_switch.png';
+import icon_shuffle from '../assets/suiji.png';
 
 function App({route, navigation}): JSX.Element {
   const [switched, setSwitched] = useState<boolean>(false);
+  const [shuffled, setShuffled] = useState<boolean>(false);
+  const firstRender = useRef(true);
   const chapter: ChapterInter = route.params.chapter;
+  const [vocList, setVocList] = useState<VocabularyInter[]>(
+    chapter.vocabularys,
+  );
+
+  const shuffleList = (_list: VocabularyInter[]) => {
+    // 浅复制，防止修改引用数据
+    const newList = [..._list];
+    const len: number = newList.length;
+    for (let i = len - 1; i >= 0; i--) {
+      const randomIndex: number = Math.floor(Math.random() * (i + 1));
+      const tmp = newList[randomIndex];
+      newList[randomIndex] = newList[i];
+      newList[i] = tmp;
+    }
+    return newList;
+  };
+
+  useEffect(() => {
+    if (firstRender.current) {
+      firstRender.current = false;
+      return;
+    }
+    if (shuffled) {
+      setVocList(shuffleList(vocList));
+    } else {
+      setVocList(chapter.vocabularys);
+    }
+  }, [shuffled]);
+
   return (
     <>
       <ScrollView style={styles.root}>
-        {chapter.vocabularys.map((item: VocabularyInter) => {
+        {vocList.map((item: VocabularyInter) => {
           return (
             <VocabularayContainer
               item={item}
@@ -32,6 +64,14 @@ function App({route, navigation}): JSX.Element {
           setSwitched(!switched);
         }}>
         <Image source={icon_switch} style={styles.switchIcon} />
+      </TouchableOpacity>
+
+      <TouchableOpacity
+        style={[styles.switchButton, styles.shuffleButton]}
+        onPress={() => {
+          setShuffled(!shuffled);
+        }}>
+        <Image source={icon_shuffle} style={styles.switchIcon} />
       </TouchableOpacity>
     </>
   );
@@ -57,6 +97,9 @@ const styles = StyleSheet.create({
     width: '100%',
     height: '100%',
     resizeMode: 'contain',
+  },
+  shuffleButton: {
+    bottom: 100,
   },
 });
 

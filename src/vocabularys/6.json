@@ -1,0 +1,616 @@
+{
+  "chapter": 6,
+  "name": "science",
+  "vocabularys": [
+    {
+      "en": "technology",
+      "cn": "技术",
+      "property": "n"
+    },
+    {
+      "en": "technique",
+      "cn": "技术，技巧",
+      "property": "n"
+    },
+    {
+      "en": "polytechnic",
+      "cn": "有关多种工艺的；理工学院",
+      "property": "adj，n"
+    },
+    {
+      "en": "engineer",
+      "cn": "工程师",
+      "property": "n"
+    },
+    {
+      "en": "mechanic",
+      "cn": "技工，机械师，机修工",
+      "property": "n"
+    },
+    {
+      "en": "advance",
+      "cn": "发展，前进",
+      "property": "n/v"
+    },
+    {
+      "en": "innovate",
+      "cn": "创新，改革",
+      "property": "v"
+    },
+    {
+      "en": "breakthrough",
+      "cn": "突破",
+      "property": "n"
+    },
+    {
+      "en": "gizmo",
+      "cn": "小装置",
+      "property": "n"
+    },
+    {
+      "en": "patent",
+      "cn": "专利，专利权；得到。。。的专利",
+      "property": "n"
+    },
+    {
+      "en": "devise",
+      "cn": "设计，发明",
+      "property": "v"
+    },
+    {
+      "en": "invent",
+      "cn": "发明，创造",
+      "property": "v"
+    },
+    {
+      "en": "discover",
+      "cn": "发现",
+      "property": "v"
+    },
+    {
+      "en": "disclose",
+      "cn": "揭露，透露",
+      "property": "v"
+    },
+    {
+      "en": "reveal",
+      "cn": "展现，展示，透露",
+      "property": "v"
+    },
+    {
+      "en": "uncover",
+      "cn": "揭露，发现",
+      "property": "n"
+    },
+    {
+      "en": "expose",
+      "cn": "使暴露，揭发，使曝光",
+      "property": "v"
+    },
+    {
+      "en": "domain",
+      "cn": "（学术）领域；领土，领地",
+      "property": "n"
+    },
+    {
+      "en": "field",
+      "cn": "领域",
+      "property": "n"
+    },
+    {
+      "en": "realm",
+      "cn": "领域",
+      "property": "n"
+    },
+    {
+      "en": "foundation",
+      "cn": "基础；地基；基金会",
+      "property": "n"
+    },
+    {
+      "en": "specialise",
+      "cn": "专攻",
+      "property": "v"
+    },
+    {
+      "en": "absorb",
+      "cn": "理解，掌握",
+      "property": "v"
+    },
+    {
+      "en": "concentrate",
+      "cn": "集中；浓缩",
+      "property": "v"
+    },
+    {
+      "en": "focus",
+      "cn": "把。。。集中于；焦点",
+      "property": "v，n"
+    },
+    {
+      "en": "utilise",
+      "cn": "利用",
+      "property": "v"
+    },
+    {
+      "en": "usage",
+      "cn": "利用；用法",
+      "property": "n"
+    },
+    {
+      "en": "tester",
+      "cn": "测试仪；测试员",
+      "property": "n"
+    },
+    {
+      "en": "apply",
+      "cn": "应用；适用",
+      "property": "v"
+    },
+    {
+      "en": "device",
+      "cn": "装置，设备，手段，策略",
+      "property": "n"
+    },
+    {
+      "en": "appliance",
+      "cn": "应用；器具",
+      "property": "n"
+    },
+    {
+      "en": "facility",
+      "cn": "设备；便利",
+      "property": "n"
+    },
+    {
+      "en": "equipment",
+      "cn": "设备",
+      "property": "n"
+    },
+    {
+      "en": "instrument",
+      "cn": "仪器，工具，乐器",
+      "property": "n"
+    },
+    {
+      "en": "tool",
+      "cn": "工具",
+      "property": "n"
+    },
+    {
+      "en": "gauge",
+      "cn": "测量仪器；测量，判断",
+      "property": "n，v"
+    },
+    {
+      "en": "measure",
+      "cn": "测量；衡量，措施",
+      "property": "v，n"
+    },
+    {
+      "en": "calculate",
+      "cn": "计算；考虑，打算",
+      "property": "n"
+    },
+    {
+      "en": "compute",
+      "cn": "计算，估计",
+      "property": "v"
+    },
+    {
+      "en": "count",
+      "cn": "计算",
+      "property": "v"
+    },
+    {
+      "en": "estimate",
+      "cn": "估价，估计，评价",
+      "property": "n/v"
+    },
+    {
+      "en": "assess",
+      "cn": "评估，估算",
+      "property": "v"
+    },
+    {
+      "en": "evaluate",
+      "cn": "评价，评估",
+      "property": "v"
+    },
+    {
+      "en": "accessory",
+      "cn": "附件，配件",
+      "property": "n"
+    },
+    {
+      "en": "byproduct",
+      "cn": "副产品",
+      "property": "n"
+    },
+    {
+      "en": "auxiliary",
+      "cn": "辅助的，协助的；备用的",
+      "property": "adj"
+    },
+    {
+      "en": "versatile",
+      "cn": "多功能的，多用途的",
+      "property": "adj"
+    },
+    {
+      "en": "add",
+      "cn": "添加，附加",
+      "property": "v"
+    },
+    {
+      "en": "accumulate",
+      "cn": "累计，逐渐增加",
+      "property": "v"
+    },
+    {
+      "en": "assemble",
+      "cn": "集合，聚集",
+      "property": "v"
+    },
+    {
+      "en": "gather",
+      "cn": "聚集，采集",
+      "property": "v"
+    },
+    {
+      "en": "attach",
+      "cn": "使依附；附加；系，贴",
+      "property": "v"
+    },
+    {
+      "en": "belong",
+      "cn": "应在；适合；属于",
+      "property": "v"
+    },
+    {
+      "en": "optics",
+      "cn": "光学",
+      "property": "n"
+    },
+    {
+      "en": "microscope",
+      "cn": "显微镜",
+      "property": "n"
+    },
+    {
+      "en": "lens",
+      "cn": "透镜；镜头",
+      "property": "n"
+    },
+    {
+      "en": "radar",
+      "cn": "雷达",
+      "property": "n"
+    },
+    {
+      "en": "echo",
+      "cn": "回声；发出回声，模仿，重复",
+      "property": "n，v"
+    },
+    {
+      "en": "sensor",
+      "cn": "传感器",
+      "property": "n"
+    },
+    {
+      "en": "multimedia",
+      "cn": "多媒体",
+      "property": "n"
+    },
+    {
+      "en": "network",
+      "cn": "网络，广播网",
+      "property": "n"
+    },
+    {
+      "en": "browser",
+      "cn": "浏览器",
+      "property": "n"
+    },
+    {
+      "en": "dial",
+      "cn": "拨号",
+      "property": "v"
+    },
+    {
+      "en": "microcomputer",
+      "cn": "微型计算机",
+      "property": "n"
+    },
+    {
+      "en": "laptop",
+      "cn": "笔记本电脑",
+      "property": "n"
+    },
+    {
+      "en": "software",
+      "cn": "软件",
+      "property": "n"
+    },
+    {
+      "en": "keyboard",
+      "cn": "键盘",
+      "property": "n"
+    },
+    {
+      "en": "screen",
+      "cn": "屏幕；遮蔽",
+      "property": "n，v"
+    },
+    {
+      "en": "loudspeaker",
+      "cn": "扬声器，喇叭",
+      "property": "n"
+    },
+    {
+      "en": "microphone",
+      "cn": "话筒，麦克风",
+      "property": "n"
+    },
+    {
+      "en": "cassette",
+      "cn": "磁带",
+      "property": "n"
+    },
+    {
+      "en": "tape",
+      "cn": "磁带，录音带，胶带",
+      "property": "n"
+    },
+    {
+      "en": "binary",
+      "cn": "二进制的",
+      "property": "adj"
+    },
+    {
+      "en": "digital",
+      "cn": "数字的",
+      "property": "adj"
+    },
+    {
+      "en": "wireless",
+      "cn": "无线的",
+      "property": "adj"
+    },
+    {
+      "en": "high-definition",
+      "cn": "高分辨率的",
+      "property": "adj"
+    },
+    {
+      "en": "audio",
+      "cn": "声音的",
+      "property": "adj"
+    },
+    {
+      "en": "vision",
+      "cn": "视觉，视力",
+      "property": "n"
+    },
+    {
+      "en": "fantasy",
+      "cn": "幻想",
+      "property": "n"
+    },
+    {
+      "en": "science fiction",
+      "cn": "科幻作品",
+      "property": "n"
+    },
+    {
+      "en": "pump",
+      "cn": "泵；（用泵）抽",
+      "property": "n，v"
+    },
+    {
+      "en": "generator",
+      "cn": "发电机",
+      "property": "n"
+    },
+    {
+      "en": "gear",
+      "cn": "齿轮；使适合",
+      "property": "n，v"
+    },
+    {
+      "en": "pivot",
+      "cn": "枢轴，支点；中心，重点",
+      "property": "n"
+    },
+    {
+      "en": "hydraulic",
+      "cn": "水力的，液压的",
+      "property": "adj"
+    },
+    {
+      "en": "drainage",
+      "cn": "排水系统，排水",
+      "property": "n"
+    },
+    {
+      "en": "sewage",
+      "cn": "污水",
+      "property": "n"
+    },
+    {
+      "en": "ventilation",
+      "cn": "通风；通风设比",
+      "property": "n"
+    },
+    {
+      "en": "compress",
+      "cn": "压紧，压缩",
+      "property": "v"
+    },
+    {
+      "en": "condense",
+      "cn": "简缩，精简，凝结",
+      "property": "v"
+    },
+    {
+      "en": "refine",
+      "cn": "精炼，提纯",
+      "property": "v"
+    },
+    {
+      "en": "simplify",
+      "cn": "简化，精简",
+      "property": "v"
+    },
+    {
+      "en": "purify",
+      "cn": "净化，使纯净",
+      "property": "v"
+    },
+    {
+      "en": "filter",
+      "cn": "过滤，透过；过滤器",
+      "property": "v，n"
+    },
+    {
+      "en": "distil",
+      "cn": "蒸馏",
+      "property": "v"
+    },
+    {
+      "en": "mode",
+      "cn": "模式，方式",
+      "property": "n"
+    },
+    {
+      "en": "mould（mold）",
+      "cn": "浇铸；塑造；模子；霉菌",
+      "property": "v，n"
+    },
+    {
+      "en": "prototype",
+      "cn": "原型，雏形",
+      "property": "n"
+    },
+    {
+      "en": "framework",
+      "cn": "框架，结构，体系",
+      "property": "n"
+    },
+    {
+      "en": "aspect",
+      "cn": "方面",
+      "property": "n"
+    },
+    {
+      "en": "phase",
+      "cn": "阶段，时期",
+      "property": "n"
+    },
+    {
+      "en": "operate",
+      "cn": "操作，运营，做手术",
+      "property": "v"
+    },
+    {
+      "en": "facilitate",
+      "cn": "使便利，促进",
+      "property": "v"
+    },
+    {
+      "en": "transform",
+      "cn": "使改变形态；使改观",
+      "property": "v"
+    },
+    {
+      "en": "convert",
+      "cn": "转变；改变；皈依者",
+      "property": "v，n"
+    },
+    {
+      "en": "alter",
+      "cn": "改变，变更",
+      "property": "v"
+    },
+    {
+      "en": "shift",
+      "cn": "转移，变换；轮班",
+      "property": "v，n"
+    },
+    {
+      "en": "turn",
+      "cn": "转，翻；机会",
+      "property": "v，n"
+    },
+    {
+      "en": "adapt",
+      "cn": "适应，改编",
+      "property": "v"
+    },
+    {
+      "en": "adjust",
+      "cn": "调节，改变",
+      "property": "v"
+    },
+    {
+      "en": "pinpoint",
+      "cn": "精确知名。。的位置；针尖；极小的食物",
+      "property": "v，n"
+    },
+    {
+      "en": "accurate",
+      "cn": "准确的，正确无误的",
+      "property": "adj"
+    },
+    {
+      "en": "precise",
+      "cn": "精确的，准确的；一丝不苟的",
+      "property": "adj"
+    },
+    {
+      "en": "correct",
+      "cn": "正确的",
+      "property": "adj"
+    },
+    {
+      "en": "error",
+      "cn": "错误，过失",
+      "property": "n"
+    },
+    {
+      "en": "mistake",
+      "cn": "错误；误解",
+      "property": "n，v"
+    },
+    {
+      "en": "flaw",
+      "cn": "缺陷，错误",
+      "property": "n"
+    },
+    {
+      "en": "wrong",
+      "cn": "错误的",
+      "property": "adj/adv"
+    },
+    {
+      "en": "fault",
+      "cn": "缺点，故障；找出缺点",
+      "property": "n，v"
+    },
+    {
+      "en": "stumble",
+      "cn": "犯错误，绊脚；跌跌撞撞地走",
+      "property": "v"
+    },
+    {
+      "en": "contingency",
+      "cn": "意外事件，可能发生的事",
+      "property": "n"
+    },
+    {
+      "en": "circumstance",
+      "cn": "情况，环境，条件；境遇",
+      "property": "n"
+    }
+  ]
+}

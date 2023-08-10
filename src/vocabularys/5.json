@@ -905,7 +905,7 @@
     {
       "en": "identical",
       "cn": "同一的",
-      "property": "n"
+      "property": "adj"
     },
     {
       "en": "minus",
@@ -1160,6 +1160,851 @@
     {
       "en": "volt",
       "cn": "伏特",
+      "property": "n"
+    },
+    {
+      "en": "radiate",
+      "cn": "辐射，发散",
+      "property": "v"
+    },
+    {
+      "en": "emit",
+      "cn": "散发，发出",
+      "property": "v"
+    },
+    {
+      "en": "transparent",
+      "cn": "透明的",
+      "property": "adj"
+    },
+    {
+      "en": "hollow",
+      "cn": "空心的，中空的",
+      "property": "adj"
+    },
+    {
+      "en": "ozone",
+      "cn": "臭氧",
+      "property": "n"
+    },
+    {
+      "en": "gravity",
+      "cn": "重力，地球引力",
+      "property": "n"
+    },
+    {
+      "en": "friction",
+      "cn": "摩擦力，摩擦",
+      "property": "n"
+    },
+    {
+      "en": "eccentric",
+      "cn": "古怪的，不同心圆的",
+      "property": "adj"
+    },
+    {
+      "en": "displace",
+      "cn": "移动。。。的位置，取代，替代",
+      "property": "v"
+    },
+    {
+      "en": "boil",
+      "cn": "煮沸，（使）沸腾；沸点",
+      "property": "v，n"
+    },
+    {
+      "en": "melt",
+      "cn": "（使）融化，熔化",
+      "property": "v"
+    },
+    {
+      "en": "dissolve",
+      "cn": "（使）溶解，解散",
+      "property": "n"
+    },
+    {
+      "en": "rust",
+      "cn": "生锈；锈，铁锈",
+      "property": "v，n"
+    },
+    {
+      "en": "ferment",
+      "cn": "发酵，骚动；酶；动乱",
+      "property": "v，n"
+    },
+    {
+      "en": "dilute",
+      "cn": "冲淡，稀释；稀释了的，减弱了的",
+      "property": "v，adj"
+    },
+    {
+      "en": "acid",
+      "cn": "酸",
+      "property": "n，adj"
+    },
+    {
+      "en": "noxious",
+      "cn": "有害的",
+      "property": "adj"
+    },
+    {
+      "en": "static",
+      "cn": "静态的，静力的",
+      "property": "adj"
+    },
+    {
+      "en": "inert",
+      "cn": "无生气的；惰性的；不活泼的",
+      "property": "adj"
+    },
+    {
+      "en": "inherent",
+      "cn": "内在的，固有的",
+      "property": "adj"
+    },
+    {
+      "en": "formula",
+      "cn": "公式，方程式，原则，配方",
+      "property": "n"
+    },
+    {
+      "en": "component",
+      "cn": "组成，组成部分",
+      "property": "n"
+    },
+    {
+      "en": "compose",
+      "cn": "组成，构成，创作（音乐），写",
+      "property": "v"
+    },
+    {
+      "en": "mixture",
+      "cn": "混合物",
+      "property": "n"
+    },
+    {
+      "en": "blender",
+      "cn": "混合，搅拌；混合物",
+      "property": "v，n"
+    },
+    {
+      "en": "theory",
+      "cn": "理论，学说",
+      "property": "n"
+    },
+    {
+      "en": "empirical",
+      "cn": "以实验为依据的；经验主义的",
+      "property": "adj"
+    },
+    {
+      "en": "practical",
+      "cn": "实际的，有用的，务实的",
+      "property": "adj"
+    },
+    {
+      "en": "doctrine",
+      "cn": "学说，教义，信条",
+      "property": "n"
+    },
+    {
+      "en": "principle",
+      "cn": "原则，原理",
+      "property": "n"
+    },
+    {
+      "en": "discipline",
+      "cn": "纪律，训练",
+      "property": "n"
+    },
+    {
+      "en": "term",
+      "cn": "期限，术语，学期",
+      "property": "n"
+    },
+    {
+      "en": "semester",
+      "cn": "学期",
+      "property": "n"
+    },
+    {
+      "en": "timetable",
+      "cn": "时间表，课程表",
+      "property": "n"
+    },
+    {
+      "en": "schedule",
+      "cn": "日程安排，时刻表",
+      "property": "n"
+    },
+    {
+      "en": "deadline",
+      "cn": "截止日期",
+      "property": "n"
+    },
+    {
+      "en": "course",
+      "cn": "课程",
+      "property": "n"
+    },
+    {
+      "en": "lesson",
+      "cn": "一堂课，课程，教训",
+      "property": "n"
+    },
+    {
+      "en": "curriculum",
+      "cn": "课程，全部课程",
+      "property": "n"
+    },
+    {
+      "en": "seminar",
+      "cn": "研讨会，研讨课",
+      "property": "n"
+    },
+    {
+      "en": "forum",
+      "cn": "研讨会，论坛",
+      "property": "n"
+    },
+    {
+      "en": "syllabus",
+      "cn": "教学大纲",
+      "property": "n"
+    },
+    {
+      "en": "system",
+      "cn": "系统，体制，制度",
+      "property": "n"
+    },
+    {
+      "en": "rudimentary",
+      "cn": "基本的，粗浅的",
+      "property": "adj"
+    },
+    {
+      "en": "basic",
+      "cn": "基本的，基础的",
+      "property": "adj"
+    },
+    {
+      "en": "fundamental",
+      "cn": "基础的，基本的，根本的",
+      "property": "adj"
+    },
+    {
+      "en": "elementary",
+      "cn": "基本的，初级的",
+      "property": "adj"
+    },
+    {
+      "en": "profound",
+      "cn": "深刻的，深远的",
+      "property": "adj"
+    },
+    {
+      "en": "superficial",
+      "cn": "表面的，外表的，肤浅的",
+      "property": "adj"
+    },
+    {
+      "en": "surface",
+      "cn": "表面，地表",
+      "property": "n"
+    },
+    {
+      "en": "compulsory",
+      "cn": "强制的",
+      "property": "adj"
+    },
+    {
+      "en": "prerequisite",
+      "cn": "必备条件，必备的",
+      "property": "n，adj"
+    },
+    {
+      "en": "selective",
+      "cn": "选择性的",
+      "property": "adj"
+    },
+    {
+      "en": "elective",
+      "cn": "选举的，选修的；选修科目",
+      "property": "adj，n"
+    },
+    {
+      "en": "assignment",
+      "cn": "作业；任务",
+      "property": "n"
+    },
+    {
+      "en": "submit",
+      "cn": "服从，提交，呈递",
+      "property": "v"
+    },
+    {
+      "en": "preview",
+      "cn": "预习",
+      "property": "v/n"
+    },
+    {
+      "en": "review",
+      "cn": "复习",
+      "property": "v/n"
+    },
+    {
+      "en": "revise",
+      "cn": "修订，修改",
+      "property": "v"
+    },
+    {
+      "en": "inspect",
+      "cn": "检阅，检查，视察",
+      "property": "v"
+    },
+    {
+      "en": "consult",
+      "cn": "请教，查阅",
+      "property": "v"
+    },
+    {
+      "en": "skim",
+      "cn": "掠过，擦过；略读",
+      "property": "v"
+    },
+    {
+      "en": "scan",
+      "cn": "细看，扫描，浏览",
+      "property": "v，n"
+    },
+    {
+      "en": "scrutinise",
+      "cn": "仔细检查，仔细查看",
+      "property": "v"
+    },
+    {
+      "en": "recite",
+      "cn": "背诵，朗诵",
+      "property": "v"
+    },
+    {
+      "en": "dictate",
+      "cn": "给。。。听写，命令，强行规定",
+      "property": "v"
+    },
+    {
+      "en": "examination",
+      "cn": "考试，细查",
+      "property": "n"
+    },
+    {
+      "en": "test",
+      "cn": "试验，检验",
+      "property": "n/v"
+    },
+    {
+      "en": "quiz",
+      "cn": "智力竞赛，小测验",
+      "property": "n"
+    },
+    {
+      "en": "presentation",
+      "cn": "陈述，表演",
+      "property": "n"
+    },
+    {
+      "en": "plagiarise",
+      "cn": "抄袭",
+      "property": "v"
+    },
+    {
+      "en": "copy",
+      "cn": "复制品；抄写，复制",
+      "property": "n，v"
+    },
+    {
+      "en": "print",
+      "cn": "打印，印刷品",
+      "property": "v，n"
+    },
+    {
+      "en": "thesis",
+      "cn": "论文",
+      "property": "n"
+    },
+    {
+      "en": "essay",
+      "cn": "短文，小论文",
+      "property": "n"
+    },
+    {
+      "en": "paper",
+      "cn": "论文，纸",
+      "property": "n"
+    },
+    {
+      "en": "dissertation",
+      "cn": "专题论文，学位论文",
+      "property": "n"
+    },
+    {
+      "en": "project",
+      "cn": "专题研究，项目，方案",
+      "property": "n"
+    },
+    {
+      "en": "heading",
+      "cn": "标题，主题",
+      "property": "n"
+    },
+    {
+      "en": "outest",
+      "cn": "开端，开始",
+      "property": "n"
+    },
+    {
+      "en": "outline",
+      "cn": "概要，轮廓，略图",
+      "property": "n"
+    },
+    {
+      "en": "point",
+      "cn": "点，要点",
+      "property": "n"
+    },
+    {
+      "en": "gist",
+      "cn": "主旨，要点",
+      "property": "n"
+    },
+    {
+      "en": "opinion",
+      "cn": "看法，评价",
+      "property": "n"
+    },
+    {
+      "en": "introduce",
+      "cn": "介绍，引进",
+      "property": "v"
+    },
+    {
+      "en": "reference",
+      "cn": "参考，推荐函，提及，涉及",
+      "property": "n"
+    },
+    {
+      "en": "cite",
+      "cn": "引用",
+      "property": "v"
+    },
+    {
+      "en": "elicit",
+      "cn": "引出，探出，套出",
+      "property": "v"
+    },
+    {
+      "en": "quote",
+      "cn": "引用，引述，报（价）",
+      "property": "n"
+    },
+    {
+      "en": "extract",
+      "cn": "摘录，提取出",
+      "property": "n"
+    },
+    {
+      "en": "abstract",
+      "cn": "摘要；抽象的；提取",
+      "property": "n，adj，v"
+    },
+    {
+      "en": "summary",
+      "cn": "摘要，概要",
+      "property": "n"
+    },
+    {
+      "en": "assume",
+      "cn": "假定，设想，承担（责任），取得（权利）",
+      "property": "v"
+    },
+    {
+      "en": "presume",
+      "cn": "假定，假设，料想",
+      "property": "v"
+    },
+    {
+      "en": "suppose",
+      "cn": "假定，认为",
+      "property": "v"
+    },
+    {
+      "en": "hypothesis",
+      "cn": "假说，假设",
+      "property": "n"
+    },
+    {
+      "en": "postulate",
+      "cn": "假定，假设",
+      "property": "n/v"
+    },
+    {
+      "en": "speculate",
+      "cn": "推测",
+      "property": "v"
+    },
+    {
+      "en": "predict",
+      "cn": "预测",
+      "property": "v"
+    },
+    {
+      "en": "perceive",
+      "cn": "察觉，感知，意识到",
+      "property": "v"
+    },
+    {
+      "en": "detect",
+      "cn": "察觉，发觉，侦察出",
+      "property": "v"
+    },
+    {
+      "en": "discern",
+      "cn": "分辨出，觉察出",
+      "property": "v"
+    },
+    {
+      "en": "recognise",
+      "cn": "认识，辨识出",
+      "property": "v"
+    },
+    {
+      "en": "conscious",
+      "cn": "意识到的，有知觉的",
+      "property": "adj"
+    },
+    {
+      "en": "reckon",
+      "cn": "估计，期望，认为",
+      "property": "v"
+    },
+    {
+      "en": "deem",
+      "cn": "认为，相信",
+      "property": "v"
+    },
+    {
+      "en": "imply",
+      "cn": "暗指，意味着",
+      "property": "v"
+    },
+    {
+      "en": "deliberate",
+      "cn": "深思熟虑，仔细考虑；审慎的",
+      "property": "n，adj"
+    },
+    {
+      "en": "represent",
+      "cn": "代表，象征",
+      "property": "v"
+    },
+    {
+      "en": "insist",
+      "cn": "坚持，坚持认为",
+      "property": "v"
+    },
+    {
+      "en": "persist",
+      "cn": "坚持不懈；持续存在",
+      "property": "v"
+    },
+    {
+      "en": "understand",
+      "cn": "懂得，理解",
+      "property": "v，n"
+    },
+    {
+      "en": "comprehend",
+      "cn": "理解，领悟",
+      "property": "v"
+    },
+    {
+      "en": "analyse",
+      "cn": "分析",
+      "property": "v"
+    },
+    {
+      "en": "diagnose",
+      "cn": "判断，诊断",
+      "property": "v"
+    },
+    {
+      "en": "infer",
+      "cn": "推断，推理",
+      "property": "n，v"
+    },
+    {
+      "en": "deduce",
+      "cn": "演绎，推论",
+      "property": "v"
+    },
+    {
+      "en": "conclude",
+      "cn": "推断出，得出结论；结束",
+      "property": "v"
+    },
+    {
+      "en": "analogy",
+      "cn": "类比，类推",
+      "property": "n"
+    },
+    {
+      "en": "compare",
+      "cn": "比较，把。。。比作，比得上",
+      "property": "v"
+    },
+    {
+      "en": "contrast",
+      "cn": "对比，明显的差异",
+      "property": "n"
+    },
+    {
+      "en": "overlap",
+      "cn": "与。。。复叠；与。。。部分相同",
+      "property": "v"
+    },
+    {
+      "en": "contradiction",
+      "cn": "矛盾，不一致；反驳",
+      "property": "n"
+    },
+    {
+      "en": "disagree",
+      "cn": "有分歧，不同意",
+      "property": "v"
+    },
+    {
+      "en": "differ",
+      "cn": "不同，相异",
+      "property": "v"
+    },
+    {
+      "en": "diverse",
+      "cn": "不一样的，多种多样的",
+      "property": "adj"
+    },
+    {
+      "en": "nuance",
+      "cn": "细微差别",
+      "property": "n"
+    },
+    {
+      "en": "inductive",
+      "cn": "归纳的，诱导的",
+      "property": "n"
+    },
+    {
+      "en": "detail",
+      "cn": "细节；细部",
+      "property": "n"
+    },
+    {
+      "en": "thorough",
+      "cn": "彻底的，详尽的",
+      "property": "adj"
+    },
+    {
+      "en": "example",
+      "cn": "例子，榜样",
+      "property": "n"
+    },
+    {
+      "en": "instance",
+      "cn": "实例，情况，场合",
+      "property": "n"
+    },
+    {
+      "en": "confirm",
+      "cn": "证实，确保，巩固",
+      "property": "v"
+    },
+    {
+      "en": "demonstrate",
+      "cn": "示范，演示，证明",
+      "property": "v"
+    },
+    {
+      "en": "illustrate",
+      "cn": "说明；加图表",
+      "property": "v"
+    },
+    {
+      "en": "manifest",
+      "cn": "显示，表明",
+      "property": "v"
+    },
+    {
+      "en": "prove",
+      "cn": "证明，结果是",
+      "property": "v"
+    },
+    {
+      "en": "determine",
+      "cn": "决定，下定决心，查明",
+      "property": "v"
+    },
+    {
+      "en": "decide",
+      "cn": "决定",
+      "property": "v"
+    },
+    {
+      "en": "resolve",
+      "cn": "决心，决定；（使）分解为，解决",
+      "property": "v"
+    },
+    {
+      "en": "survey",
+      "cn": "民意调查；对。。。进行调查",
+      "property": "v"
+    },
+    {
+      "en": "research",
+      "cn": "调查，探索",
+      "property": "n"
+    },
+    {
+      "en": "observe",
+      "cn": "观察，观测，注意到",
+      "property": "v"
+    },
+    {
+      "en": "inquire",
+      "cn": "询问，调查",
+      "property": "v"
+    },
+    {
+      "en": "query",
+      "cn": "询问，疑问；怀疑，询问",
+      "property": "n，v"
+    },
+    {
+      "en": "questionnaire",
+      "cn": "调查表，调查问卷",
+      "property": "n"
+    },
+    {
+      "en": "achieve",
+      "cn": "实现，达到",
+      "property": "v"
+    },
+    {
+      "en": "accomplish",
+      "cn": "达到（目的），完成",
+      "property": "v"
+    },
+    {
+      "en": "attain",
+      "cn": "获得，达到",
+      "property": "v"
+    },
+    {
+      "en": "credit",
+      "cn": "学分；信任",
+      "property": "n"
+    },
+    {
+      "en": "score",
+      "cn": "得分，成绩",
+      "property": "n"
+    },
+    {
+      "en": "mark",
+      "cn": "分数，标记；标志着；给。。。打分",
+      "property": "n，v"
+    },
+    {
+      "en": "grade",
+      "cn": "给。。分等级；等级，成绩等级",
+      "property": "v"
+    },
+    {
+      "en": "rank",
+      "cn": "等级，排，列；给。。评级，列位",
+      "property": "n"
+    },
+    {
+      "en": "row",
+      "cn": "排，行",
+      "property": "n"
+    },
+    {
+      "en": "queue",
+      "cn": "行列，排队等候",
+      "property": "n，v"
+    },
+    {
+      "en": "grant",
+      "cn": "授予，准予，承认",
+      "property": "v"
+    },
+    {
+      "en": "praise",
+      "cn": "赞美，赞扬",
+      "property": "n，v"
+    },
+    {
+      "en": "appreciate",
+      "cn": "赏识，感激，意识到",
+      "property": "v"
+    },
+    {
+      "en": "feedback",
+      "cn": "反馈，反应",
+      "property": "n"
+    },
+    {
+      "en": "underestimate",
+      "cn": "低估",
+      "property": "v"
+    },
+    {
+      "en": "overestimate",
+      "cn": "高估",
+      "property": "v"
+    },
+    {
+      "en": "apply",
+      "cn": "申请",
+      "property": "v"
+    },
+    {
+      "en": "fellowship",
+      "cn": "研究生奖学金",
+      "property": "n"
+    },
+    {
+      "en": "scholarship",
+      "cn": "奖学金，学问，学识",
+      "property": "n"
+    },
+    {
+      "en": "reward",
+      "cn": "报答，赏金；报答",
+      "property": "n，v"
+    },
+    {
+      "en": "award",
+      "cn": "奖，奖品",
+      "property": "n"
+    },
+    {
+      "en": "prize",
+      "cn": "奖赏，珍视",
+      "property": "n，v"
+    },
+    {
+      "en": "fee",
+      "cn": "费用",
       "property": "n"
     }
   ]

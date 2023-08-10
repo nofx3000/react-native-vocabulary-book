@@ -1,0 +1,401 @@
+{
+  "chapter": 7,
+  "name": "cultrue",
+  "vocabularys": [
+    {
+      "en": "cultrue",
+      "cn": "文化",
+      "property": "n"
+    },
+    {
+      "en": "civilisation",
+      "cn": "文明",
+      "property": "n"
+    },
+    {
+      "en": "renaissance",
+      "cn": "文艺复兴时期",
+      "property": "n"
+    },
+    {
+      "en": "epic",
+      "cn": "史诗",
+      "property": "n"
+    },
+    {
+      "en": "ideology",
+      "cn": "意识形态，思想体系",
+      "property": "n"
+    },
+    {
+      "en": "tradition",
+      "cn": "传统",
+      "property": "n"
+    },
+    {
+      "en": "convention",
+      "cn": "惯例；大型会议",
+      "property": "n"
+    },
+    {
+      "en": "custom",
+      "cn": "习俗；个人习惯",
+      "property": "n"
+    },
+    {
+      "en": "feudalism",
+      "cn": "封建主义；封建制度",
+      "property": "n"
+    },
+    {
+      "en": "slavery",
+      "cn": "奴隶制",
+      "property": "n"
+    },
+    {
+      "en": "ethical",
+      "cn": "伦理的，道德的",
+      "property": "adj"
+    },
+    {
+      "en": "moral",
+      "cn": "道德上的，有道理的；道德",
+      "property": "阿的江，n"
+    },
+    {
+      "en": "tribe",
+      "cn": "部落",
+      "property": "n"
+    },
+    {
+      "en": "aboriginal",
+      "cn": "土著的，本土原有的；土著人",
+      "property": "adj，n"
+    },
+    {
+      "en": "inhabitant",
+      "cn": "居民",
+      "property": "n"
+    },
+    {
+      "en": "native",
+      "cn": "本土的，本地人",
+      "property": "adj，n"
+    },
+    {
+      "en": "local",
+      "cn": "当地的，当地人",
+      "property": "adj，n"
+    },
+    {
+      "en": "exotic",
+      "cn": "外来的，异国情调的",
+      "property": "adj"
+    },
+    {
+      "en": "foreigner",
+      "cn": "外国人",
+      "property": "n"
+    },
+    {
+      "en": "alien",
+      "cn": "外侨，外星生物；外国的，陌生的",
+      "property": "n，adj"
+    },
+    {
+      "en": "anthropologist",
+      "cn": "人类学家",
+      "property": "n"
+    },
+    {
+      "en": "humanitarian",
+      "cn": "人道主义者；人道主义的，博爱的",
+      "property": "n，adj"
+    },
+    {
+      "en": "heritage",
+      "cn": "（国家的）遗产",
+      "property": "n"
+    },
+    {
+      "en": "inherit",
+      "cn": "继承；经遗传获得",
+      "property": "v"
+    },
+    {
+      "en": "antique",
+      "cn": "古董；古董的",
+      "property": "n，adj"
+    },
+    {
+      "en": "archaeology",
+      "cn": "考古学",
+      "property": "n"
+    },
+    {
+      "en": "excavate",
+      "cn": "挖掘，发掘",
+      "property": "v"
+    },
+    {
+      "en": "museum",
+      "cn": "博物馆",
+      "property": "n"
+    },
+    {
+      "en": "pottery",
+      "cn": "陶器",
+      "property": "n"
+    },
+    {
+      "en": "engrave",
+      "cn": "在。。。上雕刻",
+      "property": "v"
+    },
+    {
+      "en": "decorate",
+      "cn": "装饰",
+      "property": "v"
+    },
+    {
+      "en": "religion",
+      "cn": "宗教，宗教信仰",
+      "property": "n"
+    },
+    {
+      "en": "ritual",
+      "cn": "仪式",
+      "property": "n"
+    },
+    {
+      "en": "etiquette",
+      "cn": "礼仪，礼节",
+      "property": "n"
+    },
+    {
+      "en": "belief",
+      "cn": "信念，信仰",
+      "property": "n"
+    },
+    {
+      "en": "soul",
+      "cn": "灵魂，心灵",
+      "property": "n"
+    },
+    {
+      "en": "spirit",
+      "cn": "精神，心灵",
+      "property": "n"
+    },
+    {
+      "en": "sacred",
+      "cn": "神圣的，宗教的",
+      "property": "adj"
+    },
+    {
+      "en": "hallowed",
+      "cn": "神圣的，受尊崇的",
+      "property": "adj"
+    },
+    {
+      "en": "holy",
+      "cn": "神圣的，圣洁的，虔诚的",
+      "property": "n"
+    },
+    {
+      "en": "Pope",
+      "cn": "教皇",
+      "property": "n"
+    },
+    {
+      "en": "bishop",
+      "cn": "主教",
+      "property": "n"
+    },
+    {
+      "en": "missionary",
+      "cn": "传教士",
+      "property": "n"
+    },
+    {
+      "en": "priest",
+      "cn": "牧师，神父，教士",
+      "property": "n"
+    },
+    {
+      "en": "Bible",
+      "cn": "圣经",
+      "property": "n"
+    },
+    {
+      "en": "church",
+      "cn": "教堂",
+      "property": "n"
+    },
+    {
+      "en": "cathedral",
+      "cn": "大教堂",
+      "property": "n"
+    },
+    {
+      "en": "choir",
+      "cn": "唱诗班",
+      "property": "n"
+    },
+    {
+      "en": "monk",
+      "cn": "僧侣",
+      "property": "n"
+    },
+    {
+      "en": "temple",
+      "cn": "寺庙，庙宇",
+      "property": "n"
+    },
+    {
+      "en": "pagoda",
+      "cn": "佛塔",
+      "property": "n"
+    },
+    {
+      "en": "empire",
+      "cn": "帝国",
+      "property": "n"
+    },
+    {
+      "en": "imperial",
+      "cn": "帝国的",
+      "property": "adj"
+    },
+    {
+      "en": "royal",
+      "cn": "皇家的，高贵的",
+      "property": "adj"
+    },
+    {
+      "en": "dynasty",
+      "cn": "朝代",
+      "property": "n"
+    },
+    {
+      "en": "chronology",
+      "cn": "年表；发生时间顺序表；年代学",
+      "property": "n"
+    },
+    {
+      "en": "emperor",
+      "cn": "皇帝",
+      "property": "n"
+    },
+    {
+      "en": "king",
+      "cn": "国王",
+      "property": "n"
+    },
+    {
+      "en": "queen",
+      "cn": "女王，王后",
+      "property": "n"
+    },
+    {
+      "en": "prince",
+      "cn": "王子，亲王",
+      "property": "n"
+    },
+    {
+      "en": "princess",
+      "cn": "公主，王妃",
+      "property": "n"
+    },
+    {
+      "en": "majesty",
+      "cn": "威严，壮观，殿下",
+      "property": "n"
+    },
+    {
+      "en": "nobility",
+      "cn": "高贵的品质，贵族",
+      "property": "n"
+    },
+    {
+      "en": "lord",
+      "cn": "贵族；阁下",
+      "property": "n"
+    },
+    {
+      "en": "knight",
+      "cn": "骑士；封某人为爵",
+      "property": "n，v"
+    },
+    {
+      "en": "guardian",
+      "cn": "保护者，监护人；守护的",
+      "property": "n，adj"
+    },
+    {
+      "en": "nostalgia",
+      "cn": "思想之情，怀旧之情",
+      "property": "n"
+    },
+    {
+      "en": "homesick",
+      "cn": "思乡的",
+      "property": "adj"
+    },
+    {
+      "en": "celebrity",
+      "cn": "名人，名誉",
+      "property": "n"
+    },
+    {
+      "en": "status",
+      "cn": "身份，地位",
+      "property": "n"
+    },
+    {
+      "en": "background",
+      "cn": "背景",
+      "property": "n"
+    },
+    {
+      "en": "experience",
+      "cn": "经验，经历",
+      "property": "n"
+    },
+    {
+      "en": "anecdote",
+      "cn": "奇闻逸事",
+      "property": "n"
+    },
+    {
+      "en": "accident",
+      "cn": "事故，意外",
+      "property": "n"
+    },
+    {
+      "en": "incident",
+      "cn": "（不寻常的、重要的或暴力的）事件；（两国间的）冲突",
+      "property": "n"
+    },
+    {
+      "en": "thrive",
+      "cn": "【动】繁荣，兴旺，茁壮生长",
+      "property": "v"
+    },
+    {
+      "en": "prosperity",
+      "cn": "【名】繁荣，兴旺",
+      "property": "n"
+    },
+    {
+      "en": "setback",
+      "cn": "挫折，阻碍",
+      "property": "n"
+    },
+    {
+      "en": "adversity",
+      "cn": "逆境",
+      "property": "n"
+    }
+  ]
+}

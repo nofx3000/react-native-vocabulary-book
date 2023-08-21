@@ -1,0 +1,336 @@
+{
+  "chapter": 8,
+  "name": "language",
+  "vocabularys": [
+    {
+      "en": "symbol",
+      "cn": "象征，符号",
+      "property": "n"
+    },
+    {
+      "en": "sign",
+      "cn": "符号，征兆，迹象，手势",
+      "property": "n"
+    },
+    {
+      "en": "gestrue",
+      "cn": "手势，姿势",
+      "property": "n"
+    },
+    {
+      "en": "handwriting",
+      "cn": "笔记，书写",
+      "property": "n"
+    },
+    {
+      "en": "pictograph",
+      "cn": "象形文字",
+      "property": "n"
+    },
+    {
+      "en": "wedge",
+      "cn": "楔子，楔形物体，楔形文字",
+      "property": "n"
+    },
+    {
+      "en": "knot",
+      "cn": "结，节子",
+      "property": "n"
+    },
+    {
+      "en": "semantic",
+      "cn": "语义的",
+      "property": "adj"
+    },
+    {
+      "en": "syntax",
+      "cn": "语法",
+      "property": "n"
+    },
+    {
+      "en": "grammar",
+      "cn": "语法，语法书",
+      "property": "n"
+    },
+    {
+      "en": "phonetics",
+      "cn": "语音学",
+      "property": "n"
+    },
+    {
+      "en": "pronounce",
+      "cn": "发。。。的音，宣布",
+      "property": "n"
+    },
+    {
+      "en": "intonation",
+      "cn": "语调",
+      "property": "n"
+    },
+    {
+      "en": "inflection",
+      "cn": "语调的抑扬变化",
+      "property": "n"
+    },
+    {
+      "en": "dialect",
+      "cn": "方言，地方话",
+      "property": "n"
+    },
+    {
+      "en": "accent",
+      "cn": "重音，口音，读音符号",
+      "property": "n"
+    },
+    {
+      "en": "utterance",
+      "cn": "说话，话语",
+      "property": "n"
+    },
+    {
+      "en": "oral",
+      "cn": "口头的",
+      "property": "adj"
+    },
+    {
+      "en": "verbal",
+      "cn": "口头的，言语的",
+      "property": "adj"
+    },
+    {
+      "en": "syllable",
+      "cn": "音节",
+      "property": "n"
+    },
+    {
+      "en": "phoneme",
+      "cn": "音位",
+      "property": "n"
+    },
+    {
+      "en": "vowel",
+      "cn": "元音",
+      "property": "n"
+    },
+    {
+      "en": "consonant",
+      "cn": "辅音",
+      "property": "n"
+    },
+    {
+      "en": "alphabet",
+      "cn": "字母表，全部字母",
+      "property": "n"
+    },
+    {
+      "en": "logogram",
+      "cn": "词符",
+      "property": "n"
+    },
+    {
+      "en": "vocabulary",
+      "cn": "词汇",
+      "property": "n"
+    },
+    {
+      "en": "dictionary",
+      "cn": "字典，词典",
+      "property": "n"
+    },
+    {
+      "en": "idiom",
+      "cn": "习语",
+      "property": "n"
+    },
+    {
+      "en": "phrase",
+      "cn": "短语",
+      "property": "n"
+    },
+    {
+      "en": "clause",
+      "cn": "从句，分句，条款",
+      "property": "n"
+    },
+    {
+      "en": "expression",
+      "cn": "表达，词语，表情",
+      "property": "n"
+    },
+    {
+      "en": "tense",
+      "cn": "时态；紧张的",
+      "property": "n，adj"
+    },
+    {
+      "en": "root",
+      "cn": "词根，字根，根源",
+      "property": "n"
+    },
+    {
+      "en": "prefix",
+      "cn": "词首，前缀；前置代号",
+      "property": "n"
+    },
+    {
+      "en": "suffix",
+      "cn": "后缀，词尾；尾标",
+      "property": "n"
+    },
+    {
+      "en": "abbreviation",
+      "cn": "缩写",
+      "property": "n"
+    },
+    {
+      "en": "synonym",
+      "cn": "同义词",
+      "property": "n"
+    },
+    {
+      "en": "antonym",
+      "cn": "反义词",
+      "property": "n"
+    },
+    {
+      "en": "noun",
+      "cn": "名词",
+      "property": "n"
+    },
+    {
+      "en": "singular",
+      "cn": "单数；单数的，非凡的",
+      "property": "n，adj"
+    },
+    {
+      "en": "plural",
+      "cn": "复数；复数的，多元的",
+      "property": "n，adj"
+    },
+    {
+      "en": "pronoun",
+      "cn": "代词",
+      "property": "n"
+    },
+    {
+      "en": "verb",
+      "cn": "动词",
+      "property": "n"
+    },
+    {
+      "en": "adjective",
+      "cn": "形容词",
+      "property": "n"
+    },
+    {
+      "en": "adverb",
+      "cn": "副词",
+      "property": "n"
+    },
+    {
+      "en": "preposition",
+      "cn": "介词",
+      "property": "n"
+    },
+    {
+      "en": "conjunction",
+      "cn": "连词，结合",
+      "property": "n"
+    },
+    {
+      "en": "consistent",
+      "cn": "一致的；（观点或看法）连贯的",
+      "property": "adj"
+    },
+    {
+      "en": "complicated",
+      "cn": "复杂的",
+      "property": "adj"
+    },
+    {
+      "en": "complex",
+      "cn": "复杂的",
+      "property": "adj"
+    },
+    {
+      "en": "compile",
+      "cn": "编纂，编译",
+      "property": "v"
+    },
+    {
+      "en": "version",
+      "cn": "版本",
+      "property": "n"
+    },
+    {
+      "en": "translate",
+      "cn": "翻译；转变",
+      "property": "v"
+    },
+    {
+      "en": "paraphrase",
+      "cn": "意译，改述",
+      "property": "v/n"
+    },
+    {
+      "en": "interpret",
+      "cn": "口译，解释，说明，领会，理解",
+      "property": "v"
+    },
+    {
+      "en": "narrate",
+      "cn": "讲（故事），叙述",
+      "property": "v"
+    },
+    {
+      "en": "illuminate",
+      "cn": "阐释，说明；照亮",
+      "property": "v"
+    },
+    {
+      "en": "decipher",
+      "cn": "译解，辨认",
+      "property": "v"
+    },
+    {
+      "en": "eloquence",
+      "cn": "雄辩，流利的口才",
+      "property": "n"
+    },
+    {
+      "en": "communicate",
+      "cn": "沟通，交流；传达",
+      "property": "v"
+    },
+    {
+      "en": "discussion",
+      "cn": "讨论，谈论",
+      "property": "n"
+    },
+    {
+      "en": "brainstorm",
+      "cn": "集体自由讨论，头脑风暴",
+      "property": "n/v"
+    },
+    {
+      "en": "debate",
+      "cn": "辩论，争论",
+      "property": "n/v"
+    },
+    {
+      "en": "commentary",
+      "cn": "评论，评注，批评，实况报道",
+      "property": "n"
+    },
+    {
+      "en": "negotiate",
+      "cn": "协商，谈判",
+      "property": "v"
+    },
+    {
+      "en": "contention",
+      "cn": "争论，争辩，观点",
+      "property": "n"
+    }
+  ]
+}

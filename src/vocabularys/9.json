@@ -1,0 +1,221 @@
+{
+  "chapter": 9,
+  "name": "entertainment",
+  "vocabularys": [
+    {
+      "en": "medium",
+      "cn": "媒介；中间的，中等的",
+      "property": "n，adj"
+    },
+    {
+      "en": "press",
+      "cn": "新闻界，记者；报刊；出版社",
+      "property": "n"
+    },
+    {
+      "en": "journalist",
+      "cn": "记者，新闻工作者",
+      "property": "n"
+    },
+    {
+      "en": "critic",
+      "cn": "批评家，挑剔的人",
+      "property": "n"
+    },
+    {
+      "en": "commentator",
+      "cn": "评论员；实况解说员",
+      "property": "n"
+    },
+    {
+      "en": "exponent",
+      "cn": "阐述着，倡导者，拥护者",
+      "property": "n"
+    },
+    {
+      "en": "announcer",
+      "cn": "广播员，播音员",
+      "property": "n"
+    },
+    {
+      "en": "correspondent",
+      "cn": "通信者，通讯员，记者",
+      "property": "n"
+    },
+    {
+      "en": "messenger",
+      "cn": "邮递员，信使",
+      "property": "n"
+    },
+    {
+      "en": "editor",
+      "cn": "编辑，校订者",
+      "property": "n"
+    },
+    {
+      "en": "typist",
+      "cn": "打字员",
+      "property": "n"
+    },
+    {
+      "en": "handout",
+      "cn": "传单，讲义",
+      "property": "n"
+    },
+    {
+      "en": "leaflet",
+      "cn": "传单；散发传单",
+      "property": "n，v"
+    },
+    {
+      "en": "propaganda",
+      "cn": "宣传，鼓吹",
+      "property": "n"
+    },
+    {
+      "en": "publish",
+      "cn": "公布，发行，出版",
+      "property": "v"
+    },
+    {
+      "en": "disseminate",
+      "cn": "散布，传播",
+      "property": "v"
+    },
+    {
+      "en": "foresee",
+      "cn": "预见，预知",
+      "property": "v"
+    },
+    {
+      "en": "anticipate",
+      "cn": "预期，预料",
+      "property": "v"
+    },
+    {
+      "en": "expect",
+      "cn": "期待，预料，预期",
+      "property": "v"
+    },
+    {
+      "en": "await",
+      "cn": "等待，等候，期待，将降临到。。。身上",
+      "property": "n"
+    },
+    {
+      "en": "pastime",
+      "cn": "消遣，娱乐",
+      "property": "n"
+    },
+    {
+      "en": "entertain",
+      "cn": "娱乐，招待，心存，怀有",
+      "property": "v"
+    },
+    {
+      "en": "recreation",
+      "cn": "休闲，娱乐",
+      "property": "n"
+    },
+    {
+      "en": "amuse",
+      "cn": "逗乐，给。。。提供娱乐",
+      "property": "v"
+    },
+    {
+      "en": "gossip",
+      "cn": "闲聊，流言蜚语",
+      "property": "n"
+    },
+    {
+      "en": "rumour",
+      "cn": "谣言，传闻",
+      "property": "n"
+    },
+    {
+      "en": "consensus",
+      "cn": "共识，一致的意见",
+      "property": "n"
+    },
+    {
+      "en": "festival",
+      "cn": "节日，节",
+      "property": "n"
+    },
+    {
+      "en": "feast",
+      "cn": "盛宴，节日",
+      "property": "n"
+    },
+    {
+      "en": "programme",
+      "cn": "节目，方案；程序",
+      "property": "n，v"
+    },
+    {
+      "en": "rehearsal",
+      "cn": "排练",
+      "property": "n"
+    },
+    {
+      "en": "perform",
+      "cn": "表演，演出",
+      "property": "v"
+    },
+    {
+      "en": "imitate",
+      "cn": "模仿，效仿",
+      "property": "v"
+    },
+    {
+      "en": "mimic",
+      "cn": "模仿，戏仿",
+      "property": "v"
+    },
+    {
+      "en": "simulate",
+      "cn": "模拟，假装，冒充",
+      "property": "v"
+    },
+    {
+      "en": "circus",
+      "cn": "马戏团",
+      "property": "n"
+    },
+    {
+      "en": "magic",
+      "cn": "魔术，魔法",
+      "property": "n"
+    },
+    {
+      "en": "drama",
+      "cn": "戏，剧，戏剧艺术",
+      "property": "n"
+    },
+    {
+      "en": "concert",
+      "cn": "音乐会",
+      "property": "n"
+    },
+    {
+      "en": "symphony",
+      "cn": "交响乐",
+      "property": "n"
+    },
+    {
+      "en": "orchestra",
+      "cn": "管弦乐队",
+      "property": "n"
+    },
+    {
+      "en": "ballet",
+      "cn": "芭蕾舞，芭蕾舞剧",
+      "property": "n"
+    },
+    {
+      "en": "opera",
+      "cn": "歌剧",
+      "property": "n"
+    }
+  ]
+}

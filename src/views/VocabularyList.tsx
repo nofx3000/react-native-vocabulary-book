@@ -1,5 +1,6 @@
 import React, {useState, FC, useEffect, useRef} from 'react';
 import {
+  View,
   ScrollView,
   Dimensions,
   StyleSheet,
@@ -7,9 +8,12 @@ import {
   TouchableOpacity,
   Image,
 } from 'react-native';
+import axios from 'axios';
+import Sound from 'react-native-sound';
 
 import icon_switch from '../assets/icon_switch.png';
 import icon_shuffle from '../assets/suiji.png';
+import icon_speaker from '../assets/speaker.png';
 
 function App({route, navigation}): JSX.Element {
   const [switched, setSwitched] = useState<boolean>(false);
@@ -111,6 +115,7 @@ const VocabularayContainer: FC<VocabularyContainerProps> = (
   const [deleted, setDeleted] = useState<boolean>(false);
   const styles = StyleSheet.create({
     vocabularayContainer: {
+      flex: 1,
       flexDirection: 'row',
       marginTop: 15,
       textDecorationColor: 'black',
@@ -128,27 +133,78 @@ const VocabularayContainer: FC<VocabularyContainerProps> = (
     delete: {
       textDecorationLine: 'line-through',
     },
+    speaker: {
+      height: 20,
+      width: 20,
+      marginTop: 15,
+      marginRight: 10,
+    },
+    speakerImg: {
+      height: '100%',
+      width: '100%',
+    },
+    container: {
+      flexDirection: 'row',
+      justifyContent: 'flex-start',
+    },
   });
   return (
-    <TouchableOpacity
-      style={styles.vocabularayContainer}
-      activeOpacity={0.7}
-      onPress={() => {
-        setShowTrans(!showTrans);
-      }}
-      onLongPress={() => {
-        setDeleted(!deleted);
-      }}>
-      <Text style={[styles.left, deleted ? styles.delete : undefined]}>
-        {switched ? item.cn : item.en}
-      </Text>
-      {showTrans ? (
-        <Text style={[styles.right, deleted ? styles.delete : undefined]}>
-          {item.property + '.   '}
-          {switched ? item.en : item.cn}
+    <View style={styles.container}>
+      <TouchableOpacity
+        style={styles.speaker}
+        onPress={async () => {
+          // const {data} = await axios.get(
+          //   `http://dict.youdao.com/dictvoice?type=1&audio=${item.en}`,
+          // );
+          const prounce = new Sound(
+            `http://dict.youdao.com/dictvoice?type=1&audio=${item.en}`,
+            Sound.MAIN_BUNDLE,
+            error => {
+              if (error) {
+                console.log('failed to load the sound', error);
+                return;
+              }
+              // loaded successfully
+              console.log(
+                'duration in seconds: ' +
+                  prounce.getDuration() +
+                  'number of channels: ' +
+                  prounce.getNumberOfChannels(),
+              );
+
+              // Play the sound with an onEnd callback
+              prounce.play(success => {
+                if (success) {
+                  console.log('successfully finished playing');
+                } else {
+                  console.log('playback failed due to audio decoding errors');
+                }
+              });
+            },
+          );
+        }}>
+        <Image source={icon_speaker} style={styles.speakerImg} />
+      </TouchableOpacity>
+      <TouchableOpacity
+        style={styles.vocabularayContainer}
+        activeOpacity={0.7}
+        onPress={() => {
+          setShowTrans(!showTrans);
+        }}
+        onLongPress={() => {
+          setDeleted(!deleted);
+        }}>
+        <Text style={[styles.left, deleted ? styles.delete : undefined]}>
+          {switched ? item.cn : item.en}
         </Text>
-      ) : undefined}
-    </TouchableOpacity>
+        {showTrans ? (
+          <Text style={[styles.right, deleted ? styles.delete : undefined]}>
+            {item.property + '.   '}
+            {switched ? item.en : item.cn}
+          </Text>
+        ) : undefined}
+      </TouchableOpacity>
+    </View>
   );
 };
 

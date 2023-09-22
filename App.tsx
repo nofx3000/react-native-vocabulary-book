@@ -24,7 +24,6 @@ import _updateConfig from './update.json';
 
 const {appKey} = _updateConfig[Platform.OS];
 const Drawer = createDrawerNavigator();
-console.log(chapters);
 
 function App(): JSX.Element {
   useEffect(() => {
@@ -32,7 +31,6 @@ function App(): JSX.Element {
     checkPatch();
     if (isFirstTime) {
       markSuccess();
-      console.log('更新成功了');
       ToastAndroid.show('更新成功了', ToastAndroid.LONG);
     } else if (isRolledBack) {
       ToastAndroid.show('更新失败，已回滚', ToastAndroid.LONG);

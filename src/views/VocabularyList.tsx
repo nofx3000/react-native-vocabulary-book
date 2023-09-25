@@ -9,7 +9,7 @@ import {
   Image,
 } from 'react-native';
 import axios from 'axios';
-import Sound from 'react-native-sound';
+// import Sound from 'react-native-sound';
 
 import icon_switch from '../assets/icon_switch.png';
 import icon_shuffle from '../assets/suiji.png';
@@ -153,35 +153,41 @@ const VocabularayContainer: FC<VocabularyContainerProps> = (
       <TouchableOpacity
         style={styles.speaker}
         onPress={async () => {
-          // const {data} = await axios.get(
-          //   `http://dict.youdao.com/dictvoice?type=1&audio=${item.en}`,
-          // );
-          const prounce = new Sound(
-            `http://dict.youdao.com/dictvoice?type=1&audio=${item.en}`,
-            Sound.MAIN_BUNDLE,
-            error => {
-              if (error) {
-                console.log('failed to load the sound', error);
-                return;
-              }
-              // loaded successfully
-              console.log(
-                'duration in seconds: ' +
-                  prounce.getDuration() +
-                  'number of channels: ' +
-                  prounce.getNumberOfChannels(),
-              );
+          try {
+            const res = await axios.get(
+              `http://dict.youdao.com/dictvoice?type=1&audio=${item.en}`,
+            );
+            console.log(res);
+            res.data.play();
+          } catch (err) {
+            console.log(err);
+          }
 
-              // Play the sound with an onEnd callback
-              prounce.play(success => {
-                if (success) {
-                  console.log('successfully finished playing');
-                } else {
-                  console.log('playback failed due to audio decoding errors');
-                }
-              });
-            },
-          );
+          // const prounce = new Sound(
+          //   `http://dict.youdao.com/dictvoice?type=1&audio=${item.en}`,
+          //   Sound.MAIN_BUNDLE,
+          //   error => {
+          //     if (error) {
+          //       console.log('failed to load the sound', error);
+          //       return;
+          //     }
+          //     // loaded successfully
+          //     console.log(
+          //       'duration in seconds: ' +
+          //         prounce.getDuration() +
+          //         'number of channels: ' +
+          //         prounce.getNumberOfChannels(),
+          //     );
+          //     // Play the sound with an onEnd callback
+          //     prounce.play(success => {
+          //       if (success) {
+          //         console.log('successfully finished playing');
+          //       } else {
+          //         console.log('playback failed due to audio decoding errors');
+          //       }
+          //     });
+          //   },
+          // );
         }}>
         <Image source={icon_speaker} style={styles.speakerImg} />
       </TouchableOpacity>

@@ -216,6 +216,626 @@
       "en": "opera",
       "cn": "歌剧",
       "property": "n"
+    },
+    {
+      "en": "comedy",
+      "cn": "喜剧",
+      "property": "n"
+    },
+    {
+      "en": "tragedy",
+      "cn": "悲剧",
+      "property": "n"
+    },
+    {
+      "en": "animation",
+      "cn": "动画",
+      "property": "n"
+    },
+    {
+      "en": "film",
+      "cn": "影片，胶卷",
+      "property": "n"
+    },
+    {
+      "en": "artist",
+      "cn": "艺术家",
+      "property": "n"
+    },
+    {
+      "en": "craftsman",
+      "cn": "工匠，工艺师",
+      "property": "n"
+    },
+    {
+      "en": "painter",
+      "cn": "画家，油漆匠",
+      "property": "n"
+    },
+    {
+      "en": "role",
+      "cn": "角色，作用",
+      "property": "n"
+    },
+    {
+      "en": "scene",
+      "cn": "景色，场景，现场",
+      "property": "n"
+    },
+    {
+      "en": "stage",
+      "cn": "舞台，阶段",
+      "property": "n"
+    },
+    {
+      "en": "gallery",
+      "cn": "美术馆",
+      "property": "n"
+    },
+    {
+      "en": "exhibition",
+      "cn": "展览",
+      "property": "n"
+    },
+    {
+      "en": "aesthetic",
+      "cn": "审美的；审美观",
+      "property": "adj，n"
+    },
+    {
+      "en": "collect",
+      "cn": "收集，收藏",
+      "property": "v"
+    },
+    {
+      "en": "select",
+      "cn": "选择，挑选",
+      "property": "n"
+    },
+    {
+      "en": "opt",
+      "cn": "选择",
+      "property": "v"
+    },
+    {
+      "en": "photograph",
+      "cn": "照片，相片",
+      "property": "n"
+    },
+    {
+      "en": "portrait",
+      "cn": "肖像",
+      "property": "n"
+    },
+    {
+      "en": "painting",
+      "cn": "油画，绘画，作画，涂漆",
+      "property": "n"
+    },
+    {
+      "en": "sculpture",
+      "cn": "雕塑",
+      "property": "n"
+    },
+    {
+      "en": "draw",
+      "cn": "画，拉，拔出",
+      "property": "v"
+    },
+    {
+      "en": "sketch",
+      "cn": "素描，速写；画素描，画速写",
+      "property": "n，v"
+    },
+    {
+      "en": "depict",
+      "cn": "描述，描写，描绘",
+      "property": "v"
+    },
+    {
+      "en": "describe",
+      "cn": "描述，形容",
+      "property": "v"
+    },
+    {
+      "en": "carve",
+      "cn": "雕刻，切下",
+      "property": "v"
+    },
+    {
+      "en": "improvise",
+      "cn": "即兴创作",
+      "property": "v"
+    },
+    {
+      "en": "musical",
+      "cn": "音乐的，悦耳的",
+      "property": "adj"
+    },
+    {
+      "en": "classcial",
+      "cn": "古典的，传统的",
+      "property": "adj"
+    },
+    {
+      "en": "jazz",
+      "cn": "爵士乐",
+      "property": "n"
+    },
+    {
+      "en": "lyric",
+      "cn": "抒情诗，歌词；抒情的",
+      "property": "n，adj"
+    },
+    {
+      "en": "melody",
+      "cn": "旋律",
+      "property": "n"
+    },
+    {
+      "en": "rhythm",
+      "cn": "节奏，韵律",
+      "property": "n"
+    },
+    {
+      "en": "tone",
+      "cn": "音色，声调，腔调",
+      "property": "n"
+    },
+    {
+      "en": "tune",
+      "cn": "曲调，短乐曲；调试",
+      "property": "n"
+    },
+    {
+      "en": "disc",
+      "cn": "光碟，唱片，磁盘",
+      "property": "n"
+    },
+    {
+      "en": "piano",
+      "cn": "钢琴",
+      "property": "n"
+    },
+    {
+      "en": "violin",
+      "cn": "小提琴",
+      "property": "n"
+    },
+    {
+      "en": "cello",
+      "cn": "大提琴",
+      "property": "n"
+    },
+    {
+      "en": "harmonica",
+      "cn": "口琴",
+      "property": "n"
+    },
+    {
+      "en": "trumpet",
+      "cn": "喇叭，小号",
+      "property": "n"
+    },
+    {
+      "en": "drum",
+      "cn": "鼓",
+      "property": "n"
+    },
+    {
+      "en": "flute",
+      "cn": "长笛",
+      "property": "n"
+    },
+    {
+      "en": "competition",
+      "cn": "竞争，比赛",
+      "property": "n"
+    },
+    {
+      "en": "tournament",
+      "cn": "锦标赛，联赛",
+      "property": "n"
+    },
+    {
+      "en": "sponsor",
+      "cn": "发起人，赞助商；发起，主办，赞助",
+      "property": "n，v"
+    },
+    {
+      "en": "patron",
+      "cn": "赞助人，顾客，老主顾",
+      "property": "n"
+    },
+    {
+      "en": "athlete",
+      "cn": "运动员",
+      "property": "n"
+    },
+    {
+      "en": "champion",
+      "cn": "冠军",
+      "property": "n"
+    },
+    {
+      "en": "spectator",
+      "cn": "观众",
+      "property": "n"
+    },
+    {
+      "en": "volunteer",
+      "cn": "志愿者；自愿做",
+      "property": "n，v"
+    },
+    {
+      "en": "famous",
+      "cn": "著名的，出名的",
+      "property": "adj"
+    },
+    {
+      "en": "well-known",
+      "cn": "众所周知的，出名的",
+      "property": "adj"
+    },
+    {
+      "en": "energetic",
+      "cn": "充满活力的，精力充沛的",
+      "property": "adj"
+    },
+    {
+      "en": "vigorous",
+      "cn": "充满活力的，活跃的，积极的",
+      "property": "adj"
+    },
+    {
+      "en": "stadium",
+      "cn": "运动场，体育场",
+      "property": "n"
+    },
+    {
+      "en": "gym",
+      "cn": "体育活动；健身房，体育馆",
+      "property": "n"
+    },
+    {
+      "en": "training",
+      "cn": "训练，锻炼，培训",
+      "property": "n"
+    },
+    {
+      "en": "exercise",
+      "cn": "锻炼，运动，习题；锻炼",
+      "property": "n，v"
+    },
+    {
+      "en": "indoor",
+      "cn": "室内的",
+      "property": "adj"
+    },
+    {
+      "en": "outdoor",
+      "cn": "室外的",
+      "property": "adj"
+    },
+    {
+      "en": "motion",
+      "cn": "做动作，示意",
+      "property": "v"
+    },
+    {
+      "en": "mobile",
+      "cn": "可移动的，流动的",
+      "property": "adj"
+    },
+    {
+      "en": "movement",
+      "cn": "活动，运动，移动",
+      "property": "n"
+    },
+    {
+      "en": "yoga",
+      "cn": "瑜伽",
+      "property": "n"
+    },
+    {
+      "en": "sprawl",
+      "cn": "蔓延，延伸；杂乱无序扩展的地区",
+      "property": "v，n"
+    },
+    {
+      "en": "stretch",
+      "cn": "伸展，伸长",
+      "property": "n"
+    },
+    {
+      "en": "strain",
+      "cn": "拉紧，拉伤，扭伤；张力，拉力，精神上的紧张",
+      "property": "v，n"
+    },
+    {
+      "en": "chess",
+      "cn": "国际象棋",
+      "property": "n"
+    },
+    {
+      "en": "badminton",
+      "cn": "羽毛球",
+      "property": "n"
+    },
+    {
+      "en": "golf",
+      "cn": "高尔夫",
+      "property": "n"
+    },
+    {
+      "en": "billiards",
+      "cn": "台球",
+      "property": "n"
+    },
+    {
+      "en": "soccer",
+      "cn": "足球",
+      "property": "n"
+    },
+    {
+      "en": "tennis",
+      "cn": "网球",
+      "property": "n"
+    },
+    {
+      "en": "volleyball",
+      "cn": "排球",
+      "property": "n"
+    },
+    {
+      "en": "hockey",
+      "cn": "曲棍球",
+      "property": "n"
+    },
+    {
+      "en": "cricket",
+      "cn": "板球",
+      "property": "n"
+    },
+    {
+      "en": "goal",
+      "cn": "球门，进球得分，目的",
+      "property": "n"
+    },
+    {
+      "en": "bat",
+      "cn": "球拍，球棒，球板",
+      "property": "n"
+    },
+    {
+      "en": "racket",
+      "cn": "网球等球拍",
+      "property": "n"
+    },
+    {
+      "en": "kick",
+      "cn": "踢",
+      "property": "v，n"
+    },
+    {
+      "en": "knock",
+      "cn": "敲，击，撞",
+      "property": "n"
+    },
+    {
+      "en": "flip",
+      "cn": "掷；快速翻动；随便的，轻率的",
+      "property": "v，adj"
+    },
+    {
+      "en": "pitch",
+      "cn": "投，掷；球场，投球",
+      "property": "v，n"
+    },
+    {
+      "en": "throw",
+      "cn": "投，掷，抛，扔",
+      "property": "n"
+    },
+    {
+      "en": "toss",
+      "cn": "扔，抛，掷，（使）颠簸",
+      "property": "n"
+    },
+    {
+      "en": "slide",
+      "cn": "滑动，逐渐降的；滑行，下跌",
+      "property": "v，n"
+    },
+    {
+      "en": "slip",
+      "cn": "滑跤，滑落，溜；滑倒",
+      "property": "v，n"
+    },
+    {
+      "en": "glide",
+      "cn": "滑动，掠过；滑行",
+      "property": "v，n"
+    },
+    {
+      "en": "tumble",
+      "cn": "摔倒；滚下",
+      "property": "v"
+    },
+    {
+      "en": "ski",
+      "cn": "滑雪；滑雪板",
+      "property": "v，n"
+    },
+    {
+      "en": "skate",
+      "cn": "滑冰",
+      "property": "v"
+    },
+    {
+      "en": "cycling",
+      "cn": "骑自行车运动",
+      "property": "n"
+    },
+    {
+      "en": "dive",
+      "cn": "跳水，潜水，俯冲",
+      "property": "v"
+    },
+    {
+      "en": "drift",
+      "cn": "漂移，漂流，流浪，漂泊",
+      "property": "v"
+    },
+    {
+      "en": "jump",
+      "cn": "跳，暴涨，跳过",
+      "property": "v"
+    },
+    {
+      "en": "leap",
+      "cn": "跳，跃；跳跃",
+      "property": "v，n"
+    },
+    {
+      "en": "plunge",
+      "cn": "纵身投入，猛跌；跳水，猛跌",
+      "property": "v，n"
+    },
+    {
+      "en": "spring",
+      "cn": "跳，跃",
+      "property": "v，n"
+    },
+    {
+      "en": "hop",
+      "cn": "跳上或下，单脚跳行",
+      "property": "v"
+    },
+    {
+      "en": "bounce",
+      "cn": "反弹，弹起，跳动",
+      "property": "v"
+    },
+    {
+      "en": "tent",
+      "cn": "帐篷",
+      "property": "n"
+    },
+    {
+      "en": "camp",
+      "cn": "营地，阵营",
+      "property": "n"
+    },
+    {
+      "en": "picnic",
+      "cn": "野餐",
+      "property": "n，v"
+    },
+    {
+      "en": "hunt",
+      "cn": "打猎，搜寻；猎取，搜寻",
+      "property": "n，v"
+    },
+    {
+      "en": "race",
+      "cn": "赛跑，速度竞赛；人种，种族",
+      "property": "n"
+    },
+    {
+      "en": "marathon",
+      "cn": "马拉松赛跑",
+      "property": "n"
+    },
+    {
+      "en": "pedestrian",
+      "cn": "步行者，行人",
+      "property": "n"
+    },
+    {
+      "en": "pace",
+      "cn": "步速，速度，步调，节奏；来回踱步",
+      "property": "n，v"
+    },
+    {
+      "en": "step",
+      "cn": "步伐，步骤",
+      "property": "n"
+    },
+    {
+      "en": "excursion",
+      "cn": "远足，短程旅行",
+      "property": "n"
+    },
+    {
+      "en": "cruise",
+      "cn": "乘船游览，以平稳速度行驶",
+      "property": "n"
+    },
+    {
+      "en": "trip",
+      "cn": "绊倒；旅行，绊倒",
+      "property": "v，n"
+    },
+    {
+      "en": "vacation",
+      "cn": "休假；休假，假期",
+      "property": "n"
+    },
+    {
+      "en": "hike",
+      "cn": "远足，徒步旅行",
+      "property": "v，n"
+    },
+    {
+      "en": "jog",
+      "cn": "慢跑",
+      "property": "v"
+    },
+    {
+      "en": "stride",
+      "cn": "大步走，阔步行走",
+      "property": "v"
+    },
+    {
+      "en": "wander",
+      "cn": "闲逛，漫步，走神，开小差",
+      "property": "v"
+    },
+    {
+      "en": "linger",
+      "cn": "逗留，流连，继续存留",
+      "property": "v"
+    },
+    {
+      "en": "lag",
+      "cn": "落后；时间差，间隔",
+      "property": "v，n"
+    },
+    {
+      "en": "climb",
+      "cn": "攀登，爬",
+      "property": "v"
+    },
+    {
+      "en": "pull",
+      "cn": "拉，拖，扯，划",
+      "property": "v"
+    },
+    {
+      "en": "drag",
+      "cn": "拖，拉，拽",
+      "property": "v"
+    },
+    {
+      "en": "bend",
+      "cn": "俯身，弯腰，使弯曲",
+      "property": "v"
+    },
+    {
+      "en": "bow",
+      "cn": "鞠躬",
+      "property": "v，n"
     }
   ]
 }

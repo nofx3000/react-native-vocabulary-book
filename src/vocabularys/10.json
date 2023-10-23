@@ -1,0 +1,756 @@
+{
+  "chapter": 10,
+  "name": "stuff&material",
+  "vocabularys": [
+    {
+      "en": "stuff",
+      "cn": "东西，原料",
+      "property": "n"
+    },
+    {
+      "en": "item",
+      "cn": "一件物品，一件商品",
+      "property": "n"
+    },
+    {
+      "en": "merchandise",
+      "cn": "商品",
+      "property": "n"
+    },
+    {
+      "en": "souvenir",
+      "cn": "纪念品",
+      "property": "n"
+    },
+    {
+      "en": "artefact",
+      "cn": "人造物品，手工艺品",
+      "property": "n"
+    },
+    {
+      "en": "material",
+      "cn": "材料，原料，人才；物质的",
+      "property": "n，adj"
+    },
+    {
+      "en": "raw",
+      "cn": "天然的，未经加工的",
+      "property": "n"
+    },
+    {
+      "en": "crude",
+      "cn": "天然的，未经加工的，粗糙的；原油",
+      "property": "adj，n"
+    },
+    {
+      "en": "necessity",
+      "cn": "必需品，必不可少的食物；必要",
+      "property": "n"
+    },
+    {
+      "en": "outfit",
+      "cn": "全套服装，全套装备；配备，装备",
+      "property": "n，v"
+    },
+    {
+      "en": "kit",
+      "cn": "成套工具",
+      "property": "n"
+    },
+    {
+      "en": "utensil",
+      "cn": "用具，器皿",
+      "property": "n"
+    },
+    {
+      "en": "garbage",
+      "cn": "垃圾，废物",
+      "property": "n"
+    },
+    {
+      "en": "rubbish",
+      "cn": "垃圾，废弃物",
+      "property": "n"
+    },
+    {
+      "en": "trash",
+      "cn": "垃圾",
+      "property": "n"
+    },
+    {
+      "en": "recycle",
+      "cn": "再循环，反复利用",
+      "property": "v"
+    },
+    {
+      "en": "reuse",
+      "cn": "再次使用",
+      "property": "v"
+    },
+    {
+      "en": "litter",
+      "cn": "垃圾，废弃物；乱丢东西",
+      "property": "n，v"
+    },
+    {
+      "en": "waste",
+      "cn": "浪费，废物",
+      "property": "v，n"
+    },
+    {
+      "en": "junk",
+      "cn": "无用的东西，废物",
+      "property": "n"
+    },
+    {
+      "en": "landfill",
+      "cn": "垃圾填埋地；垃圾填埋",
+      "property": "n"
+    },
+    {
+      "en": "sewerage",
+      "cn": "排水系统，污水处理系统",
+      "property": "n"
+    },
+    {
+      "en": "detergent",
+      "cn": "洗涤剂",
+      "property": "n"
+    },
+    {
+      "en": "lotion",
+      "cn": "洁肤乳，润肤乳",
+      "property": "n"
+    },
+    {
+      "en": "shampoo",
+      "cn": "洗发剂；用洗发剂洗头",
+      "property": "n，v"
+    },
+    {
+      "en": "soap",
+      "cn": "肥皂；用肥皂洗",
+      "property": "n，v"
+    },
+    {
+      "en": "tub",
+      "cn": "桶，盆；浴缸，浴盆",
+      "property": "n"
+    },
+    {
+      "en": "plug",
+      "cn": "塞子，插头；把。。。塞住",
+      "property": "n，v"
+    },
+    {
+      "en": "tap",
+      "cn": "旋塞，龙头",
+      "property": "n"
+    },
+    {
+      "en": "pipe",
+      "cn": "管子，管道，烟斗",
+      "property": "n"
+    },
+    {
+      "en": "tube",
+      "cn": "管子",
+      "property": "n"
+    },
+    {
+      "en": "mop",
+      "cn": "拖把；用拖把擦",
+      "property": "n，v"
+    },
+    {
+      "en": "broom",
+      "cn": "扫把；用扫把扫",
+      "property": "n"
+    },
+    {
+      "en": "sweep",
+      "cn": "打扫，吹走，掠过",
+      "property": "v"
+    },
+    {
+      "en": "mattress",
+      "cn": "床垫",
+      "property": "n"
+    },
+    {
+      "en": "carpet",
+      "cn": "地毯，毛毡",
+      "property": "n"
+    },
+    {
+      "en": "rug",
+      "cn": "小地毯，（盖肩或腿的）小毯子",
+      "property": "n"
+    },
+    {
+      "en": "mat",
+      "cn": "地垫",
+      "property": "n"
+    },
+    {
+      "en": "cushion",
+      "cn": "软垫",
+      "property": "n"
+    },
+    {
+      "en": "pad",
+      "cn": "衬垫，垫；填塞",
+      "property": "n，v"
+    },
+    {
+      "en": "blanket",
+      "cn": "毛毯，毯子",
+      "property": "n"
+    },
+    {
+      "en": "quilt",
+      "cn": "被子",
+      "property": "n"
+    },
+    {
+      "en": "sheet",
+      "cn": "床单，被单",
+      "property": "n"
+    },
+    {
+      "en": "pillow",
+      "cn": "枕头",
+      "property": "n"
+    },
+    {
+      "en": "sponge",
+      "cn": "海绵",
+      "property": "n"
+    },
+    {
+      "en": "towel",
+      "cn": "手巾，毛巾",
+      "property": "n"
+    },
+    {
+      "en": "staple",
+      "cn": "订书钉，主要部分",
+      "property": "n"
+    },
+    {
+      "en": "nail",
+      "cn": "指甲，钉子；钉住",
+      "property": "n，v"
+    },
+    {
+      "en": "razor",
+      "cn": "剃刀；剃",
+      "property": "n，v"
+    },
+    {
+      "en": "shave",
+      "cn": "剃须，刮脸",
+      "property": "v"
+    },
+    {
+      "en": "fuse",
+      "cn": "保险丝，导火线；熔化，融合",
+      "property": "n，v"
+    },
+    {
+      "en": "cable",
+      "cn": "电缆，缆绳，钢索，电报",
+      "property": "n"
+    },
+    {
+      "en": "cord",
+      "cn": "细绳，粗线",
+      "property": "n"
+    },
+    {
+      "en": "strand",
+      "cn": "缕，股，滨，岸",
+      "property": "n"
+    },
+    {
+      "en": "match",
+      "cn": "火柴，比赛；与。。。匹配",
+      "property": "n"
+    },
+    {
+      "en": "candle",
+      "cn": "蜡烛",
+      "property": "n"
+    },
+    {
+      "en": "wax",
+      "cn": "蜡；蜂蜡",
+      "property": "n"
+    },
+    {
+      "en": "portfolio",
+      "cn": "文件夹，公文包",
+      "property": "n"
+    },
+    {
+      "en": "paperback",
+      "cn": "简装书，平装书",
+      "property": "n"
+    },
+    {
+      "en": "pamphlet",
+      "cn": "小册子",
+      "property": "n"
+    },
+    {
+      "en": "tissue",
+      "cn": "薄纸，组织，面巾纸",
+      "property": "n"
+    },
+    {
+      "en": "cover",
+      "cn": "封面，盖子",
+      "property": "n"
+    },
+    {
+      "en": "duplicate",
+      "cn": "重复；副本，复制品",
+      "property": "v，n"
+    },
+    {
+      "en": "memorandum",
+      "cn": "备忘录，建议书",
+      "property": "n"
+    },
+    {
+      "en": "stationery",
+      "cn": "文具，信纸",
+      "property": "n"
+    },
+    {
+      "en": "glue",
+      "cn": "胶，胶水",
+      "property": "n"
+    },
+    {
+      "en": "ink",
+      "cn": "墨水，油墨",
+      "property": "n"
+    },
+    {
+      "en": "rubber",
+      "cn": "橡皮擦；橡胶",
+      "property": "n"
+    },
+    {
+      "en": "scissors",
+      "cn": "剪刀，剪子",
+      "property": "n"
+    },
+    {
+      "en": "shear",
+      "cn": "大剪刀，剪",
+      "property": "n"
+    },
+    {
+      "en": "edge",
+      "cn": "边缘，刀口",
+      "property": "n"
+    },
+    {
+      "en": "rim",
+      "cn": "边缘，外缘",
+      "property": "n"
+    },
+    {
+      "en": "element",
+      "cn": "元素，组成部分，基本部分",
+      "property": "n"
+    },
+    {
+      "en": "factor",
+      "cn": "因素，要素",
+      "property": "n"
+    },
+    {
+      "en": "section",
+      "cn": "部分，章，节",
+      "property": "n"
+    },
+    {
+      "en": "tag",
+      "cn": "标签，称号",
+      "property": "n"
+    },
+    {
+      "en": "label",
+      "cn": "标签，标贴",
+      "property": "n"
+    },
+    {
+      "en": "badge",
+      "cn": "徽章，证章，标志，象征",
+      "property": "n"
+    },
+    {
+      "en": "bolt",
+      "cn": "螺栓，插销；闩上（门、窗）",
+      "property": "n，v"
+    },
+    {
+      "en": "knob",
+      "cn": "球形把手，旋钮",
+      "property": "n"
+    },
+    {
+      "en": "handle",
+      "cn": "柄，把手；处理，拿",
+      "property": "n，v"
+    },
+    {
+      "en": "shutter",
+      "cn": "百叶窗；快门；停止（营业）",
+      "property": "n，v"
+    },
+    {
+      "en": "curtain",
+      "cn": "窗帘，帘子，幕布；给。。装上帘子",
+      "property": "n，v"
+    },
+    {
+      "en": "pane",
+      "cn": "（一块）窗玻璃",
+      "property": "n"
+    },
+    {
+      "en": "opacity",
+      "cn": "不透明性",
+      "property": "n"
+    },
+    {
+      "en": "jar",
+      "cn": "罐子，猛烈晃动",
+      "property": "n"
+    },
+    {
+      "en": "barrel",
+      "cn": "桶",
+      "property": "n"
+    },
+    {
+      "en": "bucket",
+      "cn": "（有提手的）桶",
+      "property": "n"
+    },
+    {
+      "en": "pail",
+      "cn": "桶，提桶",
+      "property": "n"
+    },
+    {
+      "en": "phone",
+      "cn": "电话，听筒",
+      "property": "n"
+    },
+    {
+      "en": "bell",
+      "cn": "铃，钟",
+      "property": "n"
+    },
+    {
+      "en": "camera",
+      "cn": "照相机，摄像机",
+      "property": "n"
+    },
+    {
+      "en": "portable",
+      "cn": "手提式的，便携式的",
+      "property": "adj"
+    },
+    {
+      "en": "spotlight",
+      "cn": "聚光灯",
+      "property": "n"
+    },
+    {
+      "en": "lantern",
+      "cn": "提灯，灯笼",
+      "property": "n"
+    },
+    {
+      "en": "bulb",
+      "cn": "电灯泡，球茎，球茎植物",
+      "property": "n"
+    },
+    {
+      "en": "flashlight",
+      "cn": "闪光；手电筒",
+      "property": "n"
+    },
+    {
+      "en": "fridge",
+      "cn": "冰箱",
+      "property": "n"
+    },
+    {
+      "en": "vacuum",
+      "cn": "真空；真空吸尘器；真空的",
+      "property": "n，adj"
+    },
+    {
+      "en": "fan",
+      "cn": "扇子，扇",
+      "property": "n，v"
+    },
+    {
+      "en": "switch",
+      "cn": "开关，转换",
+      "property": "n，v"
+    },
+    {
+      "en": "hurdle",
+      "cn": "栏架，跨栏赛跑",
+      "property": "n"
+    },
+    {
+      "en": "fence",
+      "cn": "栅栏，围栏",
+      "property": "n"
+    },
+    {
+      "en": "pedal",
+      "cn": "踏板；踩踏板",
+      "property": "n，v"
+    },
+    {
+      "en": "shelf",
+      "cn": "架子，搁板",
+      "property": "n"
+    },
+    {
+      "en": "ladder",
+      "cn": "梯子，阶梯",
+      "property": "n"
+    },
+    {
+      "en": "lift",
+      "cn": "提，抬，提高；电梯",
+      "property": "v，n"
+    },
+    {
+      "en": "stool",
+      "cn": "凳子",
+      "property": "n"
+    },
+    {
+      "en": "drawer",
+      "cn": "抽屉",
+      "property": "n"
+    },
+    {
+      "en": "umbrella",
+      "cn": "雨伞",
+      "property": "n"
+    },
+    {
+      "en": "raincoat",
+      "cn": "雨衣",
+      "property": "n"
+    },
+    {
+      "en": "dredge",
+      "cn": "挖掘机，挖泥机；挖掘，撒（面粉，糖等）",
+      "property": "n，v"
+    },
+    {
+      "en": "can",
+      "cn": "把（食品）装罐保存；罐头，听",
+      "property": "v，n"
+    },
+    {
+      "en": "mill",
+      "cn": "磨粉机；磨坊；碾碎，无目的地乱转",
+      "property": "n"
+    },
+    {
+      "en": "forge",
+      "cn": "锻造炉；锻造，伪造",
+      "property": "n，v"
+    },
+    {
+      "en": "alloy",
+      "cn": "合金；成色",
+      "property": "n"
+    },
+    {
+      "en": "metal",
+      "cn": "金属",
+      "property": "n"
+    },
+    {
+      "en": "iron",
+      "cn": "铁，熨斗；熨，烫",
+      "property": "n，v"
+    },
+    {
+      "en": "lead",
+      "cn": "铅",
+      "property": "n"
+    },
+    {
+      "en": "brass",
+      "cn": "黄铜，黄铜制品",
+      "property": "n"
+    },
+    {
+      "en": "bronze",
+      "cn": "青铜，青铜艺术品",
+      "property": "n"
+    },
+    {
+      "en": "cement",
+      "cn": "水泥，胶结剂；使黏结",
+      "property": "n"
+    },
+    {
+      "en": "pitch",
+      "cn": "沥青",
+      "property": "n"
+    },
+    {
+      "en": "lime",
+      "cn": "石灰",
+      "property": "n"
+    },
+    {
+      "en": "plaster",
+      "cn": "灰泥；熟石膏",
+      "property": "n"
+    },
+    {
+      "en": "leather",
+      "cn": "皮革；皮衣",
+      "property": "n"
+    },
+    {
+      "en": "plastic",
+      "cn": "塑料；有塑性的；塑料的",
+      "property": "n，adj"
+    },
+    {
+      "en": "fibre",
+      "cn": "纤维",
+      "property": "n"
+    },
+    {
+      "en": "fabric",
+      "cn": "织物，布料",
+      "property": "n"
+    },
+    {
+      "en": "knit",
+      "cn": "编织，针织",
+      "property": "v"
+    },
+    {
+      "en": "weave",
+      "cn": "编织，编造",
+      "property": "v"
+    },
+    {
+      "en": "canvas",
+      "cn": "帆布；油画布",
+      "property": "n"
+    },
+    {
+      "en": "linen",
+      "cn": "亚麻布；亚麻制品",
+      "property": "n"
+    },
+    {
+      "en": "cotton",
+      "cn": "棉，棉线，棉布",
+      "property": "n"
+    },
+    {
+      "en": "nylon",
+      "cn": "尼龙",
+      "property": "n"
+    },
+    {
+      "en": "lumber",
+      "cn": "木材，木料",
+      "property": "n"
+    },
+    {
+      "en": "wooden",
+      "cn": "木制的，呆板的",
+      "property": "n"
+    },
+    {
+      "en": "mine",
+      "cn": "矿，矿井，地雷",
+      "property": "n"
+    },
+    {
+      "en": "pit",
+      "cn": "深坑，煤矿；潜在危险",
+      "property": "n"
+    },
+    {
+      "en": "fuel",
+      "cn": "燃料；给。。加燃料",
+      "property": "n，v"
+    },
+    {
+      "en": "lubricate",
+      "cn": "润滑，加润滑油于",
+      "property": "v"
+    },
+    {
+      "en": "diamond",
+      "cn": "钻石",
+      "property": "n"
+    },
+    {
+      "en": "crystal",
+      "cn": "水晶",
+      "property": "n"
+    },
+    {
+      "en": "inferior",
+      "cn": "差的，下级的，低等的；级别（或地位）低的人；次品",
+      "property": "n"
+    },
+    {
+      "en": "counterfeit",
+      "cn": "假冒的；伪造",
+      "property": "n，v"
+    },
+    {
+      "en": "fake",
+      "cn": "假冒的；冒充者，假货",
+      "property": "adj，n"
+    },
+    {
+      "en": "fragile",
+      "cn": "易碎的，脆弱的",
+      "property": "adj"
+    },
+    {
+      "en": "miniature",
+      "cn": "微型的，很小的；微缩模型，微型画",
+      "property": "adj，n"
+    },
+    {
+      "en": "available",
+      "cn": "可获得的，可用的",
+      "property": "adj"
+    },
+    {
+      "en": "durable",
+      "cn": "耐用的，持久的",
+      "property": "adj"
+    }
+  ]
+}

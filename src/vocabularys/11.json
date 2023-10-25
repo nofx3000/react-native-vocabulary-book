@@ -1,0 +1,546 @@
+{
+  "chapter": 11,
+  "name": "fashion",
+  "vocabularys": [
+    {
+      "en": "fashion",
+      "cn": "时尚；制作，制成",
+      "property": "n,v"
+    },
+    {
+      "en": "style",
+      "cn": "风格，样式",
+      "property": "n"
+    },
+    {
+      "en": "trend",
+      "cn": "趋势，倾向",
+      "property": "n"
+    },
+    {
+      "en": "tendency",
+      "cn": "趋势，倾向，偏好",
+      "property": "n"
+    },
+    {
+      "en": "current",
+      "cn": "潮流，趋势；当前的",
+      "property": "n，adj"
+    },
+    {
+      "en": "popularity",
+      "cn": "流行",
+      "property": "n"
+    },
+    {
+      "en": "vogue",
+      "cn": "流行",
+      "property": "n"
+    },
+    {
+      "en": "prevail",
+      "cn": "盛行；获胜",
+      "property": "v"
+    },
+    {
+      "en": "model",
+      "cn": "模型；模范；模特；使模仿",
+      "property": "n，v"
+    },
+    {
+      "en": "icon",
+      "cn": "偶像，图标",
+      "property": "n"
+    },
+    {
+      "en": "idol",
+      "cn": "偶像，崇拜呜；神像",
+      "property": "n"
+    },
+    {
+      "en": "luxury",
+      "cn": "奢侈品，奢侈",
+      "property": "n"
+    },
+    {
+      "en": "extravagant",
+      "cn": "奢侈的，过分的",
+      "property": "adj"
+    },
+    {
+      "en": "jewellery",
+      "cn": "珠宝，首饰",
+      "property": "n"
+    },
+    {
+      "en": "jewel",
+      "cn": "宝石",
+      "property": "n"
+    },
+    {
+      "en": "gem",
+      "cn": "宝石，珍品",
+      "property": "n"
+    },
+    {
+      "en": "jade",
+      "cn": "玉石，翡翠",
+      "property": "n"
+    },
+    {
+      "en": "adorn",
+      "cn": "装饰，装扮",
+      "property": "v"
+    },
+    {
+      "en": "ornament",
+      "cn": "装饰品；装饰",
+      "property": "n，v"
+    },
+    {
+      "en": "embellish",
+      "cn": "修饰",
+      "property": "v"
+    },
+    {
+      "en": "embroider",
+      "cn": "对（故事）加以渲染；在。。。上刺绣",
+      "property": "v"
+    },
+    {
+      "en": "hairdressing",
+      "cn": "美发，理发",
+      "property": "n"
+    },
+    {
+      "en": "pigment",
+      "cn": "色素，颜料",
+      "property": "n"
+    },
+    {
+      "en": "dye",
+      "cn": "燃料，颜色；染",
+      "property": "n，v"
+    },
+    {
+      "en": "masquerade",
+      "cn": "化妆舞会；化妆，假扮",
+      "property": "n，v"
+    },
+    {
+      "en": "veil",
+      "cn": "面纱，遮蔽物",
+      "property": "n"
+    },
+    {
+      "en": "costume",
+      "cn": "戏服，服装",
+      "property": "n"
+    },
+    {
+      "en": "fascinate",
+      "cn": "迷住",
+      "property": "v"
+    },
+    {
+      "en": "decent",
+      "cn": "得体的，尚好的",
+      "property": "adj"
+    },
+    {
+      "en": "exquisite",
+      "cn": "精致的，雅致的",
+      "property": "adj"
+    },
+    {
+      "en": "grace",
+      "cn": "优雅",
+      "property": "n"
+    },
+    {
+      "en": "elegance",
+      "cn": "文雅，典雅",
+      "property": "n"
+    },
+    {
+      "en": "perfect",
+      "cn": "完美的",
+      "property": "adj"
+    },
+    {
+      "en": "appearance",
+      "cn": "外貌，出现",
+      "property": "n"
+    },
+    {
+      "en": "cosmetics",
+      "cn": "化妆品",
+      "property": "n"
+    },
+    {
+      "en": "make-up",
+      "cn": "化妆品，组成成分，性格",
+      "property": "n"
+    },
+    {
+      "en": "handsome",
+      "cn": "数量大的，英俊的",
+      "property": "adj"
+    },
+    {
+      "en": "charming",
+      "cn": "迷人的",
+      "property": "adj"
+    },
+    {
+      "en": "pretty",
+      "cn": "漂亮的",
+      "property": "adj，adv"
+    },
+    {
+      "en": "beautiful",
+      "cn": "美丽的",
+      "property": "adj"
+    },
+    {
+      "en": "ugly",
+      "cn": "丑陋的",
+      "property": "adj"
+    },
+    {
+      "en": "dress",
+      "cn": "衣服，连衣裙",
+      "property": "n"
+    },
+    {
+      "en": "clothe",
+      "cn": "给。。。穿衣；为。。。提供衣服",
+      "property": "v"
+    },
+    {
+      "en": "uniform",
+      "cn": "制服，一致的",
+      "property": "n，adj"
+    },
+    {
+      "en": "garment",
+      "cn": "（一件）衣服",
+      "property": "n"
+    },
+    {
+      "en": "laundry",
+      "cn": "洗衣店，要洗的衣服",
+      "property": "n"
+    },
+    {
+      "en": "wardrobe",
+      "cn": "衣柜，全部衣服",
+      "property": "n"
+    },
+    {
+      "en": "overall",
+      "cn": "（工作时穿的）罩衣；全面的",
+      "property": "n，adj"
+    },
+    {
+      "en": "overcoat",
+      "cn": "大衣",
+      "property": "n"
+    },
+    {
+      "en": "robe",
+      "cn": "长袍，浴袍",
+      "property": "n"
+    },
+    {
+      "en": "gown",
+      "cn": "长外衣，女礼服",
+      "property": "n"
+    },
+    {
+      "en": "sweater",
+      "cn": "毛衣，线衣",
+      "property": "n"
+    },
+    {
+      "en": "jacket",
+      "cn": "夹克衫",
+      "property": "n"
+    },
+    {
+      "en": "skirt",
+      "cn": "裙子",
+      "property": "n"
+    },
+    {
+      "en": "jeans",
+      "cn": "牛仔裤",
+      "property": "n"
+    },
+    {
+      "en": "trousers",
+      "cn": "裤子",
+      "property": "n"
+    },
+    {
+      "en": "clasp",
+      "cn": "搭住，扣住",
+      "property": "n"
+    },
+    {
+      "en": "button",
+      "cn": "纽扣，按钮；扣上。。。的纽扣",
+      "property": "n，v"
+    },
+    {
+      "en": "glove",
+      "cn": "手套",
+      "property": "n"
+    },
+    {
+      "en": "hat",
+      "cn": "（带檐）帽子",
+      "property": "n"
+    },
+    {
+      "en": "cap",
+      "cn": "（有帽舌的）帽子；预算限额",
+      "property": "n"
+    },
+    {
+      "en": "brim",
+      "cn": "边缘；帽檐",
+      "property": "n"
+    },
+    {
+      "en": "scarf",
+      "cn": "围巾，头巾",
+      "property": "n"
+    },
+    {
+      "en": "handkerchief",
+      "cn": "手帕",
+      "property": "n"
+    },
+    {
+      "en": "purse",
+      "cn": "钱包，小手提包",
+      "property": "n"
+    },
+    {
+      "en": "wallet",
+      "cn": "钱包，皮夹子",
+      "property": "n"
+    },
+    {
+      "en": "vest",
+      "cn": "汗衫，背心",
+      "property": "n"
+    },
+    {
+      "en": "wrap",
+      "cn": "披肩",
+      "property": "n"
+    },
+    {
+      "en": "cloak",
+      "cn": "斗篷，覆盖物",
+      "property": "n"
+    },
+    {
+      "en": "collar",
+      "cn": "衣领，项圈",
+      "property": "n"
+    },
+    {
+      "en": "sleeve",
+      "cn": "袖子",
+      "property": "n"
+    },
+    {
+      "en": "sock",
+      "cn": "短袜",
+      "property": "n"
+    },
+    {
+      "en": "stocking",
+      "cn": "长筒袜",
+      "property": "n"
+    },
+    {
+      "en": "slipper",
+      "cn": "拖鞋",
+      "property": "n"
+    },
+    {
+      "en": "boot",
+      "cn": "靴子",
+      "property": "n"
+    },
+    {
+      "en": "lace",
+      "cn": "鞋带，花边",
+      "property": "n"
+    },
+    {
+      "en": "tailor",
+      "cn": "裁缝；专门制作",
+      "property": "n，v"
+    },
+    {
+      "en": "sew",
+      "cn": "缝制，缝补",
+      "property": "v"
+    },
+    {
+      "en": "spin",
+      "cn": "纺；使旋转；高速旋转",
+      "property": "v，n"
+    },
+    {
+      "en": "stitch",
+      "cn": "针脚；缝",
+      "property": "n，v"
+    },
+    {
+      "en": "needle",
+      "cn": "针",
+      "property": "n"
+    },
+    {
+      "en": "pin",
+      "cn": "别针，大头针；别住，钉住",
+      "property": "n，v"
+    },
+    {
+      "en": "string",
+      "cn": "线，一串",
+      "property": "n"
+    },
+    {
+      "en": "thread",
+      "cn": "线，螺纹",
+      "property": "n"
+    },
+    {
+      "en": "strap",
+      "cn": "带子，用带子系",
+      "property": "n，v"
+    },
+    {
+      "en": "stripe",
+      "cn": "条纹",
+      "property": "n"
+    },
+    {
+      "en": "ribbon",
+      "cn": "缎带，丝带",
+      "property": "n"
+    },
+    {
+      "en": "belt",
+      "cn": "腰带，皮带；地区，地带",
+      "property": "n"
+    },
+    {
+      "en": "chain",
+      "cn": "链子，链条",
+      "property": "n"
+    },
+    {
+      "en": "bracelet",
+      "cn": "手镯",
+      "property": "n"
+    },
+    {
+      "en": "necklace",
+      "cn": "项链",
+      "property": "n"
+    },
+    {
+      "en": "bead",
+      "cn": "珠子，小滴；形成珠状",
+      "property": "n"
+    },
+    {
+      "en": "textile",
+      "cn": "纺织品；纺织的",
+      "property": "n，adj"
+    },
+    {
+      "en": "velvet",
+      "cn": "丝绒，天鹅绒",
+      "property": "n"
+    },
+    {
+      "en": "wool",
+      "cn": "毛，毛线",
+      "property": "n"
+    },
+    {
+      "en": "patch",
+      "cn": "补丁；小片；补缀",
+      "property": "n"
+    },
+    {
+      "en": "rag",
+      "cn": "破布",
+      "property": "n"
+    },
+    {
+      "en": "shabby",
+      "cn": "破旧的，衣衫褴褛的",
+      "property": "adj"
+    },
+    {
+      "en": "tight",
+      "cn": "紧的",
+      "property": "adj"
+    },
+    {
+      "en": "colour",
+      "cn": "颜色",
+      "property": "n"
+    },
+    {
+      "en": "white",
+      "cn": "白色，白的",
+      "property": "n，adj"
+    },
+    {
+      "en": "tan",
+      "cn": "棕黄色的，棕黄色",
+      "property": "adj，n"
+    },
+    {
+      "en": "fade",
+      "cn": "逐渐消失，褪色",
+      "property": "v"
+    },
+    {
+      "en": "stain",
+      "cn": "污渍，污染",
+      "property": "n，v"
+    },
+    {
+      "en": "blot",
+      "cn": "污点",
+      "property": "n"
+    },
+    {
+      "en": "figure",
+      "cn": "身材，身影，重要人物，数字；认为",
+      "property": "n，v"
+    },
+    {
+      "en": "slender",
+      "cn": "苗条的；微弱的",
+      "property": "adj"
+    },
+    {
+      "en": "slight",
+      "cn": "纤细的，轻微的",
+      "property": "adj"
+    }
+  ]
+}

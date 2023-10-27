@@ -1,0 +1,446 @@
+{
+  "chapter": 12,
+  "name": "food",
+  "vocabularys": [
+    {
+      "en": "food",
+      "cn": "食物",
+      "property": "n"
+    },
+    {
+      "en": "diet",
+      "cn": "日常饮食；节食",
+      "property": "n"
+    },
+    {
+      "en": "appetite",
+      "cn": "食欲，强烈欲望",
+      "property": "n"
+    },
+    {
+      "en": "treat",
+      "cn": "请客，对待，治疗；款待",
+      "property": "v，n"
+    },
+    {
+      "en": "cater",
+      "cn": "为。。。提供饮食；满足。。。的需要",
+      "property": "v"
+    },
+    {
+      "en": "provision",
+      "cn": "供应；预备；食品供应",
+      "property": "n"
+    },
+    {
+      "en": "edible",
+      "cn": "可以吃的",
+      "property": "adj"
+    },
+    {
+      "en": "recipe",
+      "cn": "食谱，秘诀",
+      "property": "n"
+    },
+    {
+      "en": "restaurant",
+      "cn": "餐馆",
+      "property": "n"
+    },
+    {
+      "en": "refectory",
+      "cn": "食堂，餐厅",
+      "property": "n"
+    },
+    {
+      "en": "bar",
+      "cn": "酒吧，吧台",
+      "property": "n"
+    },
+    {
+      "en": "cafeteria",
+      "cn": "自助餐厅",
+      "property": "n"
+    },
+    {
+      "en": "buffet",
+      "cn": "自助餐",
+      "property": "n"
+    },
+    {
+      "en": "barbecue",
+      "cn": "烧烤",
+      "property": "n，v"
+    },
+    {
+      "en": "supper",
+      "cn": "晚餐",
+      "property": "n"
+    },
+    {
+      "en": "banquet",
+      "cn": "宴会",
+      "property": "n"
+    },
+    {
+      "en": "refreshment",
+      "cn": "茶点，点心",
+      "property": "n"
+    },
+    {
+      "en": "snack",
+      "cn": "快餐，小吃，零食",
+      "property": "n"
+    },
+    {
+      "en": "appetiser",
+      "cn": "开胃饮料，开胃小吃",
+      "property": "n"
+    },
+    {
+      "en": "cuisine",
+      "cn": "菜肴，烹饪",
+      "property": "n"
+    },
+    {
+      "en": "menu",
+      "cn": "菜单",
+      "property": "n"
+    },
+    {
+      "en": "order",
+      "cn": "订单，点的餐；点（餐）",
+      "property": "n，v"
+    },
+    {
+      "en": "takeaway",
+      "cn": "外带食物",
+      "property": "n"
+    },
+    {
+      "en": "chef",
+      "cn": "厨师",
+      "property": "n"
+    },
+    {
+      "en": "gourmet",
+      "cn": "美食家；美味佳肴的",
+      "property": "n"
+    },
+    {
+      "en": "vegetarian",
+      "cn": "素食者；素食的；无肉的",
+      "property": "n，adj"
+    },
+    {
+      "en": "cultery",
+      "cn": "餐具，刀具",
+      "property": "n"
+    },
+    {
+      "en": "silver",
+      "cn": "银，银器；银的，银色的",
+      "property": "n，adj"
+    },
+    {
+      "en": "ceramic",
+      "cn": "陶瓷的；陶瓷制品",
+      "property": "adj，n"
+    },
+    {
+      "en": "porcelain",
+      "cn": "瓷器，瓷",
+      "property": "n"
+    },
+    {
+      "en": "bowl",
+      "cn": "碗",
+      "property": "n"
+    },
+    {
+      "en": "dish",
+      "cn": "碟，菜肴",
+      "property": "n"
+    },
+    {
+      "en": "saucer",
+      "cn": "茶托，茶碟",
+      "property": "n"
+    },
+    {
+      "en": "tray",
+      "cn": "盘，托盘",
+      "property": "n"
+    },
+    {
+      "en": "fork",
+      "cn": "餐叉，分岔处",
+      "property": "n"
+    },
+    {
+      "en": "knife",
+      "cn": "刀",
+      "property": "n"
+    },
+    {
+      "en": "spoon",
+      "cn": "汤匙，调羹",
+      "property": "n"
+    },
+    {
+      "en": "glass",
+      "cn": "玻璃，玻璃杯",
+      "property": "n"
+    },
+    {
+      "en": "mug",
+      "cn": "马克杯",
+      "property": "n"
+    },
+    {
+      "en": "kettle",
+      "cn": "水壶，锅",
+      "property": "n"
+    },
+    {
+      "en": "pan",
+      "cn": "平底锅，烤盘",
+      "property": "n"
+    },
+    {
+      "en": "pot",
+      "cn": "锅，壶",
+      "property": "n"
+    },
+    {
+      "en": "stove",
+      "cn": "炉子",
+      "property": "n"
+    },
+    {
+      "en": "furnace",
+      "cn": "熔炉",
+      "property": "n"
+    },
+    {
+      "en": "oven",
+      "cn": "烤炉，烤箱",
+      "property": "n"
+    },
+    {
+      "en": "tin",
+      "cn": "锡，罐头",
+      "property": "n"
+    },
+    {
+      "en": "lid",
+      "cn": "盖子",
+      "property": "n"
+    },
+    {
+      "en": "drink",
+      "cn": "饮，喝；饮料",
+      "property": "v，n"
+    },
+    {
+      "en": "beverage",
+      "cn": "饮料，酒水",
+      "property": "n"
+    },
+    {
+      "en": "juice",
+      "cn": "果汁，菜汁",
+      "property": "n"
+    },
+    {
+      "en": "soda",
+      "cn": "苏打水",
+      "property": "n"
+    },
+    {
+      "en": "coffeee",
+      "cn": "咖啡",
+      "property": "n"
+    },
+    {
+      "en": "alcohol",
+      "cn": "酒精，乙醇",
+      "property": "n"
+    },
+    {
+      "en": "liquor",
+      "cn": "烈性酒",
+      "property": "n"
+    },
+    {
+      "en": "whisky",
+      "cn": "威士忌酒",
+      "property": "n"
+    },
+    {
+      "en": "brandy",
+      "cn": "白兰地酒",
+      "property": "n"
+    },
+    {
+      "en": "drunk",
+      "cn": "醉的",
+      "property": "adj"
+    },
+    {
+      "en": "tobacco",
+      "cn": "烟草",
+      "property": "n"
+    },
+    {
+      "en": "cigarette",
+      "cn": "香烟",
+      "property": "n"
+    },
+    {
+      "en": "sober",
+      "cn": "清醒地，头脑清醒的；使醒酒",
+      "property": "n，v"
+    },
+    {
+      "en": "vegetable",
+      "cn": "蔬菜",
+      "property": "n"
+    },
+    {
+      "en": "tomato",
+      "cn": "番茄",
+      "property": "n"
+    },
+    {
+      "en": "potato",
+      "cn": "马铃薯",
+      "property": "n"
+    },
+    {
+      "en": "pea",
+      "cn": "豌豆",
+      "property": "n"
+    },
+    {
+      "en": "bean",
+      "cn": "豆子",
+      "property": "n"
+    },
+    {
+      "en": "cucumber",
+      "cn": "黄瓜",
+      "property": "n"
+    },
+    {
+      "en": "cabbage",
+      "cn": "卷心菜，甘蓝",
+      "property": "n"
+    },
+    {
+      "en": "onion",
+      "cn": "洋葱",
+      "property": "n"
+    },
+    {
+      "en": "mushroom",
+      "cn": "蘑菇；呈蘑菇状的扩散",
+      "property": "n，v"
+    },
+    {
+      "en": "eggplant",
+      "cn": "茄子",
+      "property": "n"
+    },
+    {
+      "en": "carrot",
+      "cn": "胡萝卜",
+      "property": "n"
+    },
+    {
+      "en": "turnip",
+      "cn": "芜菁，小白萝卜",
+      "property": "n"
+    },
+    {
+      "en": "radish",
+      "cn": "樱桃萝卜",
+      "property": "n"
+    },
+    {
+      "en": "fruit",
+      "cn": "水果，成果",
+      "property": "n"
+    },
+    {
+      "en": "peel",
+      "cn": "剥皮；（水果）皮",
+      "property": "v，n"
+    },
+    {
+      "en": "strip",
+      "cn": "剥去，除去；条，带",
+      "property": "v，n"
+    },
+    {
+      "en": "core",
+      "cn": "果核",
+      "property": "n"
+    },
+    {
+      "en": "hull",
+      "cn": "外壳，船体；剥去（果实的）外壳",
+      "property": "n，v"
+    },
+    {
+      "en": "cherry",
+      "cn": "樱桃，樱桃树",
+      "property": "n"
+    },
+    {
+      "en": "berry",
+      "cn": "浆果",
+      "property": "n"
+    },
+    {
+      "en": "grape",
+      "cn": "葡萄",
+      "property": "n"
+    },
+    {
+      "en": "papaya",
+      "cn": "番木瓜",
+      "property": "n"
+    },
+    {
+      "en": "peach",
+      "cn": "桃子",
+      "property": "n"
+    },
+    {
+      "en": "pear",
+      "cn": "梨",
+      "property": "n"
+    },
+    {
+      "en": "plum",
+      "cn": "李子，梅子",
+      "property": "n"
+    },
+    {
+      "en": "orange",
+      "cn": "橙子",
+      "property": "n"
+    },
+    {
+      "en": "melon",
+      "cn": "甜瓜，瓜",
+      "property": "n"
+    },
+    {
+      "en": "lemon",
+      "cn": "柠檬",
+      "property": "n"
+    }
+  ]
+}

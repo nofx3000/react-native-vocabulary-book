@@ -9,6 +9,7 @@ import chapter8 from '../../src/vocabularys/8.json';
 import chapter9 from '../../src/vocabularys/9.json';
 import chapter10 from '../../src/vocabularys/10.json';
 import chapter11 from '../../src/vocabularys/11.json';
+import chapter12 from '../../src/vocabularys/12.json';
 export default {
   chapter1,
   chapter2,
@@ -21,4 +22,5 @@ export default {
   chapter9,
   chapter10,
   chapter11,
+  chapter12,
 };

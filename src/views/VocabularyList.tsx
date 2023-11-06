@@ -128,6 +128,7 @@ const VocabularayContainer: FC<VocabularyContainerProps> = (
     },
     right: {
       flex: 1,
+      color: 'black',
       fontSize: 16,
     },
     delete: {

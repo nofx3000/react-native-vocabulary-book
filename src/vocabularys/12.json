@@ -441,6 +441,426 @@
       "en": "lemon",
       "cn": "柠檬",
       "property": "n"
+    },
+    {
+      "en": "kiwi",
+      "cn": "猕猴桃",
+      "property": "n"
+    },
+    {
+      "en": "crop",
+      "cn": "庄稼，收成，产量",
+      "property": "n"
+    },
+    {
+      "en": "corn",
+      "cn": "谷物，玉米",
+      "property": "n"
+    },
+    {
+      "en": "grain",
+      "cn": "谷物，颗粒",
+      "property": "n"
+    },
+    {
+      "en": "wheat",
+      "cn": "小麦",
+      "property": "n"
+    },
+    {
+      "en": "reap",
+      "cn": "收割，收获",
+      "property": "v"
+    },
+    {
+      "en": "flour",
+      "cn": "面粉，粉状物质",
+      "property": "n"
+    },
+    {
+      "en": "porridge",
+      "cn": "麦片粥",
+      "property": "n"
+    },
+    {
+      "en": "paste",
+      "cn": "糨糊，面团",
+      "property": "n"
+    },
+    {
+      "en": "livestock",
+      "cn": "家畜",
+      "property": "n"
+    },
+    {
+      "en": "chicken",
+      "cn": "鸡",
+      "property": "n"
+    },
+    {
+      "en": "turkey",
+      "cn": "火鸡",
+      "property": "n"
+    },
+    {
+      "en": "beef",
+      "cn": "牛肉",
+      "property": "n"
+    },
+    {
+      "en": "pork",
+      "cn": "猪肉",
+      "property": "n"
+    },
+    {
+      "en": "mutton",
+      "cn": "羊肉",
+      "property": "n"
+    },
+    {
+      "en": "sausage",
+      "cn": "香肠",
+      "property": "n"
+    },
+    {
+      "en": "fish",
+      "cn": "鱼，钓鱼",
+      "property": "n，v"
+    },
+    {
+      "en": "pond",
+      "cn": "池塘",
+      "property": "n"
+    },
+    {
+      "en": "rod",
+      "cn": "杆，竿",
+      "property": "n"
+    },
+    {
+      "en": "dairy",
+      "cn": "乳制品，乳品点；乳制的",
+      "property": "n，adj"
+    },
+    {
+      "en": "milk",
+      "cn": "牛奶，挤奶",
+      "property": "n，v"
+    },
+    {
+      "en": "yogurt",
+      "cn": "酸奶",
+      "property": "n"
+    },
+    {
+      "en": "cream",
+      "cn": "奶油",
+      "property": "n"
+    },
+    {
+      "en": "cheese",
+      "cn": "奶酪",
+      "property": "n"
+    },
+    {
+      "en": "butter",
+      "cn": "黄油，摸黄油",
+      "property": "n，v"
+    },
+    {
+      "en": "salad",
+      "cn": "沙拉",
+      "property": "n"
+    },
+    {
+      "en": "sandwich",
+      "cn": "三明治；把。。。夹入",
+      "property": "n，v"
+    },
+    {
+      "en": "hamburger",
+      "cn": "汉堡",
+      "property": "n"
+    },
+    {
+      "en": "loaf",
+      "cn": "一条（面包）；游荡，闲逛",
+      "property": "n，v"
+    },
+    {
+      "en": "pie",
+      "cn": "馅饼，派",
+      "property": "n"
+    },
+    {
+      "en": "pizza",
+      "cn": "比萨",
+      "property": "n"
+    },
+    {
+      "en": "pasta",
+      "cn": "意大利面",
+      "property": "n"
+    },
+    {
+      "en": "spaghetti",
+      "cn": "意大利面（细）",
+      "property": "n"
+    },
+    {
+      "en": "soup",
+      "cn": "汤",
+      "property": "n"
+    },
+    {
+      "en": "pudding",
+      "cn": "布丁",
+      "property": "n"
+    },
+    {
+      "en": "biscuit",
+      "cn": "饼干",
+      "property": "n"
+    },
+    {
+      "en": "jam",
+      "cn": "果酱",
+      "property": "n"
+    },
+    {
+      "en": "nut",
+      "cn": "坚果，螺母",
+      "property": "n"
+    },
+    {
+      "en": "chocolate",
+      "cn": "巧克力",
+      "property": "n"
+    },
+    {
+      "en": "ice cream",
+      "cn": "冰激凌",
+      "property": "n"
+    },
+    {
+      "en": "vanilla",
+      "cn": "香草；香草味的",
+      "property": "n，adj"
+    },
+    {
+      "en": "mustard",
+      "cn": "芥末",
+      "property": "n"
+    },
+    {
+      "en": "pepper",
+      "cn": "胡椒粉；柿子椒",
+      "property": "n"
+    },
+    {
+      "en": "ginger",
+      "cn": "姜",
+      "property": "n"
+    },
+    {
+      "en": "garlic",
+      "cn": "蒜",
+      "property": "n"
+    },
+    {
+      "en": "scallion",
+      "cn": "大葱",
+      "property": "n"
+    },
+    {
+      "en": "vinegar",
+      "cn": "醋",
+      "property": "n"
+    },
+    {
+      "en": "salt",
+      "cn": "盐",
+      "property": "n"
+    },
+    {
+      "en": "sugar",
+      "cn": "糖",
+      "property": "n"
+    },
+    {
+      "en": "candy",
+      "cn": "糖果",
+      "property": "n"
+    },
+    {
+      "en": "honey",
+      "cn": "蜂蜜",
+      "property": "n"
+    },
+    {
+      "en": "flavour",
+      "cn": "味道，口味",
+      "property": "n"
+    },
+    {
+      "en": "sour",
+      "cn": "酸的，闷闷不乐的",
+      "property": "adj"
+    },
+    {
+      "en": "sweet",
+      "cn": "甜的，快乐的",
+      "property": "adj"
+    },
+    {
+      "en": "bitter",
+      "cn": "哭的",
+      "property": "adj"
+    },
+    {
+      "en": "spicy",
+      "cn": "辣的",
+      "property": "adj"
+    },
+    {
+      "en": "delicious",
+      "cn": "美味的",
+      "property": "adj"
+    },
+    {
+      "en": "yummy",
+      "cn": "美味的",
+      "property": "adj"
+    },
+    {
+      "en": "tasty",
+      "cn": "美味的，可口的",
+      "property": "adj"
+    },
+    {
+      "en": "hunger",
+      "cn": "饥饿，饥饿感，渴望",
+      "property": "n"
+    },
+    {
+      "en": "thirsty",
+      "cn": "渴的，渴望的",
+      "property": "adj"
+    },
+    {
+      "en": "spice",
+      "cn": "香料，给生活增添情趣的事",
+      "property": "n"
+    },
+    {
+      "en": "sause",
+      "cn": "酱汁",
+      "property": "n"
+    },
+    {
+      "en": "ketchup",
+      "cn": "蕃茄酱",
+      "property": "n"
+    },
+    {
+      "en": "perfume",
+      "cn": "香味，芳香；香水",
+      "property": "n"
+    },
+    {
+      "en": "ingredient",
+      "cn": "成分，原料，因素",
+      "property": "n"
+    },
+    {
+      "en": "supplement",
+      "cn": "营养补给，补贴；增补，补充",
+      "property": "n，v"
+    },
+    {
+      "en": "digest",
+      "cn": "消化，理解，领悟",
+      "property": "v"
+    },
+    {
+      "en": "cook",
+      "cn": "烹饪，烧，煮；厨师",
+      "property": "v，n"
+    },
+    {
+      "en": "bake",
+      "cn": "烘烤，烤熟",
+      "property": "v"
+    },
+    {
+      "en": "fry",
+      "cn": "油煎",
+      "property": "v"
+    },
+    {
+      "en": "roast",
+      "cn": "烤，烤肉",
+      "property": "v，n"
+    },
+    {
+      "en": "toast",
+      "cn": "向。。。祝酒，为。。。干杯；烤；烤面包片",
+      "property": "v，n"
+    },
+    {
+      "en": "suck",
+      "cn": "吮吸",
+      "property": "v"
+    },
+    {
+      "en": "swallow",
+      "cn": "咽下，吞下",
+      "property": "v"
+    },
+    {
+      "en": "lick",
+      "cn": "舔",
+      "property": "v"
+    },
+    {
+      "en": "chew",
+      "cn": "咀嚼",
+      "property": "v"
+    },
+    {
+      "en": "gum",
+      "cn": "口香糖",
+      "property": "n"
+    },
+    {
+      "en": "soak",
+      "cn": "浸泡；使湿透",
+      "property": "v"
+    },
+    {
+      "en": "dip",
+      "cn": "蘸",
+      "property": "n"
+    },
+    {
+      "en": "squeeze",
+      "cn": "挤压",
+      "property": "v"
+    },
+    {
+      "en": "stir",
+      "cn": "搅动，行动",
+      "property": "v"
+    },
+    {
+      "en": "grind",
+      "cn": "碾碎，枯燥乏味的事",
+      "property": "v，n"
+    },
+    {
+      "en": "slice",
+      "cn": "切片；薄片",
+      "property": "v，n"
     }
   ]
 }

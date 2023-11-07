@@ -1,0 +1,421 @@
+{
+  "chapter": 13,
+  "name": "architechture",
+  "vocabularys": [
+    {
+      "en": "architechture",
+      "cn": "建筑学，建筑风格",
+      "property": "n"
+    },
+    {
+      "en": "erection",
+      "cn": "建筑，建造",
+      "property": "n"
+    },
+    {
+      "en": "structure",
+      "cn": "建筑物，结构",
+      "property": "n"
+    },
+    {
+      "en": "construct",
+      "cn": "建造",
+      "property": "v"
+    },
+    {
+      "en": "obstruct",
+      "cn": "阻塞，妨碍",
+      "property": "v"
+    },
+    {
+      "en": "establish",
+      "cn": "建立，设立",
+      "property": "v"
+    },
+    {
+      "en": "build",
+      "cn": "建造，开发",
+      "property": "v"
+    },
+    {
+      "en": "found",
+      "cn": "创建，创办",
+      "property": "v"
+    },
+    {
+      "en": "concrete",
+      "cn": "混凝土；具体的，混凝土制的",
+      "property": "n，adj"
+    },
+    {
+      "en": "steel",
+      "cn": "钢铁",
+      "property": "n"
+    },
+    {
+      "en": "stability",
+      "cn": "稳定（性）",
+      "property": "n"
+    },
+    {
+      "en": "site",
+      "cn": "地点",
+      "property": "n"
+    },
+    {
+      "en": "venue",
+      "cn": "发生地点，举行场所",
+      "property": "n"
+    },
+    {
+      "en": "landmark",
+      "cn": "地标，里程碑",
+      "property": "n"
+    },
+    {
+      "en": "situated",
+      "cn": "位于。。。的",
+      "property": "adj"
+    },
+    {
+      "en": "locate",
+      "cn": "放置，建立；找到",
+      "property": "v"
+    },
+    {
+      "en": "reside",
+      "cn": "居住",
+      "property": "v"
+    },
+    {
+      "en": "inhabit",
+      "cn": "居住于",
+      "property": "v"
+    },
+    {
+      "en": "migrate",
+      "cn": "迁徙，移居",
+      "property": "v"
+    },
+    {
+      "en": "settle",
+      "cn": "解决；在。。。定居，使定居",
+      "property": "v"
+    },
+    {
+      "en": "dwelling",
+      "cn": "住所",
+      "property": "n"
+    },
+    {
+      "en": "skyscraper",
+      "cn": "摩天大楼",
+      "property": "n"
+    },
+    {
+      "en": "villa",
+      "cn": "乡间别墅；度假别墅",
+      "property": "n"
+    },
+    {
+      "en": "mansion",
+      "cn": "宅第，公馆",
+      "property": "n"
+    },
+    {
+      "en": "apartment",
+      "cn": "【美】公寓房",
+      "property": "n"
+    },
+    {
+      "en": "flat",
+      "cn": "【英】单元房，公寓",
+      "property": "n"
+    },
+    {
+      "en": "hostel",
+      "cn": "廉价招待所",
+      "property": "n"
+    },
+    {
+      "en": "lodge",
+      "cn": "租住；小屋，度假屋",
+      "property": "v，n"
+    },
+    {
+      "en": "hut",
+      "cn": "小屋，棚屋",
+      "property": "n"
+    },
+    {
+      "en": "cabin",
+      "cn": "小木屋，小舱",
+      "property": "n"
+    },
+    {
+      "en": "cellar",
+      "cn": "地窖，地下室",
+      "property": "n"
+    },
+    {
+      "en": "shed",
+      "cn": "简易房，棚；流，洒，摆脱",
+      "property": "n，v"
+    },
+    {
+      "en": "cottage",
+      "cn": "村舍，小屋",
+      "property": "n"
+    },
+    {
+      "en": "nursery",
+      "cn": "托儿所；托儿所的",
+      "property": "n，adj"
+    },
+    {
+      "en": "cradle",
+      "cn": "摇篮，发源地",
+      "property": "n"
+    },
+    {
+      "en": "shelter",
+      "cn": "庇护处，掩蔽处；庇护，遮蔽",
+      "property": "n，v"
+    },
+    {
+      "en": "block",
+      "cn": "街区，障碍",
+      "property": "n"
+    },
+    {
+      "en": "grid",
+      "cn": "栅栏，网格",
+      "property": "n"
+    },
+    {
+      "en": "aisle",
+      "cn": "走廊，过道",
+      "property": "n"
+    },
+    {
+      "en": "porch",
+      "cn": "门廊",
+      "property": "n"
+    },
+    {
+      "en": "corridor",
+      "cn": "走廊，通道",
+      "property": "n"
+    },
+    {
+      "en": "stair",
+      "cn": "楼梯",
+      "property": "n"
+    },
+    {
+      "en": "staircase",
+      "cn": "楼梯",
+      "property": "n"
+    },
+    {
+      "en": "storey",
+      "cn": "楼层",
+      "property": "n"
+    },
+    {
+      "en": "layer",
+      "cn": "层",
+      "property": "n"
+    },
+    {
+      "en": "elevator",
+      "cn": "电梯",
+      "property": "n"
+    },
+    {
+      "en": "escalator",
+      "cn": "自动扶梯",
+      "property": "n"
+    },
+    {
+      "en": "handrail",
+      "cn": "扶手，栏杆",
+      "property": "n"
+    },
+    {
+      "en": "pillar",
+      "cn": "柱子，栋梁",
+      "property": "n"
+    },
+    {
+      "en": "column",
+      "cn": "柱；列；专栏",
+      "property": "n"
+    },
+    {
+      "en": "beam",
+      "cn": "（能量）束，柱",
+      "property": "n"
+    },
+    {
+      "en": "vault",
+      "cn": "拱顶，金库，保险库",
+      "property": "n"
+    },
+    {
+      "en": "arch",
+      "cn": "拱门；弯成弓形",
+      "property": "n，v"
+    },
+    {
+      "en": "ceiling",
+      "cn": "天花板，顶棚",
+      "property": "n"
+    },
+    {
+      "en": "eaves",
+      "cn": "屋檐",
+      "property": "n"
+    },
+    {
+      "en": "chimney",
+      "cn": "烟囱",
+      "property": "n"
+    },
+    {
+      "en": "reception",
+      "cn": "接待处",
+      "property": "n"
+    },
+    {
+      "en": "lobby",
+      "cn": "大厅，前厅，游说；游说",
+      "property": "n，v"
+    },
+    {
+      "en": "bench",
+      "cn": "长凳",
+      "property": "n"
+    },
+    {
+      "en": "parlour",
+      "cn": "客厅",
+      "property": "n"
+    },
+    {
+      "en": "fireplace",
+      "cn": "壁炉",
+      "property": "n"
+    },
+    {
+      "en": "radiator",
+      "cn": "暖气设备",
+      "property": "n"
+    },
+    {
+      "en": "living room",
+      "cn": "客厅，起居室",
+      "property": "n"
+    },
+    {
+      "en": "cabinet",
+      "cn": "储藏柜，内阁",
+      "property": "n"
+    },
+    {
+      "en": "balcony",
+      "cn": "阳台，楼座",
+      "property": "n"
+    },
+    {
+      "en": "terrace",
+      "cn": "大阳台，露天平台",
+      "property": "n"
+    },
+    {
+      "en": "kitchen",
+      "cn": "厨房，灶间",
+      "property": "n"
+    },
+    {
+      "en": "lavatory",
+      "cn": "盥洗室，厕所",
+      "property": "n"
+    },
+    {
+      "en": "toilet",
+      "cn": "抽水马桶，厕所",
+      "property": "n"
+    },
+    {
+      "en": "bath",
+      "cn": "洗澡，浴缸",
+      "property": "n"
+    },
+    {
+      "en": "basin",
+      "cn": "盆；盆地",
+      "property": "n"
+    },
+    {
+      "en": "reserve",
+      "cn": "储备（量）；自然保护区；预定",
+      "property": "n，v"
+    },
+    {
+      "en": "store",
+      "cn": "商店，储存物；储存",
+      "property": "n，v"
+    },
+    {
+      "en": "mall",
+      "cn": "购物中心",
+      "property": "n"
+    },
+    {
+      "en": "complex",
+      "cn": "综合建筑群",
+      "property": "n"
+    },
+    {
+      "en": "supermarket",
+      "cn": "超市",
+      "property": "n"
+    },
+    {
+      "en": "booth",
+      "cn": "售货摊；电话亭；小隔间",
+      "property": "n"
+    },
+    {
+      "en": "casino",
+      "cn": "赌场",
+      "property": "n"
+    },
+    {
+      "en": "studio",
+      "cn": "演播室；工作室；单间公寓",
+      "property": "n"
+    },
+    {
+      "en": "downtown",
+      "cn": "市中心；市中心的",
+      "property": "n，adj"
+    },
+    {
+      "en": "urban",
+      "cn": "城市的",
+      "property": "adj"
+    },
+    {
+      "en": "peripheral",
+      "cn": "外围的；外围设备",
+      "property": "adj，n"
+    },
+    {
+      "en": "vicinity",
+      "cn": "附近，临近地区",
+      "property": "n"
+    }
+  ]
+}

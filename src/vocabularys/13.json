@@ -416,6 +416,261 @@
       "en": "vicinity",
       "cn": "附近，临近地区",
       "property": "n"
+    },
+    {
+      "en": "room",
+      "cn": "房间，空间",
+      "property": "n"
+    },
+    {
+      "en": "void",
+      "cn": "空白，空虚；空的",
+      "property": "n，adj"
+    },
+    {
+      "en": "spacious",
+      "cn": "宽敞的",
+      "property": "adj"
+    },
+    {
+      "en": "airtight",
+      "cn": "密封的，不透气的",
+      "property": "adj"
+    },
+    {
+      "en": "expanse",
+      "cn": "广阔，辽阔",
+      "property": "n"
+    },
+    {
+      "en": "plaza",
+      "cn": "广场，购物中心",
+      "property": "n"
+    },
+    {
+      "en": "castle",
+      "cn": "城堡",
+      "property": "n"
+    },
+    {
+      "en": "carpenter",
+      "cn": "木匠",
+      "property": "n"
+    },
+    {
+      "en": "mason",
+      "cn": "石匠，泥瓦匠",
+      "property": "n"
+    },
+    {
+      "en": "tile",
+      "cn": "瓦片，瓷砖",
+      "property": "n"
+    },
+    {
+      "en": "brickwork",
+      "cn": "砖结构",
+      "property": "n"
+    },
+    {
+      "en": "suspension",
+      "cn": "暂缓，暂令停职",
+      "property": "n"
+    },
+    {
+      "en": "hook",
+      "cn": "钩，钩状物",
+      "property": "n"
+    },
+    {
+      "en": "lever",
+      "cn": "杠杆，操纵杆",
+      "property": "n"
+    },
+    {
+      "en": "pole",
+      "cn": "杆，竿",
+      "property": "n"
+    },
+    {
+      "en": "scaffold",
+      "cn": "脚手架，绞刑架",
+      "property": "n"
+    },
+    {
+      "en": "infrastructure",
+      "cn": "基础设施",
+      "property": "n"
+    },
+    {
+      "en": "apparatus",
+      "cn": "器械，装置",
+      "property": "n"
+    },
+    {
+      "en": "crane",
+      "cn": "起重机，鹤",
+      "property": "n"
+    },
+    {
+      "en": "malfunction",
+      "cn": "发生故障",
+      "property": "v"
+    },
+    {
+      "en": "maintain",
+      "cn": "维修，维护，维持",
+      "property": "v"
+    },
+    {
+      "en": "fix",
+      "cn": "修理，使固定",
+      "property": "v"
+    },
+    {
+      "en": "mend",
+      "cn": "修理，使康复",
+      "property": "v"
+    },
+    {
+      "en": "modify",
+      "cn": "稍作修改",
+      "property": "v"
+    },
+    {
+      "en": "trim",
+      "cn": "修剪，装饰；整齐的，整洁的",
+      "property": "v，adj"
+    },
+    {
+      "en": "weld",
+      "cn": "焊接，使紧密结合",
+      "property": "v"
+    },
+    {
+      "en": "saw",
+      "cn": "锯",
+      "property": "n"
+    },
+    {
+      "en": "screw",
+      "cn": "螺丝钉，螺旋桨",
+      "property": "n"
+    },
+    {
+      "en": "drill",
+      "cn": "钻机，反复练习；钻，训练",
+      "property": "n，v"
+    },
+    {
+      "en": "plumb",
+      "cn": "铅锤；用铅垂线校正",
+      "property": "n，v"
+    },
+    {
+      "en": "viaduct",
+      "cn": "高架桥",
+      "property": "n"
+    },
+    {
+      "en": "span",
+      "cn": "跨距，跨度，持续时间",
+      "property": "n"
+    },
+    {
+      "en": "dam",
+      "cn": "水坝；控制，抑制",
+      "property": "n，v"
+    },
+    {
+      "en": "assemble",
+      "cn": "组装，装配",
+      "property": "v"
+    },
+    {
+      "en": "install",
+      "cn": "安装",
+      "property": "v"
+    },
+    {
+      "en": "furnish",
+      "cn": "为。。。配备家具陈设",
+      "property": "v"
+    },
+    {
+      "en": "placement",
+      "cn": "放置，布置",
+      "property": "n"
+    },
+    {
+      "en": "layout",
+      "cn": "设计，布置",
+      "property": "n"
+    },
+    {
+      "en": "design",
+      "cn": "设计，计划；设计",
+      "property": "v，n"
+    },
+    {
+      "en": "entrance",
+      "cn": "入口，进入权",
+      "property": "n"
+    },
+    {
+      "en": "entry",
+      "cn": "进入，进入权",
+      "property": "n"
+    },
+    {
+      "en": "enter",
+      "cn": "进入",
+      "property": "v"
+    },
+    {
+      "en": "exit",
+      "cn": "出口，退场；离去",
+      "property": "n，v"
+    },
+    {
+      "en": "outside",
+      "cn": "外部的；外表",
+      "property": "adj，n"
+    },
+    {
+      "en": "outward",
+      "cn": "向外的；向外",
+      "property": "adj，adv"
+    },
+    {
+      "en": "exterior",
+      "cn": "外部，外观；外部的",
+      "property": "n，adj"
+    },
+    {
+      "en": "external",
+      "cn": "外来的，外面的；对外的",
+      "property": "adj"
+    },
+    {
+      "en": "inner",
+      "cn": "内部的，内心的",
+      "property": "adj"
+    },
+    {
+      "en": "interior",
+      "cn": "内部；内部的",
+      "property": "n，adj"
+    },
+    {
+      "en": "inward",
+      "cn": "内心的，内向的；向内",
+      "property": "adj，n"
+    },
+    {
+      "en": "internal",
+      "cn": "内部的，自身的；国内的",
+      "property": "adj"
     }
   ]
 }

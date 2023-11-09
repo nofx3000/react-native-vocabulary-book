@@ -1,0 +1,431 @@
+{
+  "chapter": 14,
+  "name": "traffic",
+  "vocabularys": [
+    {
+      "en": "navigate",
+      "cn": "航行，横渡",
+      "property": "v"
+    },
+    {
+      "en": "voyage",
+      "cn": "航海，航天，航行",
+      "property": "n"
+    },
+    {
+      "en": "aviation",
+      "cn": "航空，航空学，航空工业",
+      "property": "n"
+    },
+    {
+      "en": "journey",
+      "cn": "航行，历程",
+      "property": "n"
+    },
+    {
+      "en": "travel",
+      "cn": "旅行",
+      "property": "n/v"
+    },
+    {
+      "en": "safari",
+      "cn": "观光浏览，观兽旅行",
+      "property": "n"
+    },
+    {
+      "en": "parade",
+      "cn": "游行，炫耀；庆祝游行，队列行进，炫耀",
+      "property": "v，n"
+    },
+    {
+      "en": "haunt",
+      "cn": "（鬼魂）常出没于；常去的地方",
+      "property": "v，n"
+    },
+    {
+      "en": "attraction",
+      "cn": "吸引；具有吸引力的事物",
+      "property": "n"
+    },
+    {
+      "en": "memorial",
+      "cn": "纪念碑；纪念的，悼念的",
+      "property": "n，adj"
+    },
+    {
+      "en": "pyramid",
+      "cn": "金字塔，棱锥体",
+      "property": "n"
+    },
+    {
+      "en": "port",
+      "cn": "港口，左舷",
+      "property": "n"
+    },
+    {
+      "en": "visa",
+      "cn": "签证",
+      "property": "n"
+    },
+    {
+      "en": "traffic",
+      "cn": "交通，车流",
+      "property": "n"
+    },
+    {
+      "en": "airline",
+      "cn": "航空公司",
+      "property": "n"
+    },
+    {
+      "en": "airplane",
+      "cn": "飞机",
+      "property": "n"
+    },
+    {
+      "en": "helicopter",
+      "cn": "直升机；用直升机载送，乘直升机旅行",
+      "property": "n，v"
+    },
+    {
+      "en": "jet",
+      "cn": "喷气式飞机，喷射口",
+      "property": "n"
+    },
+    {
+      "en": "parachute",
+      "cn": "降落伞",
+      "property": "n"
+    },
+    {
+      "en": "flight",
+      "cn": "飞行，航班",
+      "property": "n"
+    },
+    {
+      "en": "pilot",
+      "cn": "飞行员",
+      "property": "n"
+    },
+    {
+      "en": "passenger",
+      "cn": "乘客",
+      "property": "n"
+    },
+    {
+      "en": "baggage",
+      "cn": "行李",
+      "property": "n"
+    },
+    {
+      "en": "luggage",
+      "cn": "行李",
+      "property": "n"
+    },
+    {
+      "en": "suitcase",
+      "cn": "手提箱",
+      "property": "n"
+    },
+    {
+      "en": "carry-on",
+      "cn": "（可带上飞机的）小包，随身包",
+      "property": "n"
+    },
+    {
+      "en": "rack",
+      "cn": "搁物架，挂物架",
+      "property": "n"
+    },
+    {
+      "en": "freight",
+      "cn": "货运，货物；运送（货物）",
+      "property": "n，v"
+    },
+    {
+      "en": "fare",
+      "cn": "车费，路费",
+      "property": "n"
+    },
+    {
+      "en": "atlas",
+      "cn": "地图集，地图册",
+      "property": "n"
+    },
+    {
+      "en": "route",
+      "cn": "路线",
+      "property": "n"
+    },
+    {
+      "en": "itinerary",
+      "cn": "形成，路线",
+      "property": "n"
+    },
+    {
+      "en": "passage",
+      "cn": "过道，通道，走廊",
+      "property": "n"
+    },
+    {
+      "en": "intersection",
+      "cn": "十字路口，交叉路口",
+      "property": "n"
+    },
+    {
+      "en": "cross",
+      "cn": "十字形，十字架；穿过",
+      "property": "n，v"
+    },
+    {
+      "en": "way",
+      "cn": "路，方式",
+      "property": "n"
+    },
+    {
+      "en": "path",
+      "cn": "小路",
+      "property": "n"
+    },
+    {
+      "en": "lane",
+      "cn": "小巷，车道",
+      "property": "n"
+    },
+    {
+      "en": "avenue",
+      "cn": "大街，途径",
+      "property": "n"
+    },
+    {
+      "en": "highway",
+      "cn": "公路",
+      "property": "n"
+    },
+    {
+      "en": "curb",
+      "cn": "路缘；起控制作用的事物",
+      "property": "n"
+    },
+    {
+      "en": "signpost",
+      "cn": "路标",
+      "property": "n"
+    },
+    {
+      "en": "pave",
+      "cn": "铺（路或地面）",
+      "property": "v"
+    },
+    {
+      "en": "vehicle",
+      "cn": "车辆，交通工具，工具，手段",
+      "property": "n"
+    },
+    {
+      "en": "auto",
+      "cn": "汽车",
+      "property": "n"
+    },
+    {
+      "en": "express",
+      "cn": "特快列车，快递服务；表示；特快的",
+      "property": "n，v，adj"
+    },
+    {
+      "en": "tram",
+      "cn": "有轨电车",
+      "property": "n"
+    },
+    {
+      "en": "coach",
+      "cn": "教练，长途汽车；训练",
+      "property": "n，v"
+    },
+    {
+      "en": "ambulance",
+      "cn": "救护车",
+      "property": "n"
+    },
+    {
+      "en": "truck",
+      "cn": "卡车",
+      "property": "n"
+    },
+    {
+      "en": "lorry",
+      "cn": "【英】卡车",
+      "property": "n"
+    },
+    {
+      "en": "van",
+      "cn": "厢式货车",
+      "property": "n"
+    },
+    {
+      "en": "wagon",
+      "cn": "四轮运货马车，货车车厢",
+      "property": "n"
+    },
+    {
+      "en": "carriage",
+      "cn": "四轮马车，车厢",
+      "property": "n"
+    },
+    {
+      "en": "trator",
+      "cn": "拖拉机，牵引车",
+      "property": "n"
+    },
+    {
+      "en": "cart",
+      "cn": "运货马车，手推车，购物车",
+      "property": "n"
+    },
+    {
+      "en": "pedicab",
+      "cn": "（人力）三轮车",
+      "property": "n"
+    },
+    {
+      "en": "cycle",
+      "cn": "骑（自行车）；周期，自行车",
+      "property": "v，n"
+    },
+    {
+      "en": "garage",
+      "cn": "汽车修理厂，车库",
+      "property": "n"
+    },
+    {
+      "en": "motor",
+      "cn": "发动机，机动的",
+      "property": "n，adj"
+    },
+    {
+      "en": "horsepower",
+      "cn": "马力",
+      "property": "n"
+    },
+    {
+      "en": "wheel",
+      "cn": "方向盘，车轮",
+      "property": "n"
+    },
+    {
+      "en": "brake",
+      "cn": "车闸，刹车；刹车",
+      "property": "n，v"
+    },
+    {
+      "en": "tyre",
+      "cn": "轮胎",
+      "property": "n"
+    },
+    {
+      "en": "honk",
+      "cn": "汽车喇叭声；鹅叫声；按（喇叭）",
+      "property": "n"
+    },
+    {
+      "en": "crew",
+      "cn": "全体员工",
+      "property": "n"
+    },
+    {
+      "en": "captain",
+      "cn": "队长，船长",
+      "property": "n"
+    },
+    {
+      "en": "steward",
+      "cn": "管家，男乘务员",
+      "property": "n"
+    },
+    {
+      "en": "emergency",
+      "cn": "紧急事件；应急的",
+      "property": "n，adj"
+    },
+    {
+      "en": "wreck",
+      "cn": "使失事，破坏；湿湿的船只残骸",
+      "property": "n"
+    },
+    {
+      "en": "crash",
+      "cn": "撞击，崩溃，破产",
+      "property": "v"
+    },
+    {
+      "en": "crush",
+      "cn": "压碎，压坏；拥挤的人群，迷恋",
+      "property": "v，n"
+    },
+    {
+      "en": "dash",
+      "cn": "猛冲，猛摔",
+      "property": "v"
+    },
+    {
+      "en": "vanish",
+      "cn": "突然消失，绝技",
+      "property": "v"
+    },
+    {
+      "en": "disappear",
+      "cn": "消失，失踪",
+      "property": "v"
+    },
+    {
+      "en": "hazard",
+      "cn": "危险，使冒风险",
+      "property": "n，v"
+    },
+    {
+      "en": "harbour",
+      "cn": "港口",
+      "property": "n"
+    },
+    {
+      "en": "dock",
+      "cn": "码头，船坞",
+      "property": "n"
+    },
+    {
+      "en": "anchor",
+      "cn": "锚",
+      "property": "n"
+    },
+    {
+      "en": "submerge",
+      "cn": "浸没，掩盖",
+      "property": "n"
+    },
+    {
+      "en": "sailor",
+      "cn": "船员，水手",
+      "property": "n"
+    },
+    {
+      "en": "seaman",
+      "cn": "海员，水手",
+      "property": "n"
+    },
+    {
+      "en": "carrier",
+      "cn": "航空母舰，运输工具",
+      "property": "n"
+    },
+    {
+      "en": "steamer",
+      "cn": "汽船，轮船",
+      "property": "n"
+    },
+    {
+      "en": "liner",
+      "cn": "邮轮，客轮",
+      "property": "n"
+    }
+  ]
+}

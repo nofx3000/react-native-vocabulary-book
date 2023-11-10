@@ -426,6 +426,251 @@
       "en": "liner",
       "cn": "邮轮，客轮",
       "property": "n"
+    },
+    {
+      "en": "vessel",
+      "cn": "大船，舰，容器，器皿",
+      "property": "n"
+    },
+    {
+      "en": "ferry",
+      "cn": "渡船；渡运",
+      "property": "n，v"
+    },
+    {
+      "en": "sail",
+      "cn": "航行，驾驶",
+      "property": "v"
+    },
+    {
+      "en": "raft",
+      "cn": "木筏，木排",
+      "property": "n"
+    },
+    {
+      "en": "canoe",
+      "cn": "独木舟",
+      "property": "n"
+    },
+    {
+      "en": "oar",
+      "cn": "桨；用桨划",
+      "property": "n，v"
+    },
+    {
+      "en": "deck",
+      "cn": "甲板；装饰",
+      "property": "n，v"
+    },
+    {
+      "en": "turbine",
+      "cn": "涡轮机",
+      "property": "n"
+    },
+    {
+      "en": "propeller",
+      "cn": "螺旋桨，推进器",
+      "property": "n"
+    },
+    {
+      "en": "stern",
+      "cn": "船尾",
+      "property": "n"
+    },
+    {
+      "en": "aboard",
+      "cn": "在（飞机、船）上",
+      "property": "v"
+    },
+    {
+      "en": "embark",
+      "cn": "上船（或飞机）；开始做",
+      "property": "v"
+    },
+    {
+      "en": "channel",
+      "cn": "航道；电视频道；海峡",
+      "property": "n"
+    },
+    {
+      "en": "canal",
+      "cn": "运河",
+      "property": "n"
+    },
+    {
+      "en": "ditch",
+      "cn": "沟，渠；抛弃",
+      "property": "n，v"
+    },
+    {
+      "en": "railroad",
+      "cn": "铁路，铁路公司",
+      "property": "n"
+    },
+    {
+      "en": "railway",
+      "cn": "铁路，铁路系统",
+      "property": "n"
+    },
+    {
+      "en": "locomotive",
+      "cn": "火车头，机车",
+      "property": "n"
+    },
+    {
+      "en": "subway",
+      "cn": "地铁",
+      "property": "n"
+    },
+    {
+      "en": "underground",
+      "cn": "地下的；地铁",
+      "property": "n，adj"
+    },
+    {
+      "en": "tunnel",
+      "cn": "隧道，地道",
+      "property": "n"
+    },
+    {
+      "en": "rail",
+      "cn": "栏杆，铁路路轨",
+      "property": "n"
+    },
+    {
+      "en": "depart",
+      "cn": "离开，启程",
+      "property": "v"
+    },
+    {
+      "en": "arrive",
+      "cn": "到达，取得成功",
+      "property": "v"
+    },
+    {
+      "en": "desination",
+      "cn": "目的地，终点",
+      "property": "n"
+    },
+    {
+      "en": "delay",
+      "cn": "耽搁，延期；使耽搁，使延期",
+      "property": "n，v"
+    },
+    {
+      "en": "postpone",
+      "cn": "推迟，使延期",
+      "property": "v"
+    },
+    {
+      "en": "defer",
+      "cn": "推迟，拖延",
+      "property": "v"
+    },
+    {
+      "en": "lull",
+      "cn": "暂停，暂时平静期；使昏昏欲睡",
+      "property": "n，v"
+    },
+    {
+      "en": "expire",
+      "cn": "期满；气绝，死亡",
+      "property": "v"
+    },
+    {
+      "en": "due",
+      "cn": "到期的，预期的",
+      "property": "adj"
+    },
+    {
+      "en": "postage",
+      "cn": "邮费，邮资",
+      "property": "n"
+    },
+    {
+      "en": "stamp",
+      "cn": "邮票，印章；在。。。贴邮票；盖章",
+      "property": "n，v"
+    },
+    {
+      "en": "envelope",
+      "cn": "信封",
+      "property": "n"
+    },
+    {
+      "en": "mail",
+      "cn": "邮件，邮包，邮政；邮寄",
+      "property": "n，v"
+    },
+    {
+      "en": "packet",
+      "cn": "包装盒；小件包裹",
+      "property": "n"
+    },
+    {
+      "en": "package",
+      "cn": "包裹，包装盒；包装",
+      "property": "n，v"
+    },
+    {
+      "en": "bind",
+      "cn": "捆，绑",
+      "property": "v"
+    },
+    {
+      "en": "parcel",
+      "cn": "打包，包；（土地的）一块，包裹",
+      "property": "v，n"
+    },
+    {
+      "en": "load",
+      "cn": "装载，装满；负荷，大量",
+      "property": "v，n"
+    },
+    {
+      "en": "burden",
+      "cn": "（使）负担；重担，负担",
+      "property": "v，n"
+    },
+    {
+      "en": "transfer",
+      "cn": "（使）迁移，转移，调动",
+      "property": "v"
+    },
+    {
+      "en": "transmit",
+      "cn": "传送，传播，传染，传输",
+      "property": "v"
+    },
+    {
+      "en": "transit",
+      "cn": "通过，运送；运输，通行，过境，中转",
+      "property": "v，n"
+    },
+    {
+      "en": "deliver",
+      "cn": "传送，递送",
+      "property": "v"
+    },
+    {
+      "en": "convey",
+      "cn": "运送，输送，表达，传递",
+      "property": "v"
+    },
+    {
+      "en": "speed",
+      "cn": "速度，迅速",
+      "property": "n"
+    },
+    {
+      "en": "velocity",
+      "cn": "速度",
+      "property": "n"
+    },
+    {
+      "en": "swift",
+      "cn": "迅速的，敏捷的",
+      "property": "adj"
     }
   ]
 }

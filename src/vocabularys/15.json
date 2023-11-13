@@ -1,0 +1,266 @@
+{
+  "chapter": 15,
+  "name": "government",
+  "vocabularys": [
+    {
+      "en": "republic",
+      "cn": "共和国，共和政体",
+      "property": "n"
+    },
+    {
+      "en": "Marxism",
+      "cn": "马克思主义",
+      "property": "n"
+    },
+    {
+      "en": "socialism",
+      "cn": "社会主义",
+      "property": "n"
+    },
+    {
+      "en": "communism",
+      "cn": "共产主义",
+      "property": "n"
+    },
+    {
+      "en": "regime",
+      "cn": "政权，政体，统治制度",
+      "property": "n"
+    },
+    {
+      "en": "government",
+      "cn": "政府",
+      "property": "n"
+    },
+    {
+      "en": "autority",
+      "cn": "权利，权威人士，行政机构，当局",
+      "property": "n"
+    },
+    {
+      "en": "political",
+      "cn": "政治的，政党的",
+      "property": "n"
+    },
+    {
+      "en": "hierarchy",
+      "cn": "等级制度，统治集团",
+      "property": "n"
+    },
+    {
+      "en": "democracy",
+      "cn": "民主，民主政治",
+      "property": "n"
+    },
+    {
+      "en": "bureaucracy",
+      "cn": "官僚制度，官僚作风",
+      "property": "n"
+    },
+    {
+      "en": "egalitarian",
+      "cn": "平等主义的，平等主义者",
+      "property": "adj，n"
+    },
+    {
+      "en": "materialism",
+      "cn": "唯物主义，唯物论",
+      "property": "n"
+    },
+    {
+      "en": "revolution",
+      "cn": "革命，巨大变化",
+      "property": "n"
+    },
+    {
+      "en": "reform",
+      "cn": "改革，改良；",
+      "property": "n，v"
+    },
+    {
+      "en": "process",
+      "cn": "过程，进程；加工，处理",
+      "property": "n，v"
+    },
+    {
+      "en": "conservative",
+      "cn": "保守的，保守党党员",
+      "property": "adj，n"
+    },
+    {
+      "en": "meltdown",
+      "cn": "崩溃",
+      "property": "n"
+    },
+    {
+      "en": "municipal",
+      "cn": "市政的，地方政府的",
+      "property": "adj"
+    },
+    {
+      "en": "neutral",
+      "cn": "中立的，中立国的",
+      "property": "adj"
+    },
+    {
+      "en": "bilateral",
+      "cn": "双边的",
+      "property": "adj"
+    },
+    {
+      "en": "arena",
+      "cn": "竞技场，舞台，运动场",
+      "property": "n"
+    },
+    {
+      "en": "flag",
+      "cn": "旗子",
+      "property": "n"
+    },
+    {
+      "en": "banner",
+      "cn": "横幅，标语",
+      "property": "n"
+    },
+    {
+      "en": "president",
+      "cn": "总统，校长",
+      "property": "n"
+    },
+    {
+      "en": "premier",
+      "cn": "总理，首相；首要的，第一的",
+      "property": "n，adj"
+    },
+    {
+      "en": "minister",
+      "cn": "部长，大臣，公使",
+      "property": "n"
+    },
+    {
+      "en": "secretary",
+      "cn": "秘书，书记，大臣",
+      "property": "n"
+    },
+    {
+      "en": "parliament",
+      "cn": "议会，国会",
+      "property": "n"
+    },
+    {
+      "en": "senate",
+      "cn": "参议院，大学理事会",
+      "property": "n"
+    },
+    {
+      "en": "conference",
+      "cn": "会议，正式会谈",
+      "property": "n"
+    },
+    {
+      "en": "meeting",
+      "cn": "会议，会面",
+      "property": "n"
+    },
+    {
+      "en": "headquarters",
+      "cn": "总部，司令部",
+      "property": "n"
+    },
+    {
+      "en": "delegation",
+      "cn": "代表团，委派",
+      "property": "n"
+    },
+    {
+      "en": "behalf",
+      "cn": "（on ～ of sb）代表某人",
+      "property": "n"
+    },
+    {
+      "en": "police",
+      "cn": "警察",
+      "property": "n"
+    },
+    {
+      "en": "statesman",
+      "cn": "政治家",
+      "property": "n"
+    },
+    {
+      "en": "mayor",
+      "cn": "市长",
+      "property": "n"
+    },
+    {
+      "en": "service",
+      "cn": "服务，公共服务事业",
+      "property": "n"
+    },
+    {
+      "en": "office",
+      "cn": "办公室",
+      "property": "n"
+    },
+    {
+      "en": "bureau",
+      "cn": "局，处，科，办事处",
+      "property": "n"
+    },
+    {
+      "en": "department",
+      "cn": "部门，（大学）系，所",
+      "property": "n"
+    },
+    {
+      "en": "harness",
+      "cn": "控制，利用",
+      "property": "v"
+    },
+    {
+      "en": "administration",
+      "cn": "管理，行政",
+      "property": "n"
+    },
+    {
+      "en": "dominate",
+      "cn": "支配，控制，占优势",
+      "property": "v"
+    },
+    {
+      "en": "power",
+      "cn": "能力，权利",
+      "property": "n"
+    },
+    {
+      "en": "influence",
+      "cn": "影响，作用",
+      "property": "v，n"
+    },
+    {
+      "en": "affect",
+      "cn": "影响，（感情上）打动，使悲伤",
+      "property": "v"
+    },
+    {
+      "en": "importance",
+      "cn": "重要，重要性",
+      "property": "n"
+    },
+    {
+      "en": "significance",
+      "cn": "重要性，意义",
+      "property": "n"
+    },
+    {
+      "en": "organisation",
+      "cn": "组织，团体，机构",
+      "property": "n"
+    },
+    {
+      "en": "association",
+      "cn": "协会，团体，关联",
+      "property": "n"
+    }
+  ]
+}

@@ -261,6 +261,391 @@
       "en": "association",
       "cn": "协会，团体，关联",
       "property": "n"
+    },
+    {
+      "en": "union",
+      "cn": "联合，联盟，工会",
+      "property": "n"
+    },
+    {
+      "en": "community",
+      "cn": "社区，群体",
+      "property": "n"
+    },
+    {
+      "en": "consortium",
+      "cn": "财团，联营企业",
+      "property": "n"
+    },
+    {
+      "en": "league",
+      "cn": "联赛，联盟，同盟",
+      "property": "n"
+    },
+    {
+      "en": "institution",
+      "cn": "社会福利机构，机构",
+      "property": "n"
+    },
+    {
+      "en": "unite",
+      "cn": "（使）联合，团结",
+      "property": "n"
+    },
+    {
+      "en": "unique",
+      "cn": "独一无二的，唯一的，独特的",
+      "property": "adj"
+    },
+    {
+      "en": "nation",
+      "cn": "国家，民族，国民",
+      "property": "n"
+    },
+    {
+      "en": "global",
+      "cn": "全球的，全世界的",
+      "property": "adj"
+    },
+    {
+      "en": "worldwide",
+      "cn": "世界范围的，遍及全球的",
+      "property": "adj"
+    },
+    {
+      "en": "federal",
+      "cn": "联邦的，联合的",
+      "property": "adj"
+    },
+    {
+      "en": "foreign",
+      "cn": "外国的，外来的，外交的",
+      "property": "adj"
+    },
+    {
+      "en": "overseas",
+      "cn": "海外的，国外的；向海外，在国外",
+      "property": "adj，adv"
+    },
+    {
+      "en": "abroad",
+      "cn": "在国外，到国外；广为流传",
+      "property": "adv"
+    },
+    {
+      "en": "civil",
+      "cn": "公民的，国内的，民用的，斯文的",
+      "property": "adj"
+    },
+    {
+      "en": "emigrate",
+      "cn": "移居国外",
+      "property": "v"
+    },
+    {
+      "en": "immigrate",
+      "cn": "移居，移入",
+      "property": "v"
+    },
+    {
+      "en": "reign",
+      "cn": "君主统治时期；统治",
+      "property": "n，v"
+    },
+    {
+      "en": "puppet",
+      "cn": "玩偶，傀儡",
+      "property": "n"
+    },
+    {
+      "en": "throne",
+      "cn": "王座，宝座",
+      "property": "n"
+    },
+    {
+      "en": "crown",
+      "cn": "王冠；为。。。加冕",
+      "property": "n，v"
+    },
+    {
+      "en": "wreath",
+      "cn": "花环，花冠；花圈",
+      "property": "n"
+    },
+    {
+      "en": "colony",
+      "cn": "殖民地",
+      "property": "n"
+    },
+    {
+      "en": "liberty",
+      "cn": "自由",
+      "property": "n"
+    },
+    {
+      "en": "independence",
+      "cn": "独立，自立",
+      "property": "n"
+    },
+    {
+      "en": "slum",
+      "cn": "贫民窟",
+      "property": "n"
+    },
+    {
+      "en": "refuge",
+      "cn": "避难，庇护；避难所",
+      "property": "n"
+    },
+    {
+      "en": "asylum",
+      "cn": "庇护，庇护所，精神病院",
+      "property": "n"
+    },
+    {
+      "en": "population",
+      "cn": "人口，人口数量",
+      "property": "n"
+    },
+    {
+      "en": "demographic",
+      "cn": "人口学的，人口统计学的",
+      "property": "adj"
+    },
+    {
+      "en": "citizen",
+      "cn": "市民，公民",
+      "property": "n"
+    },
+    {
+      "en": "resident",
+      "cn": "居民，居住的",
+      "property": "n，adj"
+    },
+    {
+      "en": "ethnic",
+      "cn": "民族的，种族的",
+      "property": "adj"
+    },
+    {
+      "en": "racial",
+      "cn": "种族的，人种的",
+      "property": "adj"
+    },
+    {
+      "en": "clan",
+      "cn": "宗教，家族，帮派",
+      "property": "n"
+    },
+    {
+      "en": "franchise",
+      "cn": "出售。。。的特许经营权；特许权",
+      "property": "v，n"
+    },
+    {
+      "en": "entitle",
+      "cn": "给。。。权利；给。。。题名",
+      "property": "v"
+    },
+    {
+      "en": "preference",
+      "cn": "偏爱，优先权",
+      "property": "n"
+    },
+    {
+      "en": "vote",
+      "cn": "选举权，投票；表决，投票",
+      "property": "n，v"
+    },
+    {
+      "en": "elect",
+      "cn": "选举，选择",
+      "property": "v"
+    },
+    {
+      "en": "respondent",
+      "cn": "（民意调查的）调查对象",
+      "property": "n"
+    },
+    {
+      "en": "poll",
+      "cn": "民意调查；选举投票；投票数",
+      "property": "n"
+    },
+    {
+      "en": "ambition",
+      "cn": "雄心，抱负",
+      "property": "n"
+    },
+    {
+      "en": "nominate",
+      "cn": "提名，任命",
+      "property": "v"
+    },
+    {
+      "en": "checklist",
+      "cn": "清单，选民花名册",
+      "property": "n"
+    },
+    {
+      "en": "succession",
+      "cn": "连续，继承权，继位",
+      "property": "n"
+    },
+    {
+      "en": "safety",
+      "cn": "安全，安全场所",
+      "property": "n"
+    },
+    {
+      "en": "welfare",
+      "cn": "健康，幸福",
+      "property": "n"
+    },
+    {
+      "en": "well-bing",
+      "cn": "康乐，安宁",
+      "property": "n"
+    },
+    {
+      "en": "harmony",
+      "cn": "协调，和谐；融洽；和声",
+      "property": "n"
+    },
+    {
+      "en": "steady",
+      "cn": "稳定的，平稳的",
+      "property": "adj"
+    },
+    {
+      "en": "flourish",
+      "cn": "繁荣，兴旺，茁壮成长",
+      "property": "v"
+    },
+    {
+      "en": "succeed",
+      "cn": "成功",
+      "property": "v"
+    },
+    {
+      "en": "prospect",
+      "cn": "希望，可能性，风景",
+      "property": "n"
+    },
+    {
+      "en": "perspective",
+      "cn": "观点，景观",
+      "property": "n"
+    },
+    {
+      "en": "viewpoint",
+      "cn": "观点，看法，视角",
+      "property": "n"
+    },
+    {
+      "en": "standpoint",
+      "cn": "立场，立足点",
+      "property": "n"
+    },
+    {
+      "en": "outlook",
+      "cn": "（对生活的）观点，展望，前景",
+      "property": "n"
+    },
+    {
+      "en": "guideline",
+      "cn": "指导方针",
+      "property": "n"
+    },
+    {
+      "en": "ethic",
+      "cn": "行为准则，道德规范，伦理标准",
+      "property": "n"
+    },
+    {
+      "en": "suggest",
+      "cn": "建议，暗示",
+      "property": "v"
+    },
+    {
+      "en": "advise",
+      "cn": "劝告，建议，通知",
+      "property": "v"
+    },
+    {
+      "en": "proposal",
+      "cn": "提议，建议",
+      "property": "n"
+    },
+    {
+      "en": "hint",
+      "cn": "暗示，提示",
+      "property": "n"
+    },
+    {
+      "en": "declare",
+      "cn": "宣布，宣告，宣称，声称",
+      "property": "v"
+    },
+    {
+      "en": "affirm",
+      "cn": "断言，坚持声称，证实",
+      "property": "v"
+    },
+    {
+      "en": "claim",
+      "cn": "声称，主张，索赔；声称，要求",
+      "property": "n，v"
+    },
+    {
+      "en": "proclaim",
+      "cn": "声明，清楚地表明",
+      "property": "v"
+    },
+    {
+      "en": "state",
+      "cn": "陈述，说明；国家，州，状况",
+      "property": "v，n"
+    },
+    {
+      "en": "announce",
+      "cn": "宣布，通知",
+      "property": "v"
+    },
+    {
+      "en": "clarify",
+      "cn": "澄清，阐明",
+      "property": "v"
+    },
+    {
+      "en": "assist",
+      "cn": "帮助，协助",
+      "property": "v"
+    },
+    {
+      "en": "aid",
+      "cn": "救援物资，辅助物；救助",
+      "property": "n"
+    },
+    {
+      "en": "encourage",
+      "cn": "鼓励，激励，怂恿",
+      "property": "v"
+    },
+    {
+      "en": "implement",
+      "cn": "实施，执行；工具，器具",
+      "property": "v，n"
+    },
+    {
+      "en": "monitor",
+      "cn": "监视，监听；警示器，班长",
+      "property": "v，n"
+    },
+    {
+      "en": "admit",
+      "cn": "承认，供认",
+      "property": "n"
     }
   ]
 }

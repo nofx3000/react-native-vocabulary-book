@@ -1,0 +1,261 @@
+{
+  "chapter": 16,
+  "name": "economy",
+  "vocabularys": [
+    {
+      "en": "economy",
+      "cn": "经济，节约",
+      "property": "n"
+    },
+    {
+      "en": "trade",
+      "cn": "贸易，交换",
+      "property": "n，v"
+    },
+    {
+      "en": "market",
+      "cn": "市场，市场需求",
+      "property": "n"
+    },
+    {
+      "en": "industry",
+      "cn": "工业，产业",
+      "property": "n"
+    },
+    {
+      "en": "merchant",
+      "cn": "商人；商业的",
+      "property": "n，adj"
+    },
+    {
+      "en": "financial",
+      "cn": "财政的，金融的",
+      "property": "adj"
+    },
+    {
+      "en": "fund",
+      "cn": "资助；基金",
+      "property": "v，n"
+    },
+    {
+      "en": "donate",
+      "cn": "捐赠，捐献",
+      "property": "v"
+    },
+    {
+      "en": "endow",
+      "cn": "捐赠，赋予",
+      "property": "v"
+    },
+    {
+      "en": "commercial",
+      "cn": "商业的；商业广告",
+      "property": "adj，n"
+    },
+    {
+      "en": "advertise",
+      "cn": "做广告",
+      "property": "v"
+    },
+    {
+      "en": "slogan",
+      "cn": "标语，口号",
+      "property": "n"
+    },
+    {
+      "en": "purchase",
+      "cn": "购买",
+      "property": "n/v"
+    },
+    {
+      "en": "lease",
+      "cn": "租约；出租，租用",
+      "property": "n，v"
+    },
+    {
+      "en": "afford",
+      "cn": "负担得起；提供，给予",
+      "property": "v"
+    },
+    {
+      "en": "retail",
+      "cn": "零售",
+      "property": "v，n"
+    },
+    {
+      "en": "chain",
+      "cn": "连锁店，一连串",
+      "property": "n"
+    },
+    {
+      "en": "grocery",
+      "cn": "杂货店",
+      "property": "n"
+    },
+    {
+      "en": "discount",
+      "cn": "折扣，打折出售",
+      "property": "n，v"
+    },
+    {
+      "en": "promotion",
+      "cn": "促销活动，晋升",
+      "property": "n"
+    },
+    {
+      "en": "voucher",
+      "cn": "代金券",
+      "property": "n"
+    },
+    {
+      "en": "coupon",
+      "cn": "优惠券",
+      "property": "n"
+    },
+    {
+      "en": "currency",
+      "cn": "货币，流行，通用",
+      "property": "n"
+    },
+    {
+      "en": "exchange",
+      "cn": "交换，兑换",
+      "property": "n"
+    },
+    {
+      "en": "swap",
+      "cn": "交换",
+      "property": "n，v"
+    },
+    {
+      "en": "receipt",
+      "cn": "收据，收到",
+      "property": "n"
+    },
+    {
+      "en": "invoice",
+      "cn": "发票；开发票给",
+      "property": "n，v"
+    },
+    {
+      "en": "tax",
+      "cn": "税；对。。。征税",
+      "property": "n，v"
+    },
+    {
+      "en": "levy",
+      "cn": "税款；征收，征税",
+      "property": "n，v"
+    },
+    {
+      "en": "tariff",
+      "cn": "关税，收费",
+      "property": "n"
+    },
+    {
+      "en": "duty",
+      "cn": "职责，义务，关税",
+      "property": "n"
+    },
+    {
+      "en": "impose",
+      "cn": "强加，征税",
+      "property": "v"
+    },
+    {
+      "en": "consume",
+      "cn": "消耗，吃，喝",
+      "property": "v"
+    },
+    {
+      "en": "spend",
+      "cn": "花费，开支",
+      "property": "v，n"
+    },
+    {
+      "en": "cost",
+      "cn": "需付费；费用",
+      "property": "v，n"
+    },
+    {
+      "en": "expense",
+      "cn": "费用，花费",
+      "property": "n"
+    },
+    {
+      "en": "revenue",
+      "cn": "收入；税收，财政收入",
+      "property": "n"
+    },
+    {
+      "en": "gross",
+      "cn": "总的，毛的（GDP）",
+      "property": "adj"
+    },
+    {
+      "en": "recession",
+      "cn": "经济衰退",
+      "property": "n"
+    },
+    {
+      "en": "depression",
+      "cn": "沮丧，消沉；萧条期，不景气",
+      "property": "n"
+    },
+    {
+      "en": "crisis",
+      "cn": "危机",
+      "property": "n"
+    },
+    {
+      "en": "security",
+      "cn": "安全工作，安全，【securities】证券",
+      "property": "n"
+    },
+    {
+      "en": "bond",
+      "cn": "债券",
+      "property": "n"
+    },
+    {
+      "en": "debt",
+      "cn": "债务",
+      "property": "n"
+    },
+    {
+      "en": "deficit",
+      "cn": "赤字，逆差",
+      "property": "n"
+    },
+    {
+      "en": "inflation",
+      "cn": "通货膨胀",
+      "property": "n"
+    },
+    {
+      "en": "deflation",
+      "cn": "通货紧缩",
+      "property": "n"
+    },
+    {
+      "en": "dwindle",
+      "cn": "缩小，减少",
+      "property": "v"
+    },
+    {
+      "en": "decrease",
+      "cn": "减少，减小；（使）减少，减小",
+      "property": "n，v"
+    },
+    {
+      "en": "downsize",
+      "cn": "使精简，裁员",
+      "property": "v"
+    },
+    {
+      "en": "decline",
+      "cn": "下降",
+      "property": "n/v"
+    }
+  ]
+}

@@ -256,6 +256,606 @@
       "en": "decline",
       "cn": "下降",
       "property": "n/v"
+    },
+    {
+      "en": "diminish",
+      "cn": "（使）减少，贬低",
+      "property": "v"
+    },
+    {
+      "en": "reduce",
+      "cn": "减少，减小",
+      "property": "v"
+    },
+    {
+      "en": "increase",
+      "cn": "增长，增加",
+      "property": "n"
+    },
+    {
+      "en": "increment",
+      "cn": "增加量",
+      "property": "n"
+    },
+    {
+      "en": "growth",
+      "cn": "增长，生长",
+      "property": "n"
+    },
+    {
+      "en": "escalate",
+      "cn": "（使）逐步升级，（使）不断恶化",
+      "property": "n"
+    },
+    {
+      "en": "expand",
+      "cn": "扩充，扩大，扩展",
+      "property": "n"
+    },
+    {
+      "en": "influx",
+      "cn": "流入，涌进",
+      "property": "n"
+    },
+    {
+      "en": "affluent",
+      "cn": "富裕的，富足的",
+      "property": "adj"
+    },
+    {
+      "en": "enrich",
+      "cn": "使富有，充实",
+      "property": "v"
+    },
+    {
+      "en": "sufficent",
+      "cn": "足够的",
+      "property": "adj"
+    },
+    {
+      "en": "adequate",
+      "cn": "足够的，合格的",
+      "property": "adj"
+    },
+    {
+      "en": "spare",
+      "cn": "多余的，空闲的；剩余",
+      "property": "adj，v"
+    },
+    {
+      "en": "saving",
+      "cn": "节约，节省",
+      "property": "n"
+    },
+    {
+      "en": "redundant",
+      "cn": "多余的，被裁减的",
+      "property": "adj"
+    },
+    {
+      "en": "lack",
+      "cn": "缺乏，不足；减少，没有",
+      "property": "n，v"
+    },
+    {
+      "en": "company",
+      "cn": "公司，陪伴，剧团",
+      "property": "n"
+    },
+    {
+      "en": "firm",
+      "cn": "公司；坚定的，坚固的",
+      "property": "n，adj"
+    },
+    {
+      "en": "enterprise",
+      "cn": "企业，事业",
+      "property": "n"
+    },
+    {
+      "en": "agent",
+      "cn": "代理人，代理商",
+      "property": "n"
+    },
+    {
+      "en": "entity",
+      "cn": "实体，独立存在物",
+      "property": "n"
+    },
+    {
+      "en": "invest",
+      "cn": "投资，投入",
+      "property": "v"
+    },
+    {
+      "en": "input",
+      "cn": "输入信息，投入物",
+      "property": "n"
+    },
+    {
+      "en": "product",
+      "cn": "产品，产物",
+      "property": "n"
+    },
+    {
+      "en": "acquisition",
+      "cn": "获得；并购",
+      "property": "n"
+    },
+    {
+      "en": "goods",
+      "cn": "商品，货物",
+      "property": "n"
+    },
+    {
+      "en": "cargo",
+      "cn": "货物",
+      "property": "n"
+    },
+    {
+      "en": "insure",
+      "cn": "确保；给。。上保险",
+      "property": "v"
+    },
+    {
+      "en": "guarantee",
+      "cn": "担保，确保；保证，保修单，保证金",
+      "property": "v，n"
+    },
+    {
+      "en": "reliable",
+      "cn": "可靠的，可信赖的",
+      "property": "adj"
+    },
+    {
+      "en": "negotiation",
+      "cn": "谈判，协商",
+      "property": "n"
+    },
+    {
+      "en": "attend",
+      "cn": "参加，出席",
+      "property": "n"
+    },
+    {
+      "en": "absent",
+      "cn": "不在场的，缺席的；心不在焉的",
+      "property": "adj"
+    },
+    {
+      "en": "sale",
+      "cn": "卖，销售，销售额",
+      "property": "n"
+    },
+    {
+      "en": "wholesale",
+      "cn": "批发",
+      "property": "n"
+    },
+    {
+      "en": "auction",
+      "cn": "拍卖",
+      "property": "n/v"
+    },
+    {
+      "en": "bid",
+      "cn": "出价，投标",
+      "property": "n/v"
+    },
+    {
+      "en": "deal",
+      "cn": "买卖；处理，应付；协议，交易，大量",
+      "property": "v，n"
+    },
+    {
+      "en": "transaction",
+      "cn": "交易，业务",
+      "property": "n"
+    },
+    {
+      "en": "turnover",
+      "cn": "流动率，营业额",
+      "property": "n"
+    },
+    {
+      "en": "dump",
+      "cn": "丢弃，倾倒，倾销",
+      "property": "v"
+    },
+    {
+      "en": "export",
+      "cn": "出口，出口商品",
+      "property": "v，n"
+    },
+    {
+      "en": "import",
+      "cn": "进口，进口商品",
+      "property": "v，n"
+    },
+    {
+      "en": "quota",
+      "cn": "限额，配额，定额",
+      "property": "n"
+    },
+    {
+      "en": "share",
+      "cn": "股份，股票；分享",
+      "property": "n"
+    },
+    {
+      "en": "benefit",
+      "cn": "益处；有利于，获益",
+      "property": "n，v"
+    },
+    {
+      "en": "interest",
+      "cn": "兴趣，利益，利息；使感兴趣",
+      "property": "n，v"
+    },
+    {
+      "en": "dividend",
+      "cn": "股息，红利",
+      "property": "n"
+    },
+    {
+      "en": "stock",
+      "cn": "股本，股票，库存",
+      "property": "n"
+    },
+    {
+      "en": "account",
+      "cn": "账户，解释",
+      "property": "n"
+    },
+    {
+      "en": "deposit",
+      "cn": "存款，押金",
+      "property": "n"
+    },
+    {
+      "en": "instalment",
+      "cn": "（分期付款的）一期付款",
+      "property": "n"
+    },
+    {
+      "en": "cheque",
+      "cn": "支票",
+      "property": "n"
+    },
+    {
+      "en": "cash",
+      "cn": "现金；兑现（支票）",
+      "property": "n，v"
+    },
+    {
+      "en": "coin",
+      "cn": "硬币；铸币",
+      "property": "n，v"
+    },
+    {
+      "en": "shilling",
+      "cn": "先令",
+      "property": "n"
+    },
+    {
+      "en": "copper",
+      "cn": "铜，铜币，警察",
+      "property": "n"
+    },
+    {
+      "en": "treasure",
+      "cn": "财宝",
+      "property": "n"
+    },
+    {
+      "en": "wealth",
+      "cn": "财富，丰富",
+      "property": "n"
+    },
+    {
+      "en": "estate",
+      "cn": "地产，遗产",
+      "property": "n"
+    },
+    {
+      "en": "possess",
+      "cn": "占用，拥有；影响，控制",
+      "property": "v"
+    },
+    {
+      "en": "legacy",
+      "cn": "遗赠，遗产",
+      "property": "n"
+    },
+    {
+      "en": "descend",
+      "cn": "下降，下来",
+      "property": "v"
+    },
+    {
+      "en": "worthy",
+      "cn": "有价值的；值得。。。的",
+      "property": "adj"
+    },
+    {
+      "en": "valuable",
+      "cn": "很值钱的，贵重的；很重要的",
+      "property": "adj"
+    },
+    {
+      "en": "cheap",
+      "cn": "廉价的；质劣价低的",
+      "property": "adj"
+    },
+    {
+      "en": "incentive",
+      "cn": "刺激，激励，",
+      "property": "n"
+    },
+    {
+      "en": "accelerate",
+      "cn": "（使）加速",
+      "property": "v"
+    },
+    {
+      "en": "prompt",
+      "cn": "促使；迅速的",
+      "property": "v，adj"
+    },
+    {
+      "en": "salary",
+      "cn": "工资，薪水",
+      "property": "n"
+    },
+    {
+      "en": "income",
+      "cn": "收入",
+      "property": "n"
+    },
+    {
+      "en": "wage",
+      "cn": "工钱",
+      "property": "n"
+    },
+    {
+      "en": "payment",
+      "cn": "支付，支付的款项；付款额",
+      "property": "n"
+    },
+    {
+      "en": "refund",
+      "cn": "退款；退（款）",
+      "property": "n，v"
+    },
+    {
+      "en": "reimburse",
+      "cn": "赔偿，补偿",
+      "property": "v"
+    },
+    {
+      "en": "payroll",
+      "cn": "工资名单",
+      "property": "n"
+    },
+    {
+      "en": "remuneration",
+      "cn": "报酬",
+      "property": "n"
+    },
+    {
+      "en": "subsidy",
+      "cn": "津贴，补贴",
+      "property": "n"
+    },
+    {
+      "en": "earn",
+      "cn": "赚得，赢得，获得",
+      "property": "v"
+    },
+    {
+      "en": "undertaking",
+      "cn": "任务，事业，许诺，保证",
+      "property": "n"
+    },
+    {
+      "en": "career",
+      "cn": "职业，事业；职业生涯",
+      "property": "n"
+    },
+    {
+      "en": "profession",
+      "cn": "职业",
+      "property": "n"
+    },
+    {
+      "en": "occupation",
+      "cn": "占领，占据，职业",
+      "property": "n"
+    },
+    {
+      "en": "job",
+      "cn": "职业，工作",
+      "property": "n"
+    },
+    {
+      "en": "vocation",
+      "cn": "职业；使命感",
+      "property": "n"
+    },
+    {
+      "en": "labour",
+      "cn": "劳动力，体力劳动",
+      "property": "n"
+    },
+    {
+      "en": "workforce",
+      "cn": "劳动力；全体员工",
+      "property": "n"
+    },
+    {
+      "en": "workaholic",
+      "cn": "工作狂",
+      "property": "n"
+    },
+    {
+      "en": "personnel",
+      "cn": "人员，职员；人事部门",
+      "property": "n"
+    },
+    {
+      "en": "clerk",
+      "cn": "店员，办事员，接待员",
+      "property": "n"
+    },
+    {
+      "en": "interview",
+      "cn": "面试，采访；对。。。进行面试；",
+      "property": "n，v"
+    },
+    {
+      "en": "resume",
+      "cn": "简历，履历，摘要",
+      "property": "n"
+    },
+    {
+      "en": "recommend",
+      "cn": "推荐，介绍，劝告，建议",
+      "property": "v"
+    },
+    {
+      "en": "employ",
+      "cn": "雇佣，采用",
+      "property": "v"
+    },
+    {
+      "en": "hire",
+      "cn": "雇佣，租用；租赁",
+      "property": "v，n"
+    },
+    {
+      "en": "fire",
+      "cn": "解雇；火",
+      "property": "v，n"
+    },
+    {
+      "en": "lay-off",
+      "cn": "解雇，裁员",
+      "property": "n"
+    },
+    {
+      "en": "dismiss",
+      "cn": "解雇，解散；（法官）驳回",
+      "property": "n"
+    },
+    {
+      "en": "discharge",
+      "cn": "解雇；卸货",
+      "property": "v，n"
+    },
+    {
+      "en": "resign",
+      "cn": "辞职",
+      "property": "v"
+    },
+    {
+      "en": "sack",
+      "cn": "开除；大口袋，麻布袋",
+      "property": "v，n"
+    },
+    {
+      "en": "retire",
+      "cn": "（使）退休",
+      "property": "v"
+    },
+    {
+      "en": "result",
+      "cn": "后果，结果；导致",
+      "property": "n，v"
+    },
+    {
+      "en": "failure",
+      "cn": "失败，失败的人或事",
+      "property": "n"
+    },
+    {
+      "en": "abortion",
+      "cn": "人工流产；中途失败",
+      "property": "n"
+    },
+    {
+      "en": "loss",
+      "cn": "遗失，损失，亏损",
+      "property": "n"
+    },
+    {
+      "en": "opportunity",
+      "cn": "时机，机会",
+      "property": "n"
+    },
+    {
+      "en": "chance",
+      "cn": "机会，可能性",
+      "property": "n"
+    },
+    {
+      "en": "choose",
+      "cn": "选择",
+      "property": "v"
+    },
+    {
+      "en": "change",
+      "cn": "改变",
+      "property": "n"
+    },
+    {
+      "en": "solve",
+      "cn": "解答，解决",
+      "property": "v"
+    },
+    {
+      "en": "develop",
+      "cn": "发展，开发",
+      "property": "v"
+    },
+    {
+      "en": "sustainable",
+      "cn": "可持续的",
+      "property": "adj"
+    },
+    {
+      "en": "improve",
+      "cn": "改善，改进",
+      "property": "v"
+    },
+    {
+      "en": "manage",
+      "cn": "管理，设法做到",
+      "property": "v"
+    },
+    {
+      "en": "regulate",
+      "cn": "管理，调整",
+      "property": "v"
+    },
+    {
+      "en": "sanction",
+      "cn": "批准，制裁；对。。。实施制裁",
+      "property": "n，v"
+    },
+    {
+      "en": "coordinate",
+      "cn": "调和，协调；坐标",
+      "property": "v，n"
+    },
+    {
+      "en": "cooperate",
+      "cn": "合作，协作",
+      "property": "v"
+    },
+    {
+      "en": "collaborate",
+      "cn": "合作",
+      "property": "v"
     }
   ]
 }

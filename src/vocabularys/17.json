@@ -1,0 +1,281 @@
+{
+  "chapter": 17,
+  "name": "law",
+  "vocabularys": [
+    {
+      "en": "law",
+      "cn": "法律，法规，定理",
+      "property": "n"
+    },
+    {
+      "en": "legal",
+      "cn": "法律的，合法的",
+      "property": "adj"
+    },
+    {
+      "en": "rule",
+      "cn": "规则；统治",
+      "property": "n，v"
+    },
+    {
+      "en": "regulation",
+      "cn": "规则，规定；管理",
+      "property": "n"
+    },
+    {
+      "en": "item",
+      "cn": "项目",
+      "property": "n"
+    },
+    {
+      "en": "treaty",
+      "cn": "条约，协议",
+      "property": "n"
+    },
+    {
+      "en": "agreement",
+      "cn": "协定，同意",
+      "property": "n"
+    },
+    {
+      "en": "charter",
+      "cn": "宪章；租、包（车，船等）",
+      "property": "n，v"
+    },
+    {
+      "en": "protocol",
+      "cn": "议定书，协议；礼仪",
+      "property": "n"
+    },
+    {
+      "en": "norm",
+      "cn": "标准；行为准则，规范",
+      "property": "n"
+    },
+    {
+      "en": "benchmark",
+      "cn": "基准，水准点",
+      "property": "n"
+    },
+    {
+      "en": "criteria",
+      "cn": "标准，准则",
+      "property": "n"
+    },
+    {
+      "en": "standard",
+      "cn": "标准",
+      "property": "n"
+    },
+    {
+      "en": "permit",
+      "cn": "允许，准许",
+      "property": "v"
+    },
+    {
+      "en": "allow",
+      "cn": "允许，准许",
+      "property": "n"
+    },
+    {
+      "en": "admission",
+      "cn": "承认，入场费，准许进入",
+      "property": "n"
+    },
+    {
+      "en": "perform",
+      "cn": "履行，执行",
+      "property": "v"
+    },
+    {
+      "en": "enforce",
+      "cn": "强制执行；迫使",
+      "property": "v"
+    },
+    {
+      "en": "default",
+      "cn": "不支付，不履行；违约，默认值",
+      "property": "v，n"
+    },
+    {
+      "en": "reject",
+      "cn": "拒绝接受，摒弃",
+      "property": "v"
+    },
+    {
+      "en": "constraint",
+      "cn": "约束，限制；克制",
+      "property": "n"
+    },
+    {
+      "en": "official",
+      "cn": "官方的，正式的",
+      "property": "adj"
+    },
+    {
+      "en": "mandatory",
+      "cn": "法定的，强制的",
+      "property": "n"
+    },
+    {
+      "en": "potent",
+      "cn": "很有效的，强有力的",
+      "property": "adj"
+    },
+    {
+      "en": "bound",
+      "cn": "【be ～ to】一定会，很可能会，有义务",
+      "property": "n"
+    },
+    {
+      "en": "obligation",
+      "cn": "责任，义务",
+      "property": "n"
+    },
+    {
+      "en": "court",
+      "cn": "法院，庭院",
+      "property": "n"
+    },
+    {
+      "en": "supreme",
+      "cn": "最高的，最大的",
+      "property": "adj"
+    },
+    {
+      "en": "enact",
+      "cn": "通过（法律）；表演",
+      "property": "v"
+    },
+    {
+      "en": "legislate",
+      "cn": "立法，制定（或通过）法律",
+      "property": "n"
+    },
+    {
+      "en": "equity",
+      "cn": "公平",
+      "property": "n"
+    },
+    {
+      "en": "fair",
+      "cn": "公平的，公正的",
+      "property": "adj"
+    },
+    {
+      "en": "just",
+      "cn": "公正的，正义的；刚刚，仅仅",
+      "property": "adj，adv"
+    },
+    {
+      "en": "prejudice",
+      "cn": "偏见，成见",
+      "property": "n"
+    },
+    {
+      "en": "discrimination",
+      "cn": "歧视",
+      "property": "n"
+    },
+    {
+      "en": "accuse",
+      "cn": "控告，指责",
+      "property": "v"
+    },
+    {
+      "en": "sue",
+      "cn": "控告，提气诉讼，提出请求",
+      "property": "v"
+    },
+    {
+      "en": "prosecute",
+      "cn": "检举，起诉",
+      "property": "v"
+    },
+    {
+      "en": "condemn",
+      "cn": "谴责，指责",
+      "property": "v"
+    },
+    {
+      "en": "complain",
+      "cn": "抱怨，投诉",
+      "property": "v"
+    },
+    {
+      "en": "boycott",
+      "cn": "抵制，拒绝购买",
+      "property": "n/v"
+    },
+    {
+      "en": "session",
+      "cn": "会议，会期，会话",
+      "property": "n"
+    },
+    {
+      "en": "mediate",
+      "cn": "斡旋，调解",
+      "property": "v"
+    },
+    {
+      "en": "plea",
+      "cn": "请求，借口，辩解理由",
+      "property": "n"
+    },
+    {
+      "en": "appeal",
+      "cn": "呼吁，申诉",
+      "property": "v/n"
+    },
+    {
+      "en": "contradict",
+      "cn": "反驳，与。。。矛盾",
+      "property": "v"
+    },
+    {
+      "en": "persuade",
+      "cn": "说服，使相信",
+      "property": "v"
+    },
+    {
+      "en": "controversy",
+      "cn": "争议，辩论",
+      "property": "n"
+    },
+    {
+      "en": "whisper",
+      "cn": "低声说，私下讨论",
+      "property": "v"
+    },
+    {
+      "en": "mutter",
+      "cn": "轻声低语，小声抱怨",
+      "property": "v"
+    },
+    {
+      "en": "murmur",
+      "cn": "低声说；咕哝，低语",
+      "property": "v，n"
+    },
+    {
+      "en": "silent",
+      "cn": "沉默的，寂静无声的",
+      "property": "adj"
+    },
+    {
+      "en": "mute",
+      "cn": "哑的，无声的",
+      "property": "n"
+    },
+    {
+      "en": "investigate",
+      "cn": "调查",
+      "property": "v"
+    },
+    {
+      "en": "witness",
+      "cn": "见证人；目击",
+      "property": "n，v"
+    }
+  ]
+}

@@ -14,6 +14,7 @@ import chapter13 from '../../src/vocabularys/13.json';
 import chapter14 from '../../src/vocabularys/14.json';
 import chapter15 from '../../src/vocabularys/15.json';
 import chapter16 from '../../src/vocabularys/16.json';
+import chapter17 from '../../src/vocabularys/17.json';
 export default {
   chapter1,
   chapter2,
@@ -31,4 +32,5 @@ export default {
   chapter14,
   chapter15,
   chapter16,
+  chapter17,
 };

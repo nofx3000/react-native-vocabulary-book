@@ -276,6 +276,71 @@
       "en": "witness",
       "cn": "见证人；目击",
       "property": "n，v"
+    },
+    {
+      "en": "justify",
+      "cn": "为。。。辩护，证明。。。正当",
+      "property": "v"
+    },
+    {
+      "en": "reasonable",
+      "cn": "合理的，理智的",
+      "property": "adj"
+    },
+    {
+      "en": "suitable",
+      "cn": "合适的，适宜的",
+      "property": "adj"
+    },
+    {
+      "en": "judge",
+      "cn": "法官，裁判员",
+      "property": "n"
+    },
+    {
+      "en": "jury",
+      "cn": "陪审团，评判委员会",
+      "property": "n"
+    },
+    {
+      "en": "trial",
+      "cn": "试验，审判",
+      "property": "n"
+    },
+    {
+      "en": "suspect",
+      "cn": "嫌疑犯；怀疑",
+      "property": "n，v"
+    },
+    {
+      "en": "sentence",
+      "cn": "判决；宣判",
+      "property": "n，v"
+    },
+    {
+      "en": "arrest",
+      "cn": "逮捕",
+      "property": "v，n"
+    },
+    {
+      "en": "jail",
+      "cn": "监狱；监禁",
+      "property": "n，v"
+    },
+    {
+      "en": "prison",
+      "cn": "监狱，监禁",
+      "property": "n"
+    },
+    {
+      "en": "confine",
+      "cn": "边界，范围；限制，监禁",
+      "property": "n，v"
+    },
+    {
+      "en": "oversee",
+      "cn": "监督，监管",
+      "property": "v"
     }
   ]
 }

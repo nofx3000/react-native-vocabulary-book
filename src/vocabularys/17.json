@@ -341,6 +341,246 @@
       "en": "oversee",
       "cn": "监督，监管",
       "property": "v"
+    },
+    {
+      "en": "superivse",
+      "cn": "监督，管理，指导",
+      "property": "v"
+    },
+    {
+      "en": "restrict",
+      "cn": "限制，限定，约束",
+      "property": "v"
+    },
+    {
+      "en": "restrain",
+      "cn": "抑制，制止",
+      "property": "v"
+    },
+    {
+      "en": "commit",
+      "cn": "犯罪，做坏事",
+      "property": "v"
+    },
+    {
+      "en": "sin",
+      "cn": "罪孽；犯戒律",
+      "property": "n，v"
+    },
+    {
+      "en": "crime",
+      "cn": "罪行；犯罪活动",
+      "property": "n"
+    },
+    {
+      "en": "vice",
+      "cn": "罪行，缺点",
+      "property": "n"
+    },
+    {
+      "en": "bribe",
+      "cn": "贿赂；向。。。行贿",
+      "property": "n，v"
+    },
+    {
+      "en": "rob",
+      "cn": "抢劫，夺走",
+      "property": "v"
+    },
+    {
+      "en": "pirate",
+      "cn": "海盗；盗印，窃用",
+      "property": "n，v"
+    },
+    {
+      "en": "steal",
+      "cn": "偷，窃取，剽窃",
+      "property": "n"
+    },
+    {
+      "en": "thief",
+      "cn": "窃贼，偷窃犯",
+      "property": "n"
+    },
+    {
+      "en": "murder",
+      "cn": "谋杀",
+      "property": "n，v"
+    },
+    {
+      "en": "suicide",
+      "cn": "自杀",
+      "property": "n"
+    },
+    {
+      "en": "deceive",
+      "cn": "欺骗，误导",
+      "property": "v"
+    },
+    {
+      "en": "cheat",
+      "cn": "欺骗，作弊；作弊者",
+      "property": "v，n"
+    },
+    {
+      "en": "fraud",
+      "cn": "骗子，欺诈，赝品",
+      "property": "n"
+    },
+    {
+      "en": "trap",
+      "cn": "陷阱，诡计；诱骗",
+      "property": "n，v"
+    },
+    {
+      "en": "trick",
+      "cn": "诡计；哄骗",
+      "property": "n"
+    },
+    {
+      "en": "pretend",
+      "cn": "假装，假扮",
+      "property": "v"
+    },
+    {
+      "en": "fool",
+      "cn": "傻子，蠢人；欺骗",
+      "property": "n，v"
+    },
+    {
+      "en": "stigma",
+      "cn": "耻辱，污名",
+      "property": "n"
+    },
+    {
+      "en": "confess",
+      "cn": "供认，忏悔",
+      "property": "n"
+    },
+    {
+      "en": "conform",
+      "cn": "遵守；顺从；相符合",
+      "property": "v"
+    },
+    {
+      "en": "reconcile",
+      "cn": "使和解；调和",
+      "property": "v"
+    },
+    {
+      "en": "obey",
+      "cn": "顺从，服从",
+      "property": "v"
+    },
+    {
+      "en": "succumb",
+      "cn": "服从，屈从",
+      "property": "n"
+    },
+    {
+      "en": "penalty",
+      "cn": "惩罚，处罚",
+      "property": "n"
+    },
+    {
+      "en": "fine",
+      "cn": "罚款；美好的",
+      "property": "n，adj"
+    },
+    {
+      "en": "mortgage",
+      "cn": "抵押（房屋）借款；房屋抵押贷款",
+      "property": "v，n"
+    },
+    {
+      "en": "ownership",
+      "cn": "所有权，物主身份",
+      "property": "n"
+    },
+    {
+      "en": "copyright",
+      "cn": "版权",
+      "property": "n"
+    },
+    {
+      "en": "privilege",
+      "cn": "特权",
+      "property": "n"
+    },
+    {
+      "en": "accredit",
+      "cn": "把。。。归于；委任",
+      "property": "v"
+    },
+    {
+      "en": "clue",
+      "cn": "线索；提示",
+      "property": "n"
+    },
+    {
+      "en": "access",
+      "cn": "通路，入境；查阅的机会",
+      "property": "n"
+    },
+    {
+      "en": "anonymous",
+      "cn": "匿名的",
+      "property": "adj"
+    },
+    {
+      "en": "false",
+      "cn": "不正确的，虚假的，伪造的",
+      "property": "adj"
+    },
+    {
+      "en": "genuine",
+      "cn": "真诚的，真正的",
+      "property": "adj"
+    },
+    {
+      "en": "procedure",
+      "cn": "手续，程序",
+      "property": "n"
+    },
+    {
+      "en": "routine",
+      "cn": "例行公事，常规；惯例的",
+      "property": "n，adj"
+    },
+    {
+      "en": "consequence",
+      "cn": "后果",
+      "property": "n"
+    },
+    {
+      "en": "demand",
+      "cn": "需求，需要；要求",
+      "property": "v，n"
+    },
+    {
+      "en": "request",
+      "cn": "要求，请求",
+      "property": "n/v"
+    },
+    {
+      "en": "require",
+      "cn": "需要，命令，规定",
+      "property": "v"
+    },
+    {
+      "en": "petition",
+      "cn": "请求；请愿书，上诉",
+      "property": "v，n"
+    },
+    {
+      "en": "command",
+      "cn": "命令，指挥",
+      "property": "v，n"
+    },
+    {
+      "en": "instruct",
+      "cn": "指导，教授，通知，命令",
+      "property": "v"
     }
   ]
 }

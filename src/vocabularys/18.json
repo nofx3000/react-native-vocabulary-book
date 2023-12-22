@@ -1,0 +1,346 @@
+{
+  "chapter": 18,
+  "name": "warfare",
+  "vocabularys": [
+    {
+      "en": "violence",
+      "cn": "暴力",
+      "property": "n"
+    },
+    {
+      "en": "conflict",
+      "cn": "冲突",
+      "property": "n，v"
+    },
+    {
+      "en": "raid",
+      "cn": "突然，突然搜查",
+      "property": "n，v"
+    },
+    {
+      "en": "enormity",
+      "cn": "滔天大罪；巨大",
+      "property": "n"
+    },
+    {
+      "en": "campaign",
+      "cn": "战役，社会、政治活动；参加运动",
+      "property": "n，v"
+    },
+    {
+      "en": "battle",
+      "cn": "战役，战斗；与。。。战斗",
+      "property": "n，v"
+    },
+    {
+      "en": "struggle",
+      "cn": "挣扎，奋力，奋斗",
+      "property": "n，v"
+    },
+    {
+      "en": "explosion",
+      "cn": "爆发，爆炸，激增",
+      "property": "n"
+    },
+    {
+      "en": "bombard",
+      "cn": "轰炸，轰击，连珠炮般地质问",
+      "property": "v"
+    },
+    {
+      "en": "bomb",
+      "cn": "炸弹；轰炸",
+      "property": "n，v"
+    },
+    {
+      "en": "blast",
+      "cn": "爆炸；炸毁",
+      "property": "n，v"
+    },
+    {
+      "en": "burst",
+      "cn": "（使）爆炸、胀开；迸发，爆裂",
+      "property": "n，v"
+    },
+    {
+      "en": "spark",
+      "cn": "火花，火星",
+      "property": "n"
+    },
+    {
+      "en": "twinkle",
+      "cn": "闪烁，闪耀",
+      "property": "n，v"
+    },
+    {
+      "en": "gunpowder",
+      "cn": "火药",
+      "property": "n"
+    },
+    {
+      "en": "tank",
+      "cn": "坦克；罐，槽",
+      "property": "n"
+    },
+    {
+      "en": "cannon",
+      "cn": "大炮，加农炮",
+      "property": "n"
+    },
+    {
+      "en": "missile",
+      "cn": "导弹，投掷物",
+      "property": "n"
+    },
+    {
+      "en": "weapon",
+      "cn": "武器，兵器，手段",
+      "property": "n"
+    },
+    {
+      "en": "pistol",
+      "cn": "手枪",
+      "property": "n"
+    },
+    {
+      "en": "rifle",
+      "cn": "步枪",
+      "property": "n"
+    },
+    {
+      "en": "bullet",
+      "cn": "子弹，枪弹",
+      "property": "n"
+    },
+    {
+      "en": "target",
+      "cn": "靶子，目标",
+      "property": "n"
+    },
+    {
+      "en": "deflect",
+      "cn": "（使）偏斜、偏转；转移",
+      "property": "v"
+    },
+    {
+      "en": "mission",
+      "cn": "使命，重要任务",
+      "property": "n"
+    },
+    {
+      "en": "flame",
+      "cn": "火焰，强烈的情感",
+      "property": "n"
+    },
+    {
+      "en": "flare",
+      "cn": "火光，闪光信号灯；闪耀",
+      "property": "n，v"
+    },
+    {
+      "en": "glitter",
+      "cn": "闪烁，闪现；发光小物",
+      "property": "v，n"
+    },
+    {
+      "en": "glow",
+      "cn": "发出稳定的光；微弱稳定的光",
+      "property": "v，n"
+    },
+    {
+      "en": "blade",
+      "cn": "刃，锋",
+      "property": "n"
+    },
+    {
+      "en": "sword",
+      "cn": "刀，剑",
+      "property": "n"
+    },
+    {
+      "en": "ax",
+      "cn": "斧子",
+      "property": "n"
+    },
+    {
+      "en": "hammer",
+      "cn": "锤子，榔头；用锤击",
+      "property": "n，v"
+    },
+    {
+      "en": "bow",
+      "cn": "弓；蝴蝶结",
+      "property": "n"
+    },
+    {
+      "en": "arrow",
+      "cn": "箭头，箭",
+      "property": "n"
+    },
+    {
+      "en": "spear",
+      "cn": "矛，标枪；用尖刺刺穿",
+      "property": "n，v"
+    },
+    {
+      "en": "helmet",
+      "cn": "头盔，防护帽",
+      "property": "n"
+    },
+    {
+      "en": "shield",
+      "cn": "盾；防护",
+      "property": "n"
+    },
+    {
+      "en": "equip",
+      "cn": "配备，装备",
+      "property": "v"
+    },
+    {
+      "en": "prepare",
+      "cn": "准备",
+      "property": "v"
+    },
+    {
+      "en": "provide",
+      "cn": "提供",
+      "property": "v"
+    },
+    {
+      "en": "deploy",
+      "cn": "部署",
+      "property": "v"
+    },
+    {
+      "en": "hit",
+      "cn": "打击",
+      "property": "n，v"
+    },
+    {
+      "en": "beat",
+      "cn": "打击；节拍",
+      "property": "v，n"
+    },
+    {
+      "en": "strike",
+      "cn": "打击，突击；罢工",
+      "property": "n，v"
+    },
+    {
+      "en": "punch",
+      "cn": "打孔机，重拳击打；拳打，给。。。打孔",
+      "property": "n，v"
+    },
+    {
+      "en": "chop",
+      "cn": "切碎，劈",
+      "property": "n"
+    },
+    {
+      "en": "stab",
+      "cn": "刺，戳",
+      "property": "n，v"
+    },
+    {
+      "en": "dilemma",
+      "cn": "困境",
+      "property": "n"
+    },
+    {
+      "en": "plight",
+      "cn": "困境，誓约",
+      "property": "n"
+    },
+    {
+      "en": "pitfall",
+      "cn": "陷阱，危险，困难",
+      "property": "n"
+    },
+    {
+      "en": "conspiracy",
+      "cn": "阴谋，密谋，合谋",
+      "property": "n"
+    },
+    {
+      "en": "destitute",
+      "cn": "赤贫的，一无所有的，缺乏的",
+      "property": "adj"
+    },
+    {
+      "en": "famine",
+      "cn": "饥荒",
+      "property": "n"
+    },
+    {
+      "en": "starve",
+      "cn": "挨饿，饿死",
+      "property": "n"
+    },
+    {
+      "en": "deprive",
+      "cn": "剥夺",
+      "property": "v"
+    },
+    {
+      "en": "pervent",
+      "cn": "预防，防止，阻止",
+      "property": "v"
+    },
+    {
+      "en": "revolt",
+      "cn": "叛乱，反抗",
+      "property": "n，v"
+    },
+    {
+      "en": "betray",
+      "cn": "背叛，出卖，泄露",
+      "property": "v"
+    },
+    {
+      "en": "treason",
+      "cn": "叛国罪，通敌罪",
+      "property": "n"
+    },
+    {
+      "en": "rebel",
+      "cn": "反叛者；反抗，造反",
+      "property": "n，v"
+    },
+    {
+      "en": "traitor",
+      "cn": "叛徒",
+      "property": "n"
+    },
+    {
+      "en": "patriot",
+      "cn": "爱国者",
+      "property": "n"
+    },
+    {
+      "en": "blame",
+      "cn": "责备，指责；（对坏事应负的）责任",
+      "property": "n"
+    },
+    {
+      "en": "reproach",
+      "cn": "责备，指责",
+      "property": "n，v"
+    },
+    {
+      "en": "evidence",
+      "cn": "证据，根据",
+      "property": "n"
+    },
+    {
+      "en": "proof",
+      "cn": "证明，证据",
+      "property": "n"
+    },
+    {
+      "en": "terror",
+      "cn": "恐惧，恐慌",
+      "property": "n"
+    }
+  ]
+}
